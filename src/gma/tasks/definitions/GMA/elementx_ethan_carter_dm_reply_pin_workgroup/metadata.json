@@ -1,0 +1,9 @@
+{
+  "task_name": "elementx_ethan_carter_dm_reply_pin_workgroup",
+  "difficulty": "medium",
+  "app": [
+    "ElementX"
+  ],
+  "category": [],
+  "design_description": "task is implemented entirely in ElementX because the described actions are ElementX actions. It seeds Ethan Carter, Work Group 2, and an unpinned meeting message, then checks the DM, reply, and pinned state."
+}

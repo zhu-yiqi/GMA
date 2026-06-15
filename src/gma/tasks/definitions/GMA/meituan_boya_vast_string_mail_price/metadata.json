@@ -1,0 +1,13 @@
+{
+  "task_name": "meituan_boya_vast_string_mail_price",
+  "difficulty": "hard",
+  "app": [
+    "Meituan",
+    "Mail"
+  ],
+  "category": [
+    "Conditional Tasks",
+    "Multi-Step Workflow Tasks"
+  ],
+  "design_description": "Uses the existing CHAGEE catalog item boya vast string and its stable price 17.00, plus a Mail account. Evaluation checks restaurant favorite, one paid order, and exact price email."
+}

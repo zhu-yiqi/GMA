@@ -1,0 +1,9 @@
+{
+  "task_name": "meituan_review_wallace_single_set_order",
+  "difficulty": "easy",
+  "app": [
+    "Meituan"
+  ],
+  "category": [],
+  "design_description": "Binds the existing Single set of 5 pieces food to the existing Wallace restaurant, seeds a completed paid order, and evaluates the exact 5-star store/delivery comment text."
+}

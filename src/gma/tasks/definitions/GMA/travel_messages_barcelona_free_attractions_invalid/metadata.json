@@ -1,0 +1,11 @@
+{
+  "task_name": "travel_messages_barcelona_free_attractions_invalid",
+  "difficulty": "hard",
+  "app": [
+    "Travel"
+  ],
+  "category": [
+    "Invalid-Instruction Tasks"
+  ],
+  "design_description": "Travel has only four free Barcelona attractions. The task expects the agent to detect that ten are unavailable, ask the user, then bookmark all available free Barcelona attractions."
+}

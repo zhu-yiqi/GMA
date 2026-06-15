@@ -1,0 +1,10 @@
+{
+  "task_name": "xiaoshiliu_multi_category_engagement_post",
+  "difficulty": "hard",
+  "app": [
+    "XiaoShiLiu",
+    "Gallery"
+  ],
+  "category": [],
+  "design_description": "Creates a retained XiaoShiLiu Travel post with three task-local Gallery images, then evaluates cross-category like, follow, save, and comment actions on seeded XiaoShiLiu posts. The post is not deleted, so the created content and uploaded image identities remain directly evaluable."
+}

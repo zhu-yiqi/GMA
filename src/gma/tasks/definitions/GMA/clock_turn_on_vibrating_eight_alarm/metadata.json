@@ -1,0 +1,9 @@
+{
+  "task_name": "clock_turn_on_vibrating_eight_alarm",
+  "difficulty": "medium",
+  "app": [
+    "Clock"
+  ],
+  "category": [],
+  "design_description": "task rewritten in English. Two off 8:00 AM alarms are seeded; only one already has vibration enabled. Evaluation checks the vibrating one was turned on while the quiet one stayed unchanged."
+}

@@ -1,0 +1,11 @@
+{
+  "task_name": "meituan_kfc_reorder_recommend_breakfast",
+  "difficulty": "medium",
+  "app": [
+    "Meituan"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ],
+  "design_description": "Task seeds a prior KFC order and now makes the new order depend on it: the agent must include the same item from the existing order, plus the specified Recommend and Breakfast items. Evaluation checks a paid KFC order containing all four required foods, and the shared Meituan order probe scans for an exact matching order instead of only the timestamp-latest order."
+}

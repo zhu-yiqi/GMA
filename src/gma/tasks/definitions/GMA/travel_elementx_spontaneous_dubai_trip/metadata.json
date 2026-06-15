@@ -1,0 +1,10 @@
+{
+  "task_name": "travel_elementx_spontaneous_dubai_trip",
+  "difficulty": "hard",
+  "app": [
+    "Travel",
+    "ElementX"
+  ],
+  "category": [],
+  "design_description": "task resolves the Dubai trip to a one-way British Airways BA2579 booking because the Travel app only persists one flight booking from the UI, and evaluates that booking plus the Jack DM."
+}

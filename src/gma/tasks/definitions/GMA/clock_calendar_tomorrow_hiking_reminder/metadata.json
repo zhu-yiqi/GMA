@@ -1,0 +1,10 @@
+{
+  "task_name": "clock_calendar_tomorrow_hiking_reminder",
+  "difficulty": "medium",
+  "app": [
+    "Clock",
+    "Calendar"
+  ],
+  "category": [],
+  "design_description": "task rewritten in English. The emulator date is fixed at October 1, 2026, so tomorrow is October 2, 2026. Evaluation checks both the one-off 9:00 AM alarm with vibration and the matching Calendar event."
+}

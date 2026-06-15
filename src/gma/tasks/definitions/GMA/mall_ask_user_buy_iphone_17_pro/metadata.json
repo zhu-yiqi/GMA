@@ -1,0 +1,11 @@
+{
+  "task_name": "mall_ask_user_buy_iphone_17_pro",
+  "difficulty": "medium",
+  "app": [
+    "Mall"
+  ],
+  "category": [
+    "Information-Gathering Tasks"
+  ],
+  "design_description": "task rewritten as an intentionally ambiguous iPhone purchase. The simulated user resolves the model to the existing iPhone 17 Pro catalog product. Evaluation checks checkout to the first seeded address."
+}

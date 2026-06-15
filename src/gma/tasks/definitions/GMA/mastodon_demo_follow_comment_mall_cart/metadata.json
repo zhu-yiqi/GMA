@@ -1,0 +1,12 @@
+{
+  "task_name": "mastodon_demo_follow_comment_mall_cart",
+  "difficulty": "medium",
+  "app": [
+    "Mastodon",
+    "Mall"
+  ],
+  "category": [
+    "Conditional Tasks"
+  ],
+  "design_description": "task seeds demo as not followed, so the follow branch is true. The Mall item is bound to the existing iPhone 17 Pro product SN used by other Mall tasks; evaluation checks the follow, comment, and product favorite."
+}

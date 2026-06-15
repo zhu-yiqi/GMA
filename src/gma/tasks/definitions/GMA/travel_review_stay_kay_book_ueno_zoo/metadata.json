@@ -1,0 +1,11 @@
+{
+  "task_name": "travel_review_stay_kay_book_ueno_zoo",
+  "difficulty": "medium",
+  "app": [
+    "Travel"
+  ],
+  "category": [
+    "Conditional Tasks"
+  ],
+  "design_description": "Implements task by seeding a completed unreviewed Stay-Kay booking, asking for reviewing the hotel from that booking if needed, and checking the conditional hotel review plus a supported Ueno Zoo attraction booking."
+}

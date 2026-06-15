@@ -1,0 +1,9 @@
+{
+  "task_name": "mail_reply_to_latest_inbox_update",
+  "difficulty": "easy",
+  "app": [
+    "Mail"
+  ],
+  "category": [],
+  "design_description": "task seeds three inbox emails with explicit timestamps so the newest message is deterministic. The public goal quotes the exact reply body \"Got it.\", and AssetExists verifies a sent reply to the latest sender with the expected reply reference."
+}

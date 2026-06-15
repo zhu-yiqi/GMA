@@ -1,0 +1,9 @@
+{
+  "task_name": "tempus_home_old_new_songs_replace",
+  "difficulty": "medium",
+  "app": [
+    "Tempus"
+  ],
+  "category": [],
+  "design_description": "task is bound to verified unique songs and avoids the randomized Tempus home page by asking the agent to search for Full of It directly. The duplicate-title The A Team target is replaced with Lights Go Out, and New Songs is seeded with Drunk so replacement by She Said remains deterministic."
+}

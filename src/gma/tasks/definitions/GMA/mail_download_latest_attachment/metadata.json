@@ -1,0 +1,10 @@
+{
+  "task_name": "mail_download_latest_attachment",
+  "difficulty": "easy",
+  "app": [
+    "Mail",
+    "Files"
+  ],
+  "category": [],
+  "design_description": "task seeds an older email with an attachment, a newer email without an attachment, and the target latest email-with-attachment. This makes attachment ordering deterministic while requiring the agent to choose the newest message that actually has an attachment; AssetExists verifies the downloaded file in Downloads."
+}

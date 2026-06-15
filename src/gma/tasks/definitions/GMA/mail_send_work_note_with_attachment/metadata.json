@@ -1,0 +1,10 @@
+{
+  "task_name": "mail_send_work_note_with_attachment",
+  "difficulty": "easy",
+  "app": [
+    "Mail",
+    "Files"
+  ],
+  "category": [],
+  "design_description": "task rewrites the source filename to project-brief.txt and seeds it as a task-local Downloads file through DeviceFileAsset.source_path. The goal quotes recipient, subject, body, and attachment filename; AssetExists verifies the sent mail and attachment name."
+}

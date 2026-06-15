@@ -1,0 +1,9 @@
+{
+  "task_name": "mattermost_dm_first_contact_with_channel_mention",
+  "difficulty": "easy",
+  "app": [
+    "Mattermost"
+  ],
+  "category": [],
+  "design_description": "task rewritten as a direct-message send task. Two DM contacts are seeded with natural usernames because the Mattermost UI may show usernames in the contact list. The visible goal targets Ava Morgan by name, and evaluation checks only the required direct message, not the seeded DM channel existence."
+}

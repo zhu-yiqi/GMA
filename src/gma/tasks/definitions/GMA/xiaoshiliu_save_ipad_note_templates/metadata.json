@@ -1,0 +1,9 @@
+{
+  "task_name": "xiaoshiliu_save_ipad_note_templates",
+  "difficulty": "easy",
+  "app": [
+    "XiaoShiLiu"
+  ],
+  "category": [],
+  "design_description": "task conversion. The target post keeps the English source task entity and is seeded under Study with a second Study post for realistic context. The source task evaluator asked for both collection and like, so the public goal includes both actions and criteria require XiaoShiLiuCollectionAsset plus XiaoShiLiuLikeAsset."
+}

@@ -1,0 +1,12 @@
+{
+  "task_name": "tempus_common_song_message_casey_morgan",
+  "difficulty": "hard",
+  "app": [
+    "Tempus",
+    "Messages"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ],
+  "design_description": "Implements task with two seeded Tempus playlists sharing the English song Lego House from Ed Sheeran's + album, plus a seeded favorite state. Evaluation checks the exact SMS report to Casey Morgan."
+}

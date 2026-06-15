@@ -1,0 +1,13 @@
+{
+  "task_name": "elementx_recommended_product_xsl_mall_buy",
+  "difficulty": "hard",
+  "app": [
+    "ElementX",
+    "XiaoShiLiu",
+    "Mall"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ],
+  "design_description": "Uses an ElementX recommendation and XiaoShiLiu posts that point to the existing Mall product HP StarBook Pro 14-inch AI laptop, with purchase through an existing saved address."
+}

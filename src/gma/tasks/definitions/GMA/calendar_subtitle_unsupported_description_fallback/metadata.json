@@ -1,0 +1,11 @@
+{
+  "task_name": "calendar_subtitle_unsupported_description_fallback",
+  "difficulty": "medium",
+  "app": [
+    "Calendar"
+  ],
+  "category": [
+    "Invalid-Instruction Tasks"
+  ],
+  "design_description": "Calendar event subtitles are unsupported by the current task contract. The task expects the agent to detect that limitation, ask the user, receive the fallback, and create a one-time Calendar event with the requested subtitle text stored in the description."
+}

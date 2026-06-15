@@ -1,0 +1,11 @@
+{
+  "task_name": "travel_elementx_ek2759_unavailable_answer",
+  "difficulty": "hard",
+  "app": [
+    "Travel"
+  ],
+  "category": [
+    "Invalid-Instruction Tasks"
+  ],
+  "design_description": "The requested EK2759 LHR-to-DXB review target is unavailable. The task now expects the agent to detect that, ask the user, receive a feasible fallback, and favorite Good Business Hotel in Travel."
+}

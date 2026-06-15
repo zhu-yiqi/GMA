@@ -1,0 +1,9 @@
+{
+  "task_name": "travel_favorite_grand_palace_bangkok",
+  "difficulty": "easy",
+  "app": [
+    "Travel"
+  ],
+  "category": [],
+  "design_description": "Resolves the Bangkok attraction to slug grand-palace-bangkok and evaluates the Travel attraction favorite."
+}

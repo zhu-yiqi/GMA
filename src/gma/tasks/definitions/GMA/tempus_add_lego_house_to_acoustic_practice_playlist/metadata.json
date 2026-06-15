@@ -1,0 +1,9 @@
+{
+  "task_name": "tempus_add_lego_house_to_acoustic_practice_playlist",
+  "difficulty": "easy",
+  "app": [
+    "Tempus"
+  ],
+  "category": [],
+  "design_description": "The source song title could not be verified in the reusable Tempus examples, so the task binds the same add-song intent to the existing globally unique English song Lego House from Ed Sheeran's + album. The seeded Acoustic Practice playlist initially contains Drunk and AssetModified verifies Lego House is added."
+}

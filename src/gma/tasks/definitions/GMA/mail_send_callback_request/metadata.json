@@ -1,0 +1,9 @@
+{
+  "task_name": "mail_send_callback_request",
+  "difficulty": "easy",
+  "app": [
+    "Mail"
+  ],
+  "category": [],
+  "design_description": "task keeps the explicit recipient aaa@gmail.com and rewrites the body into natural English. Because the source row specifies only body content, the task asks for a blank subject and evaluates the exact sent MailMessageAsset."
+}

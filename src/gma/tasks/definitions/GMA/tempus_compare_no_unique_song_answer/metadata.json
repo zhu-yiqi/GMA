@@ -1,0 +1,11 @@
+{
+  "task_name": "tempus_compare_no_unique_song_answer",
+  "difficulty": "medium",
+  "app": [
+    "Tempus"
+  ],
+  "category": [
+    "Invalid-Instruction Tasks"
+  ],
+  "design_description": "The requested unique-song comparison has an empty result after the playlists are created. The task now expects the agent to ask the user and then rename the created playlist as the feasible fallback."
+}

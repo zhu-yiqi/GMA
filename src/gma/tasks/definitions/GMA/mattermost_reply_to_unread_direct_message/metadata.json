@@ -1,0 +1,9 @@
+{
+  "task_name": "mattermost_reply_to_unread_direct_message",
+  "difficulty": "easy",
+  "app": [
+    "Mattermost"
+  ],
+  "category": [],
+  "design_description": "task rewritten as a realistic unread-DM thread reply. The active Mattermost session is established before the seeded incoming direct post, making the unread reference meaningful, and evaluation checks the exact threaded reply text."
+}

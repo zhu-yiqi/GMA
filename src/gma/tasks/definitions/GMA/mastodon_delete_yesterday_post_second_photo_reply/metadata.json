@@ -1,0 +1,12 @@
+{
+  "task_name": "mastodon_delete_yesterday_post_second_photo_reply",
+  "difficulty": "medium",
+  "app": [
+    "Mastodon",
+    "Gallery"
+  ],
+  "category": [
+    "Information-Gathering Tasks"
+  ],
+  "design_description": "task seeds two owner posts dated September 30, 2026 and uses user_interaction to choose the second one when the agent asks. Two generated gallery photos both satisfy the requested scene, so the visible instruction still asks for the second phone-gallery photo while the media criterion accepts the alternate seeded image. Criteria check deletion, the media post, and the follow-up reply."
+}

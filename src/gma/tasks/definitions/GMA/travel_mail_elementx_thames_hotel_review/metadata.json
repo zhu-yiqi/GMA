@@ -1,0 +1,13 @@
+{
+  "task_name": "travel_mail_elementx_thames_hotel_review",
+  "difficulty": "hard",
+  "app": [
+    "Travel",
+    "Mail",
+    "ElementX"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ],
+  "design_description": "task binds Thames Riverside Inn to the seeded London hotel and evaluates the review, mail, and ElementX @room message."
+}

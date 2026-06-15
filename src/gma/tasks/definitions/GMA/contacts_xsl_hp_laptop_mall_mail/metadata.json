@@ -1,0 +1,15 @@
+{
+  "task_name": "contacts_xsl_hp_laptop_mall_mail",
+  "difficulty": "hard",
+  "app": [
+    "Contacts",
+    "XiaoShiLiu",
+    "Mall",
+    "Mail"
+  ],
+  "category": [
+    "Selection / Optimization Tasks",
+    "Multi-Step Workflow Tasks"
+  ],
+  "design_description": "Uses allowed seeded contacts and XiaoShiLiu notes, then targets the existing Mall product HP StarBook Pro 14-inch AI laptop. Evaluation checks contact edit, contact deletion, cart item, and email."
+}

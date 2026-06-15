@@ -1,0 +1,12 @@
+{
+  "task_name": "mail_xsl_hmdp_birthday_restaurant",
+  "difficulty": "hard",
+  "app": [
+    "Mail",
+    "Files",
+    "XiaoShiLiu",
+    "HMDP"
+  ],
+  "category": [],
+  "design_description": "task rewritten with valid email, an invitation.txt file asset, one deterministic birthday-restaurant XiaoShiLiu post using a generated image, and the stable HMDP shop Maple Leaf Bar. Sent mail, post save, and shop favorite are evaluated."
+}

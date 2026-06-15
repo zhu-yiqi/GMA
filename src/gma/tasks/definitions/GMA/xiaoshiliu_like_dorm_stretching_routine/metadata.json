@@ -1,0 +1,9 @@
+{
+  "task_name": "xiaoshiliu_like_dorm_stretching_routine",
+  "difficulty": "easy",
+  "app": [
+    "XiaoShiLiu"
+  ],
+  "category": [],
+  "design_description": "task conversion. The Fitness target post is seeded with an English title and generated image plus a second Fitness distractor post. AssetExists on XiaoShiLiuLikeAsset verifies that the logged-in owner liked the target post."
+}

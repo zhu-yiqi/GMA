@@ -1,0 +1,12 @@
+{
+  "task_name": "hmdp_elementx_bar_beauty_summary",
+  "difficulty": "hard",
+  "app": [
+    "HMDP",
+    "ElementX"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ],
+  "design_description": "Uses named existing HMDP Bar and Beauty & Hair shops. The answer, favorites, review, and ElementX DM are deterministic."
+}

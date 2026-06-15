@@ -1,0 +1,11 @@
+{
+  "task_name": "xiaoshiliu_scholar_notes_mall_message",
+  "difficulty": "medium",
+  "app": [
+    "XiaoShiLiu",
+    "Mall",
+    "Messages"
+  ],
+  "category": [],
+  "design_description": "Implements task with English names, a seeded Scholar Notes profile, a supported Lenovo Y700 tablet purchase, and a final SMS confirmation. Checks deletion, follow, likes, Mall checkout, and SMS."
+}

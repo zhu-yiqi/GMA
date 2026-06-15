@@ -1,0 +1,9 @@
+{
+  "task_name": "mall_confirm_receipt_samsung_tv_order",
+  "difficulty": "easy",
+  "app": [
+    "Mall"
+  ],
+  "category": [],
+  "design_description": "Binds television to the existing Mall product 55-inch class Samsung The Serif art TV LS01DB, product_sn QA55LS01DBJXXZ. A shipped order is seeded and AssetModified verifies its status changes to completed."
+}

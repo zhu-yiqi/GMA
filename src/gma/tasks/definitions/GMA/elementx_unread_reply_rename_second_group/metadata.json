@@ -1,0 +1,11 @@
+{
+  "task_name": "elementx_unread_reply_rename_second_group",
+  "difficulty": "medium",
+  "app": [
+    "ElementX"
+  ],
+  "category": [
+    "Conditional Tasks"
+  ],
+  "design_description": "task uses seeded incoming messages as the unread-message condition and makes the yes branch deterministic. Seeded room/message timestamps keep the initial room order stable, while the visible rename target uses the room's original name to avoid ambiguity after replies change recency ordering. Evaluation checks exact replies plus the room rename and topic update."
+}

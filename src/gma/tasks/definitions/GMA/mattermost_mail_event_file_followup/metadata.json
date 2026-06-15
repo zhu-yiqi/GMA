@@ -1,0 +1,11 @@
+{
+  "task_name": "mattermost_mail_event_file_followup",
+  "difficulty": "hard",
+  "app": [
+    "Mattermost",
+    "Mail",
+    "Files"
+  ],
+  "category": [],
+  "design_description": "task rewritten with deterministic Mattermost channels and a seeded event-channel-notes.txt file. The second channel upload with @all, outbound Mail message, and reply to a seeded unread email are evaluated."
+}

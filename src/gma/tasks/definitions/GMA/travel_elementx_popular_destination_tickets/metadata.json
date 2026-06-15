@@ -1,0 +1,10 @@
+{
+  "task_name": "travel_elementx_popular_destination_tickets",
+  "difficulty": "hard",
+  "app": [
+    "Travel",
+    "ElementX"
+  ],
+  "category": [],
+  "design_description": "task resolves the popular destination/free-attraction chain to Tokyo, Senso-ji Temple, and Meiji Shrine, specifies Daisy Miller's full name, and treats the zero-price attraction booking as pending payment."
+}

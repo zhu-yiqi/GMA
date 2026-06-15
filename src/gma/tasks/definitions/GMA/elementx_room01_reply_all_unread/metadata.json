@@ -1,0 +1,11 @@
+{
+  "task_name": "elementx_room01_reply_all_unread",
+  "difficulty": "medium",
+  "app": [
+    "ElementX"
+  ],
+  "category": [
+    "Information-Gathering Tasks"
+  ],
+  "design_description": "Recovered ElementX task. The visible instruction intentionally omits the target room, and user_interaction answers Room01 if the agent asks. The task seeds unread messages in Room01 and Room02, then evaluates the Room01 message plus replies to all unread messages."
+}

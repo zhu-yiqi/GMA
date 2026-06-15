@@ -1,0 +1,9 @@
+{
+  "task_name": "contacts_update_three_email_labels_work",
+  "difficulty": "medium",
+  "app": [
+    "Contacts"
+  ],
+  "category": [],
+  "design_description": "Seeds the three target contacts with the requested email addresses under a custom not work label, then verifies each label is changed to Work."
+}

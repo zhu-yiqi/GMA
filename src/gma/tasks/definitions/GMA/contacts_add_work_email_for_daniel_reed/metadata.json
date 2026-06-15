@@ -1,0 +1,9 @@
+{
+  "task_name": "contacts_add_work_email_for_daniel_reed",
+  "difficulty": "easy",
+  "app": [
+    "Contacts"
+  ],
+  "category": [],
+  "design_description": "task rewritten with an English contact name. Seeds Daniel Reed as an existing contact and asks the agent to add mnb@gmail.com with the Work email label. The criterion checks the expected contact state directly with AssetExists because adding an email preserves the original phone identity."
+}

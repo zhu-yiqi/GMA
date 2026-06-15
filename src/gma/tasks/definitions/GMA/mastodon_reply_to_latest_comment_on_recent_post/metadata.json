@@ -1,0 +1,9 @@
+{
+  "task_name": "mastodon_reply_to_latest_comment_on_recent_post",
+  "difficulty": "easy",
+  "app": [
+    "Mastodon"
+  ],
+  "category": [],
+  "design_description": "task rewritten as a deterministic comment-reply task. The owner has an older and a newer post, and the newer post has two timestamped comments from natural seeded accounts. The visible goal names the target post and Nina Patel's comment directly so the UI ordering does not create ambiguity; evaluation checks the exact reply to that comment."
+}

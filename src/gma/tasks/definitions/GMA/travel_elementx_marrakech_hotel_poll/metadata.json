@@ -1,0 +1,10 @@
+{
+  "task_name": "travel_elementx_marrakech_hotel_poll",
+  "difficulty": "hard",
+  "app": [
+    "Travel",
+    "ElementX"
+  ],
+  "category": [],
+  "design_description": "task binds the first five Marrakech hotels to real seeded names and uses the 3rd and 5th names as poll options."
+}

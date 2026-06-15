@@ -1,0 +1,12 @@
+{
+  "task_name": "messages_tiktok_code_to_elementx_dm",
+  "difficulty": "medium",
+  "app": [
+    "Messages",
+    "ElementX"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ],
+  "design_description": "task rewritten in English. The earliest SMS and TikTok code are seeded, as is a deterministic Code Friend ElementX DM. Final deletion makes the sent SMS unobservable, so evaluation checks deletion of the earliest thread and the ElementX code message."
+}

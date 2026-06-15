@@ -1,0 +1,13 @@
+{
+  "task_name": "messages_phone_brand_xsl_mall_favorite",
+  "difficulty": "hard",
+  "app": [
+    "Messages",
+    "XiaoShiLiu",
+    "Mall"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ],
+  "design_description": "Uses a Carter SMS and XiaoShiLiu post naming the existing Mall product iPhone 17 Pro. Evaluation checks the saved post and Mall favorite."
+}

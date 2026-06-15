@@ -1,0 +1,9 @@
+{
+  "task_name": "contacts_update_will_and_wade_labels",
+  "difficulty": "medium",
+  "app": [
+    "Contacts"
+  ],
+  "category": [],
+  "design_description": "Rewrites the original contact names to deterministic English contacts and verifies both requested contact updates."
+}

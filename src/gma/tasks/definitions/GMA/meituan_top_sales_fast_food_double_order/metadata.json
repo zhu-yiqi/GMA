@@ -1,0 +1,11 @@
+{
+  "task_name": "meituan_top_sales_fast_food_double_order",
+  "difficulty": "hard",
+  "app": [
+    "Meituan"
+  ],
+  "category": [
+    "Selection / Optimization Tasks"
+  ],
+  "design_description": "Task redesigned to use the correct Fast Food section. The agent must sort by Top Sales, inspect the first two stores, compare menu prices against each store minimum, and place two separate minimum-satisfying orders. In the baseline catalog this resolves to 2 Taihong lemon tea from Tianlala fresh fruit cha and 3 Bang da xian orange from Mixue Ice Cream & Tea."
+}

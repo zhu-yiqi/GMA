@@ -1,0 +1,9 @@
+{
+    "task_name": "travel_book_stay_kay_deluxe_room",
+    "difficulty": "medium",
+    "app": [
+        "Travel"
+    ],
+    "category": [],
+    "design_description": "Implements task against the supported Travel catalog. The source task hotel name is bound to the existing Stay-Kay City Hotel slug; the unsupported Atlanta hint is omitted because this hotel exists in New York. The Stay-Kay inventory includes Deluxe Room with 1 King Bed. The goal includes exact guest details and the Travel-required bed type for the Deluxe Room selection."
+}

@@ -1,0 +1,9 @@
+{
+  "task_name": "mastodon_edit_latest_choose_post",
+  "difficulty": "easy",
+  "app": [
+    "Mastodon"
+  ],
+  "category": [],
+  "design_description": "Seeds two owner Mastodon posts so the target is deterministically the most recent one. The final goal quotes the exact replacement text and AssetModified verifies that the latest seeded post was edited to that English text."
+}

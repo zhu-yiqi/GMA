@@ -1,0 +1,9 @@
+{
+  "task_name": "tempus_star_album_create_classic_songs",
+  "difficulty": "medium",
+  "app": [
+    "Tempus"
+  ],
+  "category": [],
+  "design_description": "The task uses the verified searchable Tempus album Stoney by Post Malone instead of the punctuation-only album +. The five target songs are explicit in the goal and evaluator for deterministic execution."
+}

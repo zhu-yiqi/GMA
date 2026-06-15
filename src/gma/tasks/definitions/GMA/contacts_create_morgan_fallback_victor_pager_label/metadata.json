@@ -1,0 +1,11 @@
+{
+  "task_name": "contacts_create_morgan_fallback_victor_pager_label",
+  "difficulty": "medium",
+  "app": [
+    "Contacts"
+  ],
+  "category": [
+    "Invalid-Instruction Tasks"
+  ],
+  "design_description": "Seeds only the fallback Tyler Reed contact. The visible instruction names missing contact Victor Hayes, and user_interaction supplies Tyler Reed after the agent asks. Evaluation verifies the new Morgan Blake contact plus the fallback phone-label edit."
+}

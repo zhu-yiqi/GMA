@@ -1,0 +1,9 @@
+{
+  "task_name": "tempus_popular_light_years_love_playlists",
+  "difficulty": "medium",
+  "app": [
+    "Tempus"
+  ],
+  "category": [],
+  "design_description": "task is adjusted to supported Tempus primitives: playlist favorites are converted to song favorites because the asset layer supports song and album favorites, not playlist favorites. Songs are verified catalog entries; The A Team is explicitly constrained to the + album because it has multiple catalog versions."
+}

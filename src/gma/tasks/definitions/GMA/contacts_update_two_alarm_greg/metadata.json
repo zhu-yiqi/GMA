@@ -1,0 +1,12 @@
+{
+  "task_name": "contacts_update_two_alarm_greg",
+  "difficulty": "medium",
+  "app": [
+    "Contacts",
+    "Clock"
+  ],
+  "category": [
+    "Information-Gathering Tasks"
+  ],
+  "design_description": "The visible instruction omits the alarm time and requires the agent to ask the user; user_interaction supplies 9:00 PM. Evaluation checks both contact edits and the resulting 9 PM vibrating alarm."
+}

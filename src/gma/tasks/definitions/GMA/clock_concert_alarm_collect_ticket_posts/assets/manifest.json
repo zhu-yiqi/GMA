@@ -1,0 +1,101 @@
+{
+  "created_at": "2026-05-23T11:52:17.686440+00:00",
+  "model": "gpt-image-2",
+  "size": "1024x1024",
+  "quality": "auto",
+  "output_format": "png",
+  "preset": "xiaoshiliu",
+  "dry_run": false,
+  "images": [
+    {
+      "slug": "concert-ticket-guide-01",
+      "prompt": "A smartphone photo of a tidy desk with a laptop showing a blurred ticket queue screen, a coffee cup, and a small notebook for concert planning.\n\nStyle requirements: Create a realistic, original smartphone photo suitable for a campus lifestyle social post. Avoid readable text, logos, watermarks, brand names, UI screenshots, and copyrighted characters. Use natural lighting and a clean composition.",
+      "path": "src/gma/tasks/definitions/spreadsheet_batch_002/w3/clock_concert_alarm_collect_ticket_posts/assets/001-concert-ticket-guide-01.png",
+      "sha256": "faffec97eb60976a74961bf4de629088478acfa7bcba00c40997f28176aff908",
+      "bytes": 832903,
+      "width": 768,
+      "height": 768
+    },
+    {
+      "slug": "concert-ticket-guide-02",
+      "prompt": "A realistic phone photo of friends comparing concert seat notes on a table, with colorful sticky notes and no readable text.\n\nStyle requirements: Create a realistic, original smartphone photo suitable for a campus lifestyle social post. Avoid readable text, logos, watermarks, brand names, UI screenshots, and copyrighted characters. Use natural lighting and a clean composition.",
+      "path": "src/gma/tasks/definitions/spreadsheet_batch_002/w3/clock_concert_alarm_collect_ticket_posts/assets/002-concert-ticket-guide-02.png",
+      "sha256": "27964327f3fc83724496f107f871a15c55c74769f5fbc1f8ceb1c465f77f0787",
+      "bytes": 921714,
+      "width": 768,
+      "height": 768
+    },
+    {
+      "slug": "concert-ticket-guide-03",
+      "prompt": "A campus dorm desk with headphones, a calendar page, and a phone prepared for buying concert tickets, realistic natural light.\n\nStyle requirements: Create a realistic, original smartphone photo suitable for a campus lifestyle social post. Avoid readable text, logos, watermarks, brand names, UI screenshots, and copyrighted characters. Use natural lighting and a clean composition.",
+      "path": "src/gma/tasks/definitions/spreadsheet_batch_002/w3/clock_concert_alarm_collect_ticket_posts/assets/003-concert-ticket-guide-03.png",
+      "sha256": "11aff1b85ba6f501d2619474b685edeba465f3e7e420a0405ee614eba36aaa00",
+      "bytes": 839435,
+      "width": 768,
+      "height": 768
+    },
+    {
+      "slug": "concert-ticket-guide-04",
+      "prompt": "A close smartphone photo of hands holding a phone beside a laptop, preparing for an online concert ticket sale, no readable text.\n\nStyle requirements: Create a realistic, original smartphone photo suitable for a campus lifestyle social post. Avoid readable text, logos, watermarks, brand names, UI screenshots, and copyrighted characters. Use natural lighting and a clean composition.",
+      "path": "src/gma/tasks/definitions/spreadsheet_batch_002/w3/clock_concert_alarm_collect_ticket_posts/assets/004-concert-ticket-guide-04.png",
+      "sha256": "315051c5755678ec7876dace62fe62ed2c1b1ef52b8fda02c66a667ce70e535f",
+      "bytes": 791739,
+      "width": 768,
+      "height": 768
+    },
+    {
+      "slug": "concert-ticket-guide-05",
+      "prompt": "A realistic image of a backpack, earbuds, and printed blank seating diagrams on a study table for a concert trip plan.\n\nStyle requirements: Create a realistic, original smartphone photo suitable for a campus lifestyle social post. Avoid readable text, logos, watermarks, brand names, UI screenshots, and copyrighted characters. Use natural lighting and a clean composition.",
+      "path": "src/gma/tasks/definitions/spreadsheet_batch_002/w3/clock_concert_alarm_collect_ticket_posts/assets/005-concert-ticket-guide-05.png",
+      "sha256": "1e2a39a411d60c5db758f6126c13a63422fcffec39fea91c218d3a15ca7a16a5",
+      "bytes": 916640,
+      "width": 768,
+      "height": 768
+    },
+    {
+      "slug": "concert-ticket-guide-06",
+      "prompt": "A cozy evening desk setup with a phone, alarm clock, and blurred concert poster colors in the background, no readable text.\n\nStyle requirements: Create a realistic, original smartphone photo suitable for a campus lifestyle social post. Avoid readable text, logos, watermarks, brand names, UI screenshots, and copyrighted characters. Use natural lighting and a clean composition.",
+      "path": "src/gma/tasks/definitions/spreadsheet_batch_002/w3/clock_concert_alarm_collect_ticket_posts/assets/006-concert-ticket-guide-06.png",
+      "sha256": "5daab3ee95d239ee448e53da588a82a471e8c1555f877534908fac6bf3d2cd4a",
+      "bytes": 747627,
+      "width": 768,
+      "height": 768
+    },
+    {
+      "slug": "concert-ticket-guide-07",
+      "prompt": "A smartphone photo of a small group in a library planning a concert ticket purchase with laptops and snacks, no readable text.\n\nStyle requirements: Create a realistic, original smartphone photo suitable for a campus lifestyle social post. Avoid readable text, logos, watermarks, brand names, UI screenshots, and copyrighted characters. Use natural lighting and a clean composition.",
+      "path": "src/gma/tasks/definitions/spreadsheet_batch_002/w3/clock_concert_alarm_collect_ticket_posts/assets/007-concert-ticket-guide-07.png",
+      "sha256": "c939b17c8729955e39780d9faa471df3c4dc60130a884f6d6c5969014bf3b8f6",
+      "bytes": 856013,
+      "width": 768,
+      "height": 768
+    },
+    {
+      "slug": "concert-ticket-guide-08",
+      "prompt": "A realistic flat lay of a phone, charging cable, headphones, and checklist papers for concert ticket buying preparation.\n\nStyle requirements: Create a realistic, original smartphone photo suitable for a campus lifestyle social post. Avoid readable text, logos, watermarks, brand names, UI screenshots, and copyrighted characters. Use natural lighting and a clean composition.",
+      "path": "src/gma/tasks/definitions/spreadsheet_batch_002/w3/clock_concert_alarm_collect_ticket_posts/assets/008-concert-ticket-guide-08.png",
+      "sha256": "b059cbc5ae39aae1fd904afea82098e5d9505995d4d4066c73bfa205967b2a92",
+      "bytes": 947569,
+      "width": 768,
+      "height": 768
+    },
+    {
+      "slug": "concert-ticket-guide-09",
+      "prompt": "A campus cafe table with a phone and laptop ready for a ticket release, warm natural light, no readable text.\n\nStyle requirements: Create a realistic, original smartphone photo suitable for a campus lifestyle social post. Avoid readable text, logos, watermarks, brand names, UI screenshots, and copyrighted characters. Use natural lighting and a clean composition.",
+      "path": "src/gma/tasks/definitions/spreadsheet_batch_002/w3/clock_concert_alarm_collect_ticket_posts/assets/009-concert-ticket-guide-09.png",
+      "sha256": "5b2a308edbfa7c8787e338e2fdc7a22a20a3d93ab281069e8fdcc9b768a5b2f5",
+      "bytes": 955918,
+      "width": 768,
+      "height": 768
+    },
+    {
+      "slug": "concert-ticket-guide-10",
+      "prompt": "A realistic photo of a quiet bedroom desk with a phone timer, laptop, and concert-themed decorations, avoiding readable words.\n\nStyle requirements: Create a realistic, original smartphone photo suitable for a campus lifestyle social post. Avoid readable text, logos, watermarks, brand names, UI screenshots, and copyrighted characters. Use natural lighting and a clean composition.",
+      "path": "src/gma/tasks/definitions/spreadsheet_batch_002/w3/clock_concert_alarm_collect_ticket_posts/assets/010-concert-ticket-guide-10.png",
+      "sha256": "fb6cd1830d50835ee0a9a2ca10bce1ceb02e43b355c6b15561fb4e0409568543",
+      "bytes": 823541,
+      "width": 768,
+      "height": 768
+    }
+  ]
+}

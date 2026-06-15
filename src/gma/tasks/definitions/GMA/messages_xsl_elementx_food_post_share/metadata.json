@@ -1,0 +1,11 @@
+{
+  "task_name": "messages_xsl_elementx_food_post_share",
+  "difficulty": "hard",
+  "app": [
+    "Messages",
+    "XiaoShiLiu",
+    "ElementX"
+  ],
+  "category": [],
+  "design_description": "task rewritten with English contacts and blogger names. The ambiguous second SMS is bound to Taylor Brooks, and the XiaoShiLiu target is a seeded image post by Campus Campus Life Foodie Emily Parkern using a task-specific generated image."
+}

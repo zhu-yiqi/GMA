@@ -1,0 +1,9 @@
+{
+  "task_name": "xiaoshiliu_colorado_homepage_laptop_actions",
+  "difficulty": "medium",
+  "app": [
+    "XiaoShiLiu"
+  ],
+  "category": [],
+  "design_description": "Implements task by binding the homepage first-work reference to a seeded newest home-feed post with one deterministic first comment. All required comment/reply text is quoted in the goal, and each seeded XiaoShiLiu post uses generated task-specific imagery."
+}

@@ -1,0 +1,9 @@
+{
+  "task_name": "xiaoshiliu_follow_noodle_shop_author",
+  "difficulty": "easy",
+  "app": [
+    "XiaoShiLiu"
+  ],
+  "category": [],
+  "design_description": "task conversion. The target Food post and author preserve the English source task intent, with an additional Food distractor post by another author for realistic context. All seeded posts use task-local images, and XiaoShiLiuFollowAsset verifies the owner followed the target post author."
+}

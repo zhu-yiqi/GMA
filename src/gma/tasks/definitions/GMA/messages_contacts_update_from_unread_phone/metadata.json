@@ -1,0 +1,12 @@
+{
+  "task_name": "messages_contacts_update_from_unread_phone",
+  "difficulty": "medium",
+  "app": [
+    "Messages",
+    "Contacts"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ],
+  "design_description": "The latest unread SMS contains the phone number to transfer, while an older unread SMS makes the latest-message requirement meaningful. The copied number is now used twice: it updates Alex Chen and then becomes the destination for a follow-up SMS to the updated contact. Evaluation checks the contact rename, copied phone number, email, website, and sent confirmation message."
+}

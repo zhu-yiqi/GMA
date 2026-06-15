@@ -1,0 +1,12 @@
+{
+  "task_name": "travel_xsl_messages_atlanta_flight",
+  "difficulty": "hard",
+  "app": [
+    "Travel",
+    "XiaoShiLiu",
+    "Gallery",
+    "Messages"
+  ],
+  "category": [],
+  "design_description": "task books the deterministic Emirates EK0815 DXB to ATL flight, creates a XiaoShiLiu Travel-category post with an uploaded image, and sends the exact SMS."
+}

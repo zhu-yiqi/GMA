@@ -1,0 +1,9 @@
+{
+  "task_name": "contacts_create_gary_bennett_two_entries",
+  "difficulty": "medium",
+  "app": [
+    "Contacts"
+  ],
+  "category": [],
+  "design_description": "ContactAsset supports one phone and one email per evaluated contact, so the two requested phone/email pairs are represented as two deterministic Contacts entries named Gary Bennett."
+}

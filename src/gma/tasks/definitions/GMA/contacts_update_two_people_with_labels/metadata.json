@@ -1,0 +1,11 @@
+{
+  "task_name": "contacts_update_two_people_with_labels",
+  "difficulty": "medium",
+  "app": [
+    "Contacts"
+  ],
+  "category": [
+    "Information-Gathering Tasks"
+  ],
+  "design_description": "task rewritten with English contact names and two deterministic existing contacts. The first edit is fully specified; the second intentionally omits the phone label in the public goal and uses user_interaction to answer Home if the agent asks. AssetModified verifies both final contact states."
+}

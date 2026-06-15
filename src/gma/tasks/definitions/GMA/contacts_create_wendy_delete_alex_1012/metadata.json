@@ -1,0 +1,9 @@
+{
+  "task_name": "contacts_create_wendy_delete_alex_1012",
+  "difficulty": "medium",
+  "app": [
+    "Contacts"
+  ],
+  "category": [],
+  "design_description": "Seeds two same-name Alex Parker contacts, answers the ambiguity with the 3258 suffix, and verifies the new Wendy Parker contact plus deletion of the correct duplicate."
+}

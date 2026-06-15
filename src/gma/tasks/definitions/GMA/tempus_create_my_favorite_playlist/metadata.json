@@ -1,0 +1,9 @@
+{
+  "task_name": "tempus_create_my_favorite_playlist",
+  "difficulty": "easy",
+  "app": [
+    "Tempus"
+  ],
+  "category": [],
+  "design_description": "Implements the requested My Favorite Playlist creation as a deterministic supported Tempus task by adding Lego House from + because the playlist asset evaluator requires at least one track."
+}

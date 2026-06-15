@@ -1,0 +1,12 @@
+{
+  "task_name": "xiaoshiliu_osmo_mall_cart",
+  "difficulty": "hard",
+  "app": [
+    "XiaoShiLiu",
+    "Mall"
+  ],
+  "category": [
+    "Selection / Optimization Tasks"
+  ],
+  "design_description": "Uses XiaoShiLiu notes with deterministic nonzero-like status and the existing Mall product Osmo Pocket 3. Evaluation checks liked-note saves and the cart item."
+}

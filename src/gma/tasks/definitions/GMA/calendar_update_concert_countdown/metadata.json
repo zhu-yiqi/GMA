@@ -1,0 +1,9 @@
+{
+  "task_name": "calendar_update_concert_countdown",
+  "difficulty": "easy",
+  "app": [
+    "Calendar"
+  ],
+  "category": [],
+  "design_description": "task conversion. The two required initial Calendar events are seeded as Concert Countdown and River Festival Planning with plain English names. The target October 20, 2026 event starts at 5:00 PM and initially ends at 6:00 PM in New York; the expected state keeps the start time but changes the end time to 7:00 PM and the location to Denver. Evaluation uses AssetModified."
+}

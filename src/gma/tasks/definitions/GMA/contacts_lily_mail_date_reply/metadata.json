@@ -1,0 +1,10 @@
+{
+  "task_name": "contacts_lily_mail_date_reply",
+  "difficulty": "medium",
+  "app": [
+    "Contacts",
+    "Mail"
+  ],
+  "category": [],
+  "design_description": "Implements the supported contact/email path with the work email used for Mail. The visible instruction provides the email subject and body directly, and MailMessageAsset verifies the exact sent email."
+}

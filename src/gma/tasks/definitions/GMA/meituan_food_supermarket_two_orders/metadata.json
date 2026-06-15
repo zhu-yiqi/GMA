@@ -1,0 +1,9 @@
+{
+  "task_name": "meituan_food_supermarket_two_orders",
+  "difficulty": "medium",
+  "app": [
+    "Meituan"
+  ],
+  "category": [],
+  "design_description": "Task redesigned so the two orders actually use one Food-category store and one Supermarket-category store. Three Squirrels and Xiaolan Life Premium Supermarket exist in the baseline Meituan catalog, and the selected item quantities satisfy each store minimum order amount. Evaluation checks two paid orders using the seeded default address."
+}

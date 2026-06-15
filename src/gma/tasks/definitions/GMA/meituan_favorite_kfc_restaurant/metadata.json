@@ -1,0 +1,9 @@
+{
+  "task_name": "meituan_favorite_kfc_restaurant",
+  "difficulty": "easy",
+  "app": [
+    "Meituan"
+  ],
+  "category": [],
+  "design_description": "Uses the existing KFC restaurant from the seeded Meituan catalog and evaluates the created collection/favorite for the logged-in user."
+}

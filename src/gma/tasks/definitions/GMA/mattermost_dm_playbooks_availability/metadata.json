@@ -1,0 +1,9 @@
+{
+  "task_name": "mattermost_dm_playbooks_availability",
+  "difficulty": "medium",
+  "app": [
+    "Mattermost"
+  ],
+  "category": [],
+  "design_description": "task rewritten in English. The playbooks direct-message target is seeded. The final navigation request has no persistent evaluator surface, so evaluation checks the exact direct message send."
+}

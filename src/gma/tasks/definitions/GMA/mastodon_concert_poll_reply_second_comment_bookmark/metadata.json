@@ -1,0 +1,12 @@
+{
+  "task_name": "mastodon_concert_poll_reply_second_comment_bookmark",
+  "difficulty": "medium",
+  "app": [
+    "Mastodon"
+  ],
+  "category": [
+    "Information-Gathering Tasks",
+    "Conditional Tasks"
+  ],
+  "design_description": "task seeds two owner posts and two comments under the second post. The reply text is intentionally supplied via user_interaction, and the second post starts unbookmarked so the bookmark branch is true."
+}

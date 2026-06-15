@@ -1,0 +1,14 @@
+{
+  "task_name": "tempus_favorite_song_xsl_message",
+  "difficulty": "hard",
+  "app": [
+    "Tempus",
+    "XiaoShiLiu",
+    "Messages"
+  ],
+  "category": [
+    "Selection / Optimization Tasks",
+    "Multi-Step Workflow Tasks"
+  ],
+  "design_description": "The task uses an English Tempus playlist and a supported existing song version from album +. XiaoShiLiu now seeds three matching The A Team review posts with a unique visible save-count winner plus distractor posts for other songs; evaluation checks the three saves, the most-saved like, and exact SMS. A Carter inbox thread is seeded so Messages has a visible conversation target."
+}

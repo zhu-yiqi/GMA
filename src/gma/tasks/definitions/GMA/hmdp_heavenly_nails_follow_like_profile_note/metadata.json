@@ -1,0 +1,10 @@
+{
+  "task_name": "hmdp_heavenly_nails_follow_like_profile_note",
+  "difficulty": "medium",
+  "app": [
+    "HMDP"
+  ],
+  "category": [],
+  "design_description": "Uses allowed seeded HMDP profile/blog context with images and the existing shop Heavenly Nails for deterministic follow and like checks.",
+  "row": 169
+}

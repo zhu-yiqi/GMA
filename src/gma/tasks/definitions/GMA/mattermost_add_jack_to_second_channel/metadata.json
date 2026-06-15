@@ -1,0 +1,9 @@
+{
+  "task_name": "mattermost_add_jack_to_second_channel",
+  "difficulty": "easy",
+  "app": [
+    "Mattermost"
+  ],
+  "category": [],
+  "design_description": "task rewritten into a natural channel-management request. Two private planning channels are seeded for visible first/second context, a Jack Reed user is available but not a member of the second channel, and evaluation checks the exact Mattermost channel membership."
+}

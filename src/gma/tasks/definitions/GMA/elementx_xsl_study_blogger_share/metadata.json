@@ -1,0 +1,13 @@
+{
+  "task_name": "elementx_xsl_study_blogger_share",
+  "difficulty": "hard",
+  "app": [
+    "ElementX",
+    "XiaoShiLiu",
+    "Files"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ],
+  "design_description": "task seeds an ElementX group workflow plus a deterministic XiaoShiLiu Study post. The visible goal gives the final message format but requires identifying the post author from XiaoShiLiu before following that author and filling in the blogger name; criteria still bind to the exact author, pinned file, like, save, follow, and final recommendation."
+}

@@ -1,0 +1,11 @@
+{
+  "task_name": "mail_protest_letter_meituan_mcdonalds_order",
+  "difficulty": "medium",
+  "app": [
+    "Mail",
+    "Files",
+    "Meituan"
+  ],
+  "category": [],
+  "design_description": "task is rewritten with English-only file and food names. Meituan binding uses existing catalog items in McDonald's: Mai la Ji tui Bao single meal and French fries trio, plus a seeded Company address for deterministic checkout. No new Meituan restaurants or foods are created."
+}

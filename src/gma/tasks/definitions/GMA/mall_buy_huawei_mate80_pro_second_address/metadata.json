@@ -1,0 +1,9 @@
+{
+  "task_name": "mall_buy_huawei_mate80_pro_second_address",
+  "difficulty": "easy",
+  "app": [
+    "Mall"
+  ],
+  "category": [],
+  "design_description": "The requested HUAWEI Mate 80 Pro is bound to existing Mall catalog product_sn 1258669; no product/catalog asset is created. Two English-only saved addresses are seeded so the second-address instruction is concrete. Evaluation checks that a paid order for one HUAWEI Mate 80 Pro was created for receiver Morgan Second Address."
+}

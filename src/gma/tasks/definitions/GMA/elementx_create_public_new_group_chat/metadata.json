@@ -1,0 +1,9 @@
+{
+  "task_name": "elementx_create_public_new_group_chat",
+  "difficulty": "easy",
+  "app": [
+    "ElementX"
+  ],
+  "category": [],
+  "design_description": "The public-group requirement is represented by a room alias localpart, while the criterion checks the created ElementX group room name and exact topic."
+}

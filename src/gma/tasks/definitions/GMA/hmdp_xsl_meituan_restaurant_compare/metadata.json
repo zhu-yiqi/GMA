@@ -1,0 +1,15 @@
+{
+  "task_name": "hmdp_xsl_meituan_restaurant_compare",
+  "difficulty": "hard",
+  "app": [
+    "HMDP",
+    "XiaoShiLiu",
+    "Meituan",
+    "Gallery"
+  ],
+  "category": [
+    "Selection / Optimization Tasks",
+    "Conditional Tasks"
+  ],
+  "design_description": "task asks the agent to compare Maple Leaf Bar with the nearest Meituan Food-category store, conditionally favorite Maple Leaf Bar only if HMDP has the higher score, and report the higher score without exposing the winner. In the current seeded data, Meituan has the higher score, so Maple Leaf Bar should remain unfavorited. The XiaoShiLiu Food post uses a generated restaurant image."
+}

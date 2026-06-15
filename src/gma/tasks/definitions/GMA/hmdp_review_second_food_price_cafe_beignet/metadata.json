@@ -1,0 +1,11 @@
+{
+  "task_name": "hmdp_review_second_food_price_cafe_beignet",
+  "difficulty": "easy",
+  "app": [
+    "HMDP"
+  ],
+  "category": [
+    "Selection / Optimization Tasks"
+  ],
+  "design_description": "The visible goal asks for the second cheapest Food shop after sorting by Price from low to high, without exposing the shop name. Against the packaged HMDP seed SQL, Food shops sorted by avg_price and id put District Donuts Sliders Brew first and Cafe Beignet on Royal Street second, both at avg_price 30. Criteria bind to Cafe Beignet on Royal Street, the exact review text, and a 4-star review score."
+}

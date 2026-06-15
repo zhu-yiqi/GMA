@@ -1,0 +1,9 @@
+{
+  "task_name": "tempus_favorite_albums_rename_my_favorites",
+  "difficulty": "medium",
+  "app": [
+    "Tempus"
+  ],
+  "category": [],
+  "design_description": "task is resolved to verified searchable Tempus albums from the bundled catalog. The added songs are named in the English goal so the playlist rename and membership are evaluable without relying on the hard-to-search + album."
+}

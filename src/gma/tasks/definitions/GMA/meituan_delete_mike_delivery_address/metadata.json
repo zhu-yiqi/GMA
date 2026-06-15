@@ -1,0 +1,9 @@
+{
+  "task_name": "meituan_delete_mike_delivery_address",
+  "difficulty": "easy",
+  "app": [
+    "Meituan"
+  ],
+  "category": [],
+  "design_description": "Seeds a deterministic Meituan address for Mike with the requested phone number and checks it is deleted with AssetDeleted."
+}

@@ -1,0 +1,9 @@
+{
+  "task_name": "tempus_personal_favorites_shared_playlist",
+  "difficulty": "medium",
+  "app": [
+    "Tempus"
+  ],
+  "category": [],
+  "design_description": "task is implemented with verified catalog tracks because Sunset Boulevard was absent from the bundled Tempus DB. Starter Mix starts with two songs and is verified after rename and rebuild with The A Team from album +; Shared Favorites is verified with The A Team from album + and In the Dark from Ego. The visible instruction now disambiguates The A Team because the catalog has multiple versions."
+}

@@ -1,0 +1,12 @@
+{
+  "task_name": "mastodon_cilantro_poll_xiaoshiliu_bookmark",
+  "difficulty": "medium",
+  "app": [
+    "Mastodon",
+    "XiaoShiLiu"
+  ],
+  "category": [
+    "Information-Gathering Tasks"
+  ],
+  "design_description": "task keeps the omitted poll options as an interactive clarification and seeds a generated XiaoShiLiu food-science image for the searchable cilantro post. The target post content contains the exact search phrase and is newer than the distractor."
+}

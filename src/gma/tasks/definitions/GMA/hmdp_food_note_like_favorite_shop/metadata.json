@@ -1,0 +1,10 @@
+{
+  "task_name": "hmdp_food_note_like_favorite_shop",
+  "difficulty": "hard",
+  "app": [
+    "HMDP",
+    "Files"
+  ],
+  "category": [],
+  "design_description": "Uses allowed seeded HMDP blog context with images and the existing shop Acme Oyster House. Evaluation checks note creation, like, favorite, and answer."
+}

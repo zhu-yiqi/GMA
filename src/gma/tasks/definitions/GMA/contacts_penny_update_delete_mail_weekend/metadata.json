@@ -1,0 +1,10 @@
+{
+  "task_name": "contacts_penny_update_delete_mail_weekend",
+  "difficulty": "medium",
+  "app": [
+    "Contacts",
+    "Mail"
+  ],
+  "category": [],
+  "design_description": "Uses deterministic English contact names and verifies the contact update, contact deletion, and exact sent Mail message. The visible instruction does not specify an email label, so evaluation checks the added email address without constraining its label."
+}

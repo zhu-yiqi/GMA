@@ -1,0 +1,11 @@
+{
+  "task_name": "mastodon_reply_latest_comment_follow_jack_support",
+  "difficulty": "medium",
+  "app": [
+    "Mastodon"
+  ],
+  "category": [
+    "Conditional Tasks"
+  ],
+  "design_description": "task seeds the owner timeline, two comments on the newest owner post, and a Jack account with a latest post that has no comments. The condition is true, so evaluation checks the reply, the follow, and the Support comment."
+}

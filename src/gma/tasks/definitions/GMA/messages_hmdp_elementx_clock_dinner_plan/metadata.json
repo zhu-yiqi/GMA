@@ -1,0 +1,12 @@
+{
+  "task_name": "messages_hmdp_elementx_clock_dinner_plan",
+  "difficulty": "hard",
+  "app": [
+    "Messages",
+    "HMDP",
+    "ElementX",
+    "Clock"
+  ],
+  "category": [],
+  "design_description": "task rewritten with English contacts and messages. The HMDP target is bound to the known seeded shop Maple Leaf Bar rather than relying on vague first-item UI ordering; SMS reply, HMDP favorite, ElementX group message, and Saturday alarm are evaluated."
+}

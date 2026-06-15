@@ -1,0 +1,10 @@
+{
+  "task_name": "meituan_kfc_order_elementx_group_summary",
+  "difficulty": "hard",
+  "app": [
+    "Meituan",
+    "ElementX"
+  ],
+  "category": [],
+  "design_description": "Uses the existing KFC restaurant and existing KFC foods with a deterministic total. Evaluation checks the order and exact ElementX group summary."
+}

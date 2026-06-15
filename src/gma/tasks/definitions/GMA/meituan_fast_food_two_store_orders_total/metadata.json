@@ -1,0 +1,9 @@
+{
+  "task_name": "meituan_fast_food_two_store_orders_total",
+  "difficulty": "medium",
+  "app": [
+    "Meituan"
+  ],
+  "category": [],
+  "design_description": "task asks the agent to favorite KFC and McDonald's, order the first three listed menu items from each store, and compute the combined item-price total after ordering. Evaluation binds the expected orders to the current first-three catalog items and checks the computed numeric answer."
+}

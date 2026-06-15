@@ -1,0 +1,13 @@
+{
+  "task_name": "xiaoshiliu_study_playlist_to_tempus_elementx",
+  "difficulty": "hard",
+  "app": [
+    "XiaoShiLiu",
+    "Tempus",
+    "ElementX"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ],
+  "design_description": "Implements task with ten deterministic XiaoShiLiu playlist posts sharing the unique searchable phrase Cedar Library Study Playlist and a valid task-local image. The first post contains English Tempus songs from Ed Sheeran's + album. Evaluation checks all ten saves, playlist creation, and the ElementX message."
+}

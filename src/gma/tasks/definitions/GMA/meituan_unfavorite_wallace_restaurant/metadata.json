@@ -1,0 +1,9 @@
+{
+  "task_name": "meituan_unfavorite_wallace_restaurant",
+  "difficulty": "easy",
+  "app": [
+    "Meituan"
+  ],
+  "category": [],
+  "design_description": "Seeds an existing Wallace restaurant favorite for the logged-in user and checks that the collection entry is deleted."
+}

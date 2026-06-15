@@ -1,0 +1,9 @@
+{
+  "task_name": "mastodon_follow_leo_vote_second_poll_bookmark",
+  "difficulty": "medium",
+  "app": [
+    "Mastodon"
+  ],
+  "category": [],
+  "design_description": "task seeds Leo with two poll posts and binds the target to the study-break-plan poll topic. Criteria check following Leo, voting for the target poll's first option, and favoriting that poll."
+}

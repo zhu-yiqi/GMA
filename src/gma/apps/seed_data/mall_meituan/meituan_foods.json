@@ -1,0 +1,5269 @@
+[
+  {
+    "id": 1824,
+    "attrs": [],
+    "category_id": 254,
+    "created_at": {
+      "$date": "2026-05-20T11:01:37.182Z"
+    },
+    "month_saled": 12,
+    "month_saled_content": "12",
+    "name": "French fries trio",
+    "pic_url": "/gma-cached-assets/annotator/meituan/mdl-shutiao3-6257d1e0.png",
+    "praise_content": "Three medium fries",
+    "praise_num": 0,
+    "restaurant_id": 36,
+    "skus": [
+      {
+        "description": "Three medium fries",
+        "price": "19.9",
+        "id": 1824
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1825,
+    "attrs": [],
+    "category_id": 254,
+    "created_at": {
+      "$date": "2026-05-20T11:01:38.642Z"
+    },
+    "month_saled": 30,
+    "month_saled_content": "30",
+    "name": "Mai la Ji tui Bao single meal",
+    "pic_url": "/gma-cached-assets/annotator/meituan/mai-a52127e4.png",
+    "praise_content": "A hamburger, a snack and a drink.",
+    "praise_num": 0,
+    "restaurant_id": 36,
+    "skus": [
+      {
+        "description": "A hamburger, a snack and a drink.",
+        "price": "21.9",
+        "id": 1825
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1826,
+    "attrs": [],
+    "category_id": 255,
+    "created_at": {
+      "$date": "2026-05-20T11:01:39.900Z"
+    },
+    "month_saled": 76,
+    "month_saled_content": "76",
+    "name": "Maiba classic three-person meal",
+    "pic_url": "/gma-cached-assets/annotator/meituan/mdl-3people-c97376f5.webp",
+    "praise_content": "Two hamburgers, two snacks and three drinks.",
+    "praise_num": 0,
+    "restaurant_id": 36,
+    "skus": [
+      {
+        "description": "Two hamburgers, two snacks and three drinks.",
+        "price": "69",
+        "id": 1826
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1827,
+    "attrs": [],
+    "category_id": 256,
+    "created_at": {
+      "$date": "2026-05-20T11:01:41.083Z"
+    },
+    "month_saled": 68,
+    "month_saled_content": "68",
+    "name": "Happy double meal",
+    "pic_url": "/gma-cached-assets/annotator/meituan/mdl-2people-186eb866.png",
+    "praise_content": "Two hamburgers, two cokes and two snacks.",
+    "praise_num": 0,
+    "restaurant_id": 36,
+    "skus": [
+      {
+        "description": "Two hamburgers, two cokes and two snacks.",
+        "price": "39.9",
+        "id": 1827
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1828,
+    "attrs": [],
+    "category_id": 257,
+    "created_at": {
+      "$date": "2026-05-20T11:01:42.211Z"
+    },
+    "month_saled": 34,
+    "month_saled_content": "34",
+    "name": "Choose 5 pieces of fried chicken",
+    "pic_url": "/gma-cached-assets/annotator/meituan/mdl-jikuai5-584d1cc2.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 36,
+    "skus": [
+      {
+        "description": "",
+        "price": "39.9",
+        "id": 1828
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1937,
+    "attrs": [],
+    "category_id": 302,
+    "created_at": {
+      "$date": "2026-05-20T11:04:18.514Z"
+    },
+    "month_saled": 28,
+    "month_saled_content": "28",
+    "name": "Signature special freshly baked chicken leg Bao",
+    "pic_url": "/gma-cached-assets/annotator/meituan/fd3134ed4edccddaa48e47c0decc247e-d729cce7.jpg",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 37,
+    "skus": [
+      {
+        "description": "",
+        "price": "14.9",
+        "id": 1937
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1938,
+    "attrs": [],
+    "category_id": 302,
+    "created_at": {
+      "$date": "2026-05-20T11:04:19.207Z"
+    },
+    "month_saled": 34,
+    "month_saled_content": "34",
+    "name": "Classic Italian spaghetti with meat sauce",
+    "pic_url": "/gma-cached-assets/annotator/meituan/f96a7efb7683985368bce0b8ff20092e-45bc86ea.jpg",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 37,
+    "skus": [
+      {
+        "description": "",
+        "price": "30.5",
+        "id": 1938
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1939,
+    "attrs": [],
+    "category_id": 302,
+    "created_at": {
+      "$date": "2026-05-20T11:04:19.930Z"
+    },
+    "month_saled": 42,
+    "month_saled_content": "42",
+    "name": "Pizza hut with pizza sauce and cheese sauce.",
+    "pic_url": "/gma-cached-assets/annotator/meituan/1835b15c99c1e7280c67d5132cccfea3-9435d52b.jpg",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 37,
+    "skus": [
+      {
+        "description": "",
+        "price": "17",
+        "id": 1939
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1819,
+    "attrs": [],
+    "category_id": 252,
+    "created_at": {
+      "$date": "2026-05-20T11:01:29.538Z"
+    },
+    "month_saled": 100,
+    "month_saled_content": "100",
+    "name": "Three-piece hamburger set for one person",
+    "pic_url": "/gma-cached-assets/annotator/meituan/kfc-38621368.jpg",
+    "praise_content": "A hamburger, French fries and a coke.",
+    "praise_num": 0,
+    "restaurant_id": 43,
+    "skus": [
+      {
+        "description": "A hamburger, French fries and a coke.",
+        "price": "29.01",
+        "id": 1819
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1820,
+    "attrs": [],
+    "category_id": 252,
+    "created_at": {
+      "$date": "2026-05-20T11:01:30.543Z"
+    },
+    "month_saled": 86,
+    "month_saled_content": "86",
+    "name": "in Course Selection at Will OK Three-Piece Set",
+    "pic_url": "/gma-cached-assets/annotator/meituan/kfc-sanjiantao-7375f758.webp",
+    "praise_content": "A hamburger, a snack and a drink.",
+    "praise_num": 0,
+    "restaurant_id": 43,
+    "skus": [
+      {
+        "description": "A hamburger, a snack and a drink.",
+        "price": "23.9",
+        "id": 1820
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1821,
+    "attrs": [],
+    "category_id": 252,
+    "created_at": {
+      "$date": "2026-05-20T11:01:31.935Z"
+    },
+    "month_saled": 167,
+    "month_saled_content": "167",
+    "name": "Hamburg set of five for one person.",
+    "pic_url": "/gma-cached-assets/annotator/meituan/kfc-5piece-761f5073.webp",
+    "praise_content": "A hamburger, French fries, a pair of spicy chicken wings, an egg tart and a drink.",
+    "praise_num": 0,
+    "restaurant_id": 43,
+    "skus": [
+      {
+        "description": "A hamburger, French fries, a pair of spicy chicken wings, an egg tart and a drink.",
+        "price": "39.9",
+        "id": 1821
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1822,
+    "attrs": [],
+    "category_id": 253,
+    "created_at": {
+      "$date": "2026-05-20T11:01:33.355Z"
+    },
+    "month_saled": 68,
+    "month_saled_content": "68",
+    "name": "Classic signature breakfast three-piece set",
+    "pic_url": "/gma-cached-assets/annotator/meituan/dr-dbdf5b8d.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 43,
+    "skus": [
+      {
+        "description": "",
+        "price": "15.43",
+        "id": 1822
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1823,
+    "attrs": [],
+    "category_id": 253,
+    "created_at": {
+      "$date": "2026-05-20T11:01:34.383Z"
+    },
+    "month_saled": 86,
+    "month_saled_content": "86",
+    "name": "Pork fillet panini 2-piece set",
+    "pic_url": "/gma-cached-assets/annotator/meituan/kfc-twopanini-f6ef75fa.webp",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 43,
+    "skus": [
+      {
+        "description": "",
+        "price": "11.9",
+        "id": 1823
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1829,
+    "attrs": [],
+    "category_id": 258,
+    "created_at": {
+      "$date": "2026-05-20T11:01:44.574Z"
+    },
+    "month_saled": 4,
+    "month_saled_content": "4",
+    "name": "Boutique Xiahua Fat Beef Package",
+    "pic_url": "/gma-cached-assets/annotator/meituan/one-1f51886e.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 44,
+    "skus": [
+      {
+        "description": "",
+        "price": "29.1",
+        "id": 1829
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1830,
+    "attrs": [],
+    "category_id": 258,
+    "created_at": {
+      "$date": "2026-05-20T11:01:46.088Z"
+    },
+    "month_saled": 1,
+    "month_saled_content": "1",
+    "name": "Value blind box package",
+    "pic_url": "/gma-cached-assets/annotator/meituan/zhangliang-caipin2-1d6f6386.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 44,
+    "skus": [
+      {
+        "description": "",
+        "price": "11.8",
+        "id": 1830
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1831,
+    "attrs": [],
+    "category_id": 258,
+    "created_at": {
+      "$date": "2026-05-20T11:01:47.524Z"
+    },
+    "month_saled": 41,
+    "month_saled_content": "41",
+    "name": "Vegetarian package",
+    "pic_url": "/gma-cached-assets/annotator/meituan/zhangliang-caipin3-daacb6be.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 44,
+    "skus": [
+      {
+        "description": "",
+        "price": "14.8",
+        "id": 1831
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1832,
+    "attrs": [],
+    "category_id": 258,
+    "created_at": {
+      "$date": "2026-05-20T11:01:48.801Z"
+    },
+    "month_saled": 3,
+    "month_saled_content": "3",
+    "name": "One-person catering package",
+    "pic_url": "/gma-cached-assets/annotator/meituan/one-ca1624d4.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 44,
+    "skus": [
+      {
+        "description": "",
+        "price": "17.8",
+        "id": 1832
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1833,
+    "attrs": [],
+    "category_id": 258,
+    "created_at": {
+      "$date": "2026-05-20T11:01:49.879Z"
+    },
+    "month_saled": 12,
+    "month_saled_content": "12",
+    "name": "Vegetarian balanced package",
+    "pic_url": "/gma-cached-assets/annotator/meituan/zhangliang-caipin4-baa954da.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 44,
+    "skus": [
+      {
+        "description": "",
+        "price": "15.8",
+        "id": 1833
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1834,
+    "attrs": [],
+    "category_id": 259,
+    "created_at": {
+      "$date": "2026-05-20T11:01:51.962Z"
+    },
+    "month_saled": 67,
+    "month_saled_content": "67",
+    "name": "Premium 5-piece set",
+    "pic_url": "/gma-cached-assets/annotator/meituan/c461b75ba9b7c87b4f9a7744d68f82f5-f7e90cf6.jpg",
+    "praise_content": "One hamburger, three snacks and a drink.",
+    "praise_num": 0,
+    "restaurant_id": 45,
+    "skus": [
+      {
+        "description": "One hamburger, three snacks and a drink.",
+        "price": "28.9",
+        "id": 1834
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1835,
+    "attrs": [],
+    "category_id": 259,
+    "created_at": {
+      "$date": "2026-05-20T11:01:53.253Z"
+    },
+    "month_saled": 34,
+    "month_saled_content": "34",
+    "name": "Value blind box package",
+    "pic_url": "/gma-cached-assets/annotator/meituan/da0c465c62c37657501e4db70ffc1e7e-e2445af8.jpg",
+    "praise_content": "Two hamburgers, three snacks and one drink.",
+    "praise_num": 0,
+    "restaurant_id": 45,
+    "skus": [
+      {
+        "description": "Two hamburgers, three snacks and one drink.",
+        "price": "34.8",
+        "id": 1835
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1836,
+    "attrs": [],
+    "category_id": 259,
+    "created_at": {
+      "$date": "2026-05-20T11:01:54.466Z"
+    },
+    "month_saled": 4,
+    "month_saled_content": "4",
+    "name": "Single set of 5 pieces",
+    "pic_url": "/gma-cached-assets/annotator/meituan/single-4ee9c06b.png",
+    "praise_content": "One hamburger, three snacks and a drink.",
+    "praise_num": 0,
+    "restaurant_id": 45,
+    "skus": [
+      {
+        "description": "One hamburger, three snacks and a drink.",
+        "price": "25.8",
+        "id": 1836
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1837,
+    "attrs": [],
+    "category_id": 260,
+    "created_at": {
+      "$date": "2026-05-20T11:01:55.971Z"
+    },
+    "month_saled": 6,
+    "month_saled_content": "6",
+    "name": "Value double 6-piece set",
+    "pic_url": "/gma-cached-assets/annotator/meituan/f47a8f684f88d5625cba37b978c88e1b-51e88343.jpg",
+    "praise_content": "Two hamburgers, two snacks and two drinks.",
+    "praise_num": 0,
+    "restaurant_id": 45,
+    "skus": [
+      {
+        "description": "Two hamburgers, two snacks and two drinks.",
+        "price": "42.9",
+        "id": 1837
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1838,
+    "attrs": [],
+    "category_id": 261,
+    "created_at": {
+      "$date": "2026-05-20T11:01:57.005Z"
+    },
+    "month_saled": 22,
+    "month_saled_content": "22",
+    "name": "Crispy whole chicken",
+    "pic_url": "/gma-cached-assets/annotator/meituan/0da061d49a9a024c8f5fd4e05b158ca9-ec6cd506.jpg",
+    "praise_content": "A fried chicken",
+    "praise_num": 0,
+    "restaurant_id": 45,
+    "skus": [
+      {
+        "description": "A fried chicken",
+        "price": "23.3",
+        "id": 1838
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1839,
+    "attrs": [],
+    "category_id": 262,
+    "created_at": {
+      "$date": "2026-05-20T11:01:59.788Z"
+    },
+    "month_saled": 53,
+    "month_saled_content": "53",
+    "name": "Selected single 5-piece set",
+    "pic_url": "/gma-cached-assets/annotator/meituan/1496f2045eb41af96516f283ead42909-afe5e8d7.jpg",
+    "praise_content": "One hamburger, three snacks and a drink.",
+    "praise_num": 0,
+    "restaurant_id": 46,
+    "skus": [
+      {
+        "description": "One hamburger, three snacks and a drink.",
+        "price": "25.88",
+        "id": 1839
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1840,
+    "attrs": [],
+    "category_id": 262,
+    "created_at": {
+      "$date": "2026-05-20T11:02:01.062Z"
+    },
+    "month_saled": 12,
+    "month_saled_content": "12",
+    "name": "Hamburg snack box set",
+    "pic_url": "/gma-cached-assets/annotator/meituan/fc2a2ac6e36e2128022df710a6012801-4da16ff9.jpg",
+    "praise_content": "A hamburger, a three-piece snack box and a coke.",
+    "praise_num": 0,
+    "restaurant_id": 46,
+    "skus": [
+      {
+        "description": "A hamburger, a three-piece snack box and a coke.",
+        "price": "32",
+        "id": 1840
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1841,
+    "attrs": [],
+    "category_id": 263,
+    "created_at": {
+      "$date": "2026-05-20T11:02:02.092Z"
+    },
+    "month_saled": 35,
+    "month_saled_content": "35",
+    "name": "Spicy chicken with spiced bones set of 5 for single person.",
+    "pic_url": "/gma-cached-assets/annotator/meituan/piece-beddecb7.png",
+    "praise_content": "One hamburger, three snacks and a drink.",
+    "praise_num": 0,
+    "restaurant_id": 46,
+    "skus": [
+      {
+        "description": "One hamburger, three snacks and a drink.",
+        "price": "24.88",
+        "id": 1841
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1842,
+    "attrs": [],
+    "category_id": 264,
+    "created_at": {
+      "$date": "2026-05-20T11:02:03.482Z"
+    },
+    "month_saled": 25,
+    "month_saled_content": "25",
+    "name": "Spicy chicken leg China hamburger",
+    "pic_url": "/gma-cached-assets/annotator/meituan/2c68514f6b3c7d9e308fa284dd01d62d-5184afae.jpg",
+    "praise_content": "One hamburger",
+    "praise_num": 0,
+    "restaurant_id": 46,
+    "skus": [
+      {
+        "description": "One hamburger",
+        "price": "12.6",
+        "id": 1842
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1843,
+    "attrs": [],
+    "category_id": 264,
+    "created_at": {
+      "$date": "2026-05-20T11:02:04.656Z"
+    },
+    "month_saled": 44,
+    "month_saled_content": "44",
+    "name": "Crispy whole chicken",
+    "pic_url": "/gma-cached-assets/annotator/meituan/whole-6ea2b85a.png",
+    "praise_content": "One hamburger",
+    "praise_num": 0,
+    "restaurant_id": 46,
+    "skus": [
+      {
+        "description": "One hamburger",
+        "price": "12.6",
+        "id": 1843
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1844,
+    "attrs": [],
+    "category_id": 265,
+    "created_at": {
+      "$date": "2026-05-20T11:02:06.913Z"
+    },
+    "month_saled": 356,
+    "month_saled_content": "356",
+    "name": "Zinger burger",
+    "pic_url": "/gma-cached-assets/annotator/meituan/217d0f77eb84b2d1ffe7d2559e3d4fb7-c49215ff.jpg",
+    "praise_content": "Chicken leg, lettuce",
+    "praise_num": 0,
+    "restaurant_id": 47,
+    "skus": [
+      {
+        "description": "Chicken leg, lettuce",
+        "price": "10.5",
+        "id": 1844
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1845,
+    "attrs": [],
+    "category_id": 265,
+    "created_at": {
+      "$date": "2026-05-20T11:02:08.050Z"
+    },
+    "month_saled": 200,
+    "month_saled_content": "200",
+    "name": "Mexican chicken rolls",
+    "pic_url": "/gma-cached-assets/annotator/meituan/5feb4899e250028e5b749dfef21a5e06-aea6a4e6.jpg",
+    "praise_content": "Fried chicken leg meat, lettuce, cake",
+    "praise_num": 0,
+    "restaurant_id": 47,
+    "skus": [
+      {
+        "description": "Fried chicken leg meat, lettuce, cake",
+        "price": "9.5",
+        "id": 1845
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1846,
+    "attrs": [],
+    "category_id": 265,
+    "created_at": {
+      "$date": "2026-05-20T11:02:09.391Z"
+    },
+    "month_saled": 100,
+    "month_saled_content": "100",
+    "name": "Old Beijing chicken roll",
+    "pic_url": "/gma-cached-assets/annotator/meituan/old-3dd85cc9.png",
+    "praise_content": "Chicken leg meat, cucumber strips, cakes",
+    "praise_num": 0,
+    "restaurant_id": 47,
+    "skus": [
+      {
+        "description": "Chicken leg meat, cucumber strips, cakes",
+        "price": "9.5",
+        "id": 1846
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1847,
+    "attrs": [],
+    "category_id": 265,
+    "created_at": {
+      "$date": "2026-05-20T11:02:10.521Z"
+    },
+    "month_saled": 231,
+    "month_saled_content": "231",
+    "name": "popcorn chicken",
+    "pic_url": "/gma-cached-assets/annotator/meituan/42402e481640614d168ca433c70f2f54-28cd213d.jpg",
+    "praise_content": "Fried small pieces of chicken",
+    "praise_num": 0,
+    "restaurant_id": 47,
+    "skus": [
+      {
+        "description": "Fried small pieces of chicken",
+        "price": "8.5",
+        "id": 1847
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1848,
+    "attrs": [],
+    "category_id": 265,
+    "created_at": {
+      "$date": "2026-05-20T11:02:11.540Z"
+    },
+    "month_saled": 102,
+    "month_saled_content": "102",
+    "name": "Corn cup",
+    "pic_url": "/gma-cached-assets/annotator/meituan/53c82c2921730330b9af338896eb7f8f-8e9f1813.jpg",
+    "praise_content": "corn",
+    "praise_num": 0,
+    "restaurant_id": 47,
+    "skus": [
+      {
+        "description": "corn",
+        "price": "6.5",
+        "id": 1848
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1849,
+    "attrs": [],
+    "category_id": 266,
+    "created_at": {
+      "$date": "2026-05-20T11:02:13.878Z"
+    },
+    "month_saled": 14,
+    "month_saled_content": "14",
+    "name": "Spicy chicken leg fort set of eight for two",
+    "pic_url": "/gma-cached-assets/annotator/meituan/29f3f439b7069ff5e401e4020a5211a3-99197ff3.jpg",
+    "praise_content": "Two hamburgers,One big chicken steak, three snacks and two drinks.",
+    "praise_num": 0,
+    "restaurant_id": 48,
+    "skus": [
+      {
+        "description": "Two hamburgers,One big chicken steak, three snacks and two drinks.",
+        "price": "41.9",
+        "id": 1849
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1850,
+    "attrs": [],
+    "category_id": 267,
+    "created_at": {
+      "$date": "2026-05-20T11:02:15.135Z"
+    },
+    "month_saled": 16,
+    "month_saled_content": "16",
+    "name": "Fried chicken legs",
+    "pic_url": "/gma-cached-assets/annotator/meituan/12a48ca514fd3844adb5fc9874f3f70e-1419c48a.jpg",
+    "praise_content": "chicken thighs",
+    "praise_num": 0,
+    "restaurant_id": 48,
+    "skus": [
+      {
+        "description": "chicken thighs",
+        "price": "15",
+        "id": 1850
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1851,
+    "attrs": [],
+    "category_id": 268,
+    "created_at": {
+      "$date": "2026-05-20T11:02:16.487Z"
+    },
+    "month_saled": 48,
+    "month_saled_content": "48",
+    "name": "Zhengxin spicy big chicken steak",
+    "pic_url": "/gma-cached-assets/annotator/meituan/ecd75c133cd22b41f285fac816b09c70-e095e972.jpg",
+    "praise_content": "Fried chicken",
+    "praise_num": 0,
+    "restaurant_id": 48,
+    "skus": [
+      {
+        "description": "Fried chicken",
+        "price": "9.5",
+        "id": 1851
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1852,
+    "attrs": [],
+    "category_id": 268,
+    "created_at": {
+      "$date": "2026-05-20T11:02:17.767Z"
+    },
+    "month_saled": 38,
+    "month_saled_content": "38",
+    "name": "Cheese Explosicum Chicken Cutlet",
+    "pic_url": "/gma-cached-assets/annotator/meituan/05f16c3ca6c28fd13a1b33c4ac5a7957-60e88291.jpg",
+    "praise_content": "Cheese, chicken steak",
+    "praise_num": 0,
+    "restaurant_id": 48,
+    "skus": [
+      {
+        "description": "Cheese, chicken steak",
+        "price": "16.8",
+        "id": 1852
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1853,
+    "attrs": [],
+    "category_id": 269,
+    "created_at": {
+      "$date": "2026-05-20T11:02:20.280Z"
+    },
+    "month_saled": 689,
+    "month_saled_content": "689",
+    "name": "boya vast string",
+    "pic_url": "/gma-cached-assets/annotator/meituan/boya-c5ca589a.png",
+    "praise_content": "Green tea, milk",
+    "praise_num": 0,
+    "restaurant_id": 49,
+    "skus": [
+      {
+        "description": "Green tea, milk",
+        "price": "17",
+        "id": 1853
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1854,
+    "attrs": [],
+    "category_id": 269,
+    "created_at": {
+      "$date": "2026-05-20T11:02:21.459Z"
+    },
+    "month_saled": 106,
+    "month_saled_content": "106",
+    "name": "Qingqing Nuoshan",
+    "pic_url": "/gma-cached-assets/annotator/meituan/boya-e4372a3f.png",
+    "praise_content": "Green tea, milk",
+    "praise_num": 0,
+    "restaurant_id": 49,
+    "skus": [
+      {
+        "description": "Green tea, milk",
+        "price": "16",
+        "id": 1854
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1855,
+    "attrs": [],
+    "category_id": 269,
+    "created_at": {
+      "$date": "2026-05-20T11:02:22.572Z"
+    },
+    "month_saled": 112,
+    "month_saled_content": "112",
+    "name": "Awake to Spring Mountains",
+    "pic_url": "/gma-cached-assets/annotator/meituan/boya-e4372a3f.png",
+    "praise_content": "Longjing, milk, Bingbolang",
+    "praise_num": 0,
+    "restaurant_id": 49,
+    "skus": [
+      {
+        "description": "Longjing, milk, Bingbolang",
+        "price": "19",
+        "id": 1855
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1856,
+    "attrs": [],
+    "category_id": 270,
+    "created_at": {
+      "$date": "2026-05-20T11:02:25.148Z"
+    },
+    "month_saled": 56,
+    "month_saled_content": "56",
+    "name": "Watermelon fresh fruit tea",
+    "pic_url": "/gma-cached-assets/annotator/meituan/milk-44963f1b.png",
+    "praise_content": "Cut watermelon and four kinds of seasonal fruits first.",
+    "praise_num": 0,
+    "restaurant_id": 50,
+    "skus": [
+      {
+        "description": "Cut watermelon and four kinds of seasonal fruits first.",
+        "price": "15.1",
+        "id": 1856
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1857,
+    "attrs": [],
+    "category_id": 270,
+    "created_at": {
+      "$date": "2026-05-20T11:02:26.550Z"
+    },
+    "month_saled": 104,
+    "month_saled_content": "104",
+    "name": "Yi he Kao nai",
+    "pic_url": "/gma-cached-assets/annotator/meituan/milk-44963f1b.png",
+    "praise_content": "Black tea, hot red milk tea, vegetable fat milk",
+    "praise_num": 0,
+    "restaurant_id": 50,
+    "skus": [
+      {
+        "description": "Black tea, hot red milk tea, vegetable fat milk",
+        "price": "10",
+        "id": 1857
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1858,
+    "attrs": [],
+    "category_id": 270,
+    "created_at": {
+      "$date": "2026-05-20T11:02:27.931Z"
+    },
+    "month_saled": 216,
+    "month_saled_content": "216",
+    "name": "Mint milk green",
+    "pic_url": "/gma-cached-assets/annotator/meituan/milk-2acd082c.png",
+    "praise_content": "Jasmine green tea, mint",
+    "praise_num": 0,
+    "restaurant_id": 50,
+    "skus": [
+      {
+        "description": "Jasmine green tea, mint",
+        "price": "10",
+        "id": 1858
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1859,
+    "attrs": [],
+    "category_id": 270,
+    "created_at": {
+      "$date": "2026-05-20T11:02:29.166Z"
+    },
+    "month_saled": 43,
+    "month_saled_content": "43",
+    "name": "Jasmine white light milk tea",
+    "pic_url": "/gma-cached-assets/annotator/meituan/milk-44963f1b.png",
+    "praise_content": "Milk, green tea",
+    "praise_num": 0,
+    "restaurant_id": 50,
+    "skus": [
+      {
+        "description": "Milk, green tea",
+        "price": "10",
+        "id": 1859
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1860,
+    "attrs": [],
+    "category_id": 271,
+    "created_at": {
+      "$date": "2026-05-20T11:02:31.637Z"
+    },
+    "month_saled": 54,
+    "month_saled_content": "54",
+    "name": "Perilla Myrica rubra peach",
+    "pic_url": "/gma-cached-assets/annotator/meituan/sago-32221ea3.png",
+    "praise_content": "Peach, perilla leaf, bayberry, oolong tea",
+    "praise_num": 0,
+    "restaurant_id": 51,
+    "skus": [
+      {
+        "description": "Peach, perilla leaf, bayberry, oolong tea",
+        "price": "13",
+        "id": 1860
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1861,
+    "attrs": [],
+    "category_id": 271,
+    "created_at": {
+      "$date": "2026-05-20T11:02:32.763Z"
+    },
+    "month_saled": 46,
+    "month_saled_content": "46",
+    "name": "Mango pomelo sago",
+    "pic_url": "/gma-cached-assets/annotator/meituan/sago-c41787c3.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 51,
+    "skus": [
+      {
+        "description": "",
+        "price": "15",
+        "id": 1861
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1862,
+    "attrs": [],
+    "category_id": 271,
+    "created_at": {
+      "$date": "2026-05-20T11:02:33.913Z"
+    },
+    "month_saled": 35,
+    "month_saled_content": "35",
+    "name": "Watermelon bam bam",
+    "pic_url": "/gma-cached-assets/annotator/meituan/sago-32221ea3.png",
+    "praise_content": "Crispy, watermelon, green tea",
+    "praise_num": 0,
+    "restaurant_id": 51,
+    "skus": [
+      {
+        "description": "Crispy, watermelon, green tea",
+        "price": "13",
+        "id": 1862
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1863,
+    "attrs": [],
+    "category_id": 271,
+    "created_at": {
+      "$date": "2026-05-20T11:02:34.559Z"
+    },
+    "month_saled": 26,
+    "month_saled_content": "26",
+    "name": "Baixiang pineapple",
+    "pic_url": "/gma-cached-assets/annotator/meituan/sago-32221ea3.png",
+    "praise_content": "Paired pineapple with passion fruit, add green tea and spices.",
+    "praise_num": 0,
+    "restaurant_id": 51,
+    "skus": [
+      {
+        "description": "Paired pineapple with passion fruit, add green tea and spices.",
+        "price": "10",
+        "id": 1863
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1864,
+    "attrs": [],
+    "category_id": 272,
+    "created_at": {
+      "$date": "2026-05-20T11:02:35.803Z"
+    },
+    "month_saled": 41,
+    "month_saled_content": "41",
+    "name": "Watermelon fresh fruit tea",
+    "pic_url": "/gma-cached-assets/annotator/meituan/classic-06aeffc5.png",
+    "praise_content": "Litchi, milk, coffee beans",
+    "praise_num": 0,
+    "restaurant_id": 52,
+    "skus": [
+      {
+        "description": "Litchi, milk, coffee beans",
+        "price": "9.7",
+        "id": 1864
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1865,
+    "attrs": [],
+    "category_id": 272,
+    "created_at": {
+      "$date": "2026-05-20T11:02:36.434Z"
+    },
+    "month_saled": 28,
+    "month_saled_content": "28",
+    "name": "Classic American coffee",
+    "pic_url": "/gma-cached-assets/annotator/meituan/classic-3174af34.png",
+    "praise_content": "coffee beans",
+    "praise_num": 0,
+    "restaurant_id": 52,
+    "skus": [
+      {
+        "description": "coffee beans",
+        "price": "7.9",
+        "id": 1865
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1866,
+    "attrs": [],
+    "category_id": 272,
+    "created_at": {
+      "$date": "2026-05-20T11:02:37.311Z"
+    },
+    "month_saled": 13,
+    "month_saled_content": "13",
+    "name": "Classic latte",
+    "pic_url": "/gma-cached-assets/annotator/meituan/classic-06aeffc5.png",
+    "praise_content": "Coffee, milk",
+    "praise_num": 0,
+    "restaurant_id": 52,
+    "skus": [
+      {
+        "description": "Coffee, milk",
+        "price": "12",
+        "id": 1866
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1867,
+    "attrs": [],
+    "category_id": 272,
+    "created_at": {
+      "$date": "2026-05-20T11:02:38.027Z"
+    },
+    "month_saled": 20,
+    "month_saled_content": "20",
+    "name": "Iced Strawberry Tea",
+    "pic_url": "/gma-cached-assets/annotator/meituan/classic-06aeffc5.png",
+    "praise_content": "Strawberries, green tea",
+    "praise_num": 0,
+    "restaurant_id": 52,
+    "skus": [
+      {
+        "description": "Strawberries, green tea",
+        "price": "9",
+        "id": 1867
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1868,
+    "attrs": [],
+    "category_id": 273,
+    "created_at": {
+      "$date": "2026-05-20T11:02:39.254Z"
+    },
+    "month_saled": 169,
+    "month_saled_content": "169",
+    "name": "Peach season spring",
+    "pic_url": "/gma-cached-assets/annotator/meituan/da-83d893ab.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 53,
+    "skus": [
+      {
+        "description": "",
+        "price": "6.6",
+        "id": 1868
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1869,
+    "attrs": [],
+    "category_id": 273,
+    "created_at": {
+      "$date": "2026-05-20T11:02:39.852Z"
+    },
+    "month_saled": 186,
+    "month_saled_content": "186",
+    "name": "Bang da xian orange",
+    "pic_url": "/gma-cached-assets/annotator/meituan/da-15597c3b.png",
+    "praise_content": "Orange, green tea",
+    "praise_num": 0,
+    "restaurant_id": 53,
+    "skus": [
+      {
+        "description": "Orange, green tea",
+        "price": "5.4",
+        "id": 1869
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1870,
+    "attrs": [],
+    "category_id": 273,
+    "created_at": {
+      "$date": "2026-05-20T11:02:40.454Z"
+    },
+    "month_saled": 48,
+    "month_saled_content": "48",
+    "name": "Full cup of passion fruit",
+    "pic_url": "/gma-cached-assets/annotator/meituan/da-83d893ab.png",
+    "praise_content": "Green tea, pearls, passion fruit",
+    "praise_num": 0,
+    "restaurant_id": 53,
+    "skus": [
+      {
+        "description": "Green tea, pearls, passion fruit",
+        "price": "6.6",
+        "id": 1870
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1871,
+    "attrs": [],
+    "category_id": 273,
+    "created_at": {
+      "$date": "2026-05-20T11:02:41.038Z"
+    },
+    "month_saled": 11,
+    "month_saled_content": "11",
+    "name": "Crispy sundae",
+    "pic_url": "/gma-cached-assets/annotator/meituan/da-83d893ab.png",
+    "praise_content": "Oreo cookies, ice cream",
+    "praise_num": 0,
+    "restaurant_id": 53,
+    "skus": [
+      {
+        "description": "Oreo cookies, ice cream",
+        "price": "6.6",
+        "id": 1871
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1872,
+    "attrs": [],
+    "category_id": 274,
+    "created_at": {
+      "$date": "2026-05-20T11:02:42.143Z"
+    },
+    "month_saled": 124,
+    "month_saled_content": "124",
+    "name": "Watermelon coconut coconut",
+    "pic_url": "/gma-cached-assets/annotator/meituan/mud-2352e62b.png",
+    "praise_content": "Coconut milk, watermelon",
+    "praise_num": 0,
+    "restaurant_id": 54,
+    "skus": [
+      {
+        "description": "Coconut milk, watermelon",
+        "price": "16",
+        "id": 1872
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1873,
+    "attrs": [],
+    "category_id": 274,
+    "created_at": {
+      "$date": "2026-05-20T11:02:42.924Z"
+    },
+    "month_saled": 256,
+    "month_saled_content": "256",
+    "name": "Houyu Mud Bobo Milk Tea",
+    "pic_url": "/gma-cached-assets/annotator/meituan/mud-2246141d.png",
+    "praise_content": "Lipu taro paste, brown sugar, milk tea",
+    "praise_num": 0,
+    "restaurant_id": 54,
+    "skus": [
+      {
+        "description": "Lipu taro paste, brown sugar, milk tea",
+        "price": "16",
+        "id": 1873
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1874,
+    "attrs": [],
+    "category_id": 274,
+    "created_at": {
+      "$date": "2026-05-20T11:02:43.740Z"
+    },
+    "month_saled": 48,
+    "month_saled_content": "48",
+    "name": "Shallow and clear",
+    "pic_url": "/gma-cached-assets/annotator/meituan/mud-2352e62b.png",
+    "praise_content": "Jasmine green tea, milk",
+    "praise_num": 0,
+    "restaurant_id": 54,
+    "skus": [
+      {
+        "description": "Jasmine green tea, milk",
+        "price": "15",
+        "id": 1874
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1875,
+    "attrs": [],
+    "category_id": 275,
+    "created_at": {
+      "$date": "2026-05-20T11:02:45.276Z"
+    },
+    "month_saled": 23,
+    "month_saled_content": "23",
+    "name": "Small butter American coffee",
+    "pic_url": "/gma-cached-assets/annotator/meituan/latte-0120925c.png",
+    "praise_content": "Butter, coffee",
+    "praise_num": 0,
+    "restaurant_id": 55,
+    "skus": [
+      {
+        "description": "Butter, coffee",
+        "price": "15",
+        "id": 1875
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1876,
+    "attrs": [],
+    "category_id": 275,
+    "created_at": {
+      "$date": "2026-05-20T11:02:45.905Z"
+    },
+    "month_saled": 12,
+    "month_saled_content": "12",
+    "name": "Butter latte",
+    "pic_url": "/gma-cached-assets/annotator/meituan/latte-0120925c.png",
+    "praise_content": "Butter, milk and coffee",
+    "praise_num": 0,
+    "restaurant_id": 55,
+    "skus": [
+      {
+        "description": "Butter, milk and coffee",
+        "price": "15",
+        "id": 1876
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1877,
+    "attrs": [],
+    "category_id": 275,
+    "created_at": {
+      "$date": "2026-05-20T11:02:46.609Z"
+    },
+    "month_saled": 9,
+    "month_saled_content": "9",
+    "name": "Raw coconut latte",
+    "pic_url": "/gma-cached-assets/annotator/meituan/latte-22c069fc.png",
+    "praise_content": "Jasmine green tea, milk",
+    "praise_num": 0,
+    "restaurant_id": 55,
+    "skus": [
+      {
+        "description": "Jasmine green tea, milk",
+        "price": "15",
+        "id": 1877
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1878,
+    "attrs": [],
+    "category_id": 275,
+    "created_at": {
+      "$date": "2026-05-20T11:03:30.566Z"
+    },
+    "month_saled": 16,
+    "month_saled_content": "16",
+    "name": "Jasmine latte",
+    "pic_url": "/gma-cached-assets/annotator/meituan/latte-0120925c.png",
+    "praise_content": "Coffee, milk",
+    "praise_num": 0,
+    "restaurant_id": 55,
+    "skus": [
+      {
+        "description": "Coffee, milk",
+        "price": "15",
+        "id": 1878
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1879,
+    "attrs": [],
+    "category_id": 276,
+    "created_at": {
+      "$date": "2026-05-20T11:03:31.802Z"
+    },
+    "month_saled": 125,
+    "month_saled_content": "125",
+    "name": "Domineering bayberry",
+    "pic_url": "/gma-cached-assets/annotator/meituan/xi-982f80e3.png",
+    "praise_content": "Jasmine tea, waxberry fresh fruit, Jasmine first snow, lemon",
+    "praise_num": 0,
+    "restaurant_id": 56,
+    "skus": [
+      {
+        "description": "Jasmine tea, waxberry fresh fruit, Jasmine first snow, lemon",
+        "price": "16",
+        "id": 1879
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1880,
+    "attrs": [],
+    "category_id": 276,
+    "created_at": {
+      "$date": "2026-05-20T11:03:32.389Z"
+    },
+    "month_saled": 28,
+    "month_saled_content": "28",
+    "name": "Dominant lemon oil orange",
+    "pic_url": "/gma-cached-assets/annotator/meituan/xi-982f80e3.png",
+    "praise_content": "Butter, milk and coffee",
+    "praise_num": 0,
+    "restaurant_id": 56,
+    "skus": [
+      {
+        "description": "Butter, milk and coffee",
+        "price": "16",
+        "id": 1880
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1881,
+    "attrs": [],
+    "category_id": 277,
+    "created_at": {
+      "$date": "2026-05-20T11:03:32.944Z"
+    },
+    "month_saled": 79,
+    "month_saled_content": "79",
+    "name": "Chaoneng avocado yoghourt Xi",
+    "pic_url": "/gma-cached-assets/annotator/meituan/xi-982f80e3.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 56,
+    "skus": [
+      {
+        "description": "",
+        "price": "18",
+        "id": 1881
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1882,
+    "attrs": [],
+    "category_id": 277,
+    "created_at": {
+      "$date": "2026-05-20T11:03:33.593Z"
+    },
+    "month_saled": 16,
+    "month_saled_content": "16",
+    "name": "Huaqing blueberry ice cream",
+    "pic_url": "/gma-cached-assets/annotator/meituan/xi-982f80e3.png",
+    "praise_content": "Blueberries, mulberries, cheese",
+    "praise_num": 0,
+    "restaurant_id": 56,
+    "skus": [
+      {
+        "description": "Blueberries, mulberries, cheese",
+        "price": "18",
+        "id": 1882
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1883,
+    "attrs": [],
+    "category_id": 278,
+    "created_at": {
+      "$date": "2026-05-20T11:03:34.901Z"
+    },
+    "month_saled": 120,
+    "month_saled_content": "120",
+    "name": "Only this mango green",
+    "pic_url": "/gma-cached-assets/annotator/meituan/black-db78e092.png",
+    "praise_content": "Mango, tea jelly, four seasons spring tea",
+    "praise_num": 0,
+    "restaurant_id": 57,
+    "skus": [
+      {
+        "description": "Mango, tea jelly, four seasons spring tea",
+        "price": "9.9",
+        "id": 1883
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1884,
+    "attrs": [],
+    "category_id": 279,
+    "created_at": {
+      "$date": "2026-05-20T11:03:35.574Z"
+    },
+    "month_saled": 168,
+    "month_saled_content": "168",
+    "name": "Ice cream black tea",
+    "pic_url": "/gma-cached-assets/annotator/meituan/black-f786c13f.png",
+    "praise_content": "Black tea, ice cream",
+    "praise_num": 0,
+    "restaurant_id": 57,
+    "skus": [
+      {
+        "description": "Black tea, ice cream",
+        "price": "14",
+        "id": 1884
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1885,
+    "attrs": [],
+    "category_id": 279,
+    "created_at": {
+      "$date": "2026-05-20T11:03:36.091Z"
+    },
+    "month_saled": 148,
+    "month_saled_content": "148",
+    "name": "Cranberry milk green",
+    "pic_url": "/gma-cached-assets/annotator/meituan/black-db78e092.png",
+    "praise_content": "Cranberry, green tea",
+    "praise_num": 0,
+    "restaurant_id": 57,
+    "skus": [
+      {
+        "description": "Cranberry, green tea",
+        "price": "14",
+        "id": 1885
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1886,
+    "attrs": [],
+    "category_id": 280,
+    "created_at": {
+      "$date": "2026-05-20T11:03:37.364Z"
+    },
+    "month_saled": 156,
+    "month_saled_content": "156",
+    "name": "Taihong lemon tea",
+    "pic_url": "/gma-cached-assets/annotator/meituan/bucket-67ee37f7.png",
+    "praise_content": "Mango, tea jelly, four seasons spring tea",
+    "praise_num": 0,
+    "restaurant_id": 58,
+    "skus": [
+      {
+        "description": "Mango, tea jelly, four seasons spring tea",
+        "price": "8",
+        "id": 1886
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1887,
+    "attrs": [],
+    "category_id": 281,
+    "created_at": {
+      "$date": "2026-05-20T11:03:37.906Z"
+    },
+    "month_saled": 168,
+    "month_saled_content": "168",
+    "name": "A bucket of fruit tea",
+    "pic_url": "/gma-cached-assets/annotator/meituan/bucket-807cad43.png",
+    "praise_content": "Fresh seasonal fruit, oolong tea",
+    "praise_num": 0,
+    "restaurant_id": 58,
+    "skus": [
+      {
+        "description": "Fresh seasonal fruit, oolong tea",
+        "price": "12",
+        "id": 1887
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1888,
+    "attrs": [],
+    "category_id": 281,
+    "created_at": {
+      "$date": "2026-05-20T11:03:38.532Z"
+    },
+    "month_saled": 120,
+    "month_saled_content": "120",
+    "name": "Qing feng mo Bai xian milk tea",
+    "pic_url": "/gma-cached-assets/annotator/meituan/bucket-67ee37f7.png",
+    "praise_content": "Green tea, fresh milk",
+    "praise_num": 0,
+    "restaurant_id": 58,
+    "skus": [
+      {
+        "description": "Green tea, fresh milk",
+        "price": "10",
+        "id": 1888
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1889,
+    "attrs": [],
+    "category_id": 282,
+    "created_at": {
+      "$date": "2026-05-20T11:03:39.764Z"
+    },
+    "month_saled": 12,
+    "month_saled_content": "12",
+    "name": "Ground broken melon",
+    "pic_url": "/gma-cached-assets/annotator/meituan/broken-a8f291ad.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 59,
+    "skus": [
+      {
+        "description": "",
+        "price": "7.8",
+        "id": 1889
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1890,
+    "attrs": [],
+    "category_id": 282,
+    "created_at": {
+      "$date": "2026-05-20T11:03:40.386Z"
+    },
+    "month_saled": 22,
+    "month_saled_content": "22",
+    "name": "Water wind chime lotus mist",
+    "pic_url": "/gma-cached-assets/annotator/meituan/broken-5fa1b333.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 59,
+    "skus": [
+      {
+        "description": "",
+        "price": "7.5",
+        "id": 1890
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1891,
+    "attrs": [],
+    "category_id": 282,
+    "created_at": {
+      "$date": "2026-05-20T11:03:41.103Z"
+    },
+    "month_saled": 43,
+    "month_saled_content": "43",
+    "name": "Liu ying Bao Zhu Xiao tomato",
+    "pic_url": "/gma-cached-assets/annotator/meituan/broken-5fa1b333.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 59,
+    "skus": [
+      {
+        "description": "",
+        "price": "7.9",
+        "id": 1891
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1892,
+    "attrs": [],
+    "category_id": 283,
+    "created_at": {
+      "$date": "2026-05-20T11:03:42.416Z"
+    },
+    "month_saled": 14,
+    "month_saled_content": "14",
+    "name": "Fresh-cut cantaloupe",
+    "pic_url": "/gma-cached-assets/annotator/meituan/rose-0e49fafe.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 60,
+    "skus": [
+      {
+        "description": "",
+        "price": "9.9",
+        "id": 1892
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1893,
+    "attrs": [],
+    "category_id": 283,
+    "created_at": {
+      "$date": "2026-05-20T11:03:43.025Z"
+    },
+    "month_saled": 97,
+    "month_saled_content": "97",
+    "name": "Sunlight Rose Grape",
+    "pic_url": "/gma-cached-assets/annotator/meituan/rose-58e61abe.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 60,
+    "skus": [
+      {
+        "description": "",
+        "price": "12.9",
+        "id": 1893
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1894,
+    "attrs": [],
+    "category_id": 283,
+    "created_at": {
+      "$date": "2026-05-20T11:03:43.667Z"
+    },
+    "month_saled": 156,
+    "month_saled_content": "156",
+    "name": "Blueberry",
+    "pic_url": "/gma-cached-assets/annotator/meituan/rose-0e49fafe.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 60,
+    "skus": [
+      {
+        "description": "",
+        "price": "11.9",
+        "id": 1894
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1895,
+    "attrs": [],
+    "category_id": 284,
+    "created_at": {
+      "$date": "2026-05-20T11:03:44.900Z"
+    },
+    "month_saled": 14,
+    "month_saled_content": "14",
+    "name": "Thai Monthong Durian Flesh",
+    "pic_url": "/gma-cached-assets/annotator/meituan/durian-82a4860d.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 61,
+    "skus": [
+      {
+        "description": "",
+        "price": "79.9",
+        "id": 1895
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1896,
+    "attrs": [],
+    "category_id": 284,
+    "created_at": {
+      "$date": "2026-05-20T11:03:45.454Z"
+    },
+    "month_saled": 52,
+    "month_saled_content": "52",
+    "name": "Dalian Early Beauty Cherries",
+    "pic_url": "/gma-cached-assets/annotator/meituan/durian-42fd7e5a.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 61,
+    "skus": [
+      {
+        "description": "",
+        "price": "26.9",
+        "id": 1896
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1897,
+    "attrs": [],
+    "category_id": 284,
+    "created_at": {
+      "$date": "2026-05-20T11:03:46.140Z"
+    },
+    "month_saled": 89,
+    "month_saled_content": "89",
+    "name": "eizi Xiao Lychee",
+    "pic_url": "/gma-cached-assets/annotator/meituan/durian-42fd7e5a.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 61,
+    "skus": [
+      {
+        "description": "",
+        "price": "24.9",
+        "id": 1897
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1898,
+    "attrs": [],
+    "category_id": 285,
+    "created_at": {
+      "$date": "2026-05-20T11:03:47.323Z"
+    },
+    "month_saled": 26,
+    "month_saled_content": "26",
+    "name": "baby cabbage",
+    "pic_url": "/gma-cached-assets/annotator/meituan/earth-04999b57.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 62,
+    "skus": [
+      {
+        "description": "",
+        "price": "3.5",
+        "id": 1898
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1899,
+    "attrs": [],
+    "category_id": 286,
+    "created_at": {
+      "$date": "2026-05-20T11:03:47.883Z"
+    },
+    "month_saled": 43,
+    "month_saled_content": "43",
+    "name": "Blueberry",
+    "pic_url": "/gma-cached-assets/annotator/meituan/earth-04999b57.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 62,
+    "skus": [
+      {
+        "description": "",
+        "price": "15.8",
+        "id": 1899
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1900,
+    "attrs": [],
+    "category_id": 285,
+    "created_at": {
+      "$date": "2026-05-20T11:03:48.453Z"
+    },
+    "month_saled": 65,
+    "month_saled_content": "65",
+    "name": "Earth tomato",
+    "pic_url": "/gma-cached-assets/annotator/meituan/earth-51a53608.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 62,
+    "skus": [
+      {
+        "description": "",
+        "price": "3.96",
+        "id": 1900
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1901,
+    "attrs": [],
+    "category_id": 287,
+    "created_at": {
+      "$date": "2026-05-20T11:03:49.523Z"
+    },
+    "month_saled": 35,
+    "month_saled_content": "35",
+    "name": "Golden Diamond Pineapple",
+    "pic_url": "/gma-cached-assets/annotator/meituan/golden-227ecd57.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 63,
+    "skus": [
+      {
+        "description": "",
+        "price": "49.9",
+        "id": 1901
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1902,
+    "attrs": [],
+    "category_id": 287,
+    "created_at": {
+      "$date": "2026-05-20T11:03:50.006Z"
+    },
+    "month_saled": 54,
+    "month_saled_content": "54",
+    "name": "Jugua Melon",
+    "pic_url": "/gma-cached-assets/annotator/meituan/golden-7c646588.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 63,
+    "skus": [
+      {
+        "description": "",
+        "price": "26.6",
+        "id": 1902
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1903,
+    "attrs": [],
+    "category_id": 287,
+    "created_at": {
+      "$date": "2026-05-20T11:03:50.463Z"
+    },
+    "month_saled": 74,
+    "month_saled_content": "74",
+    "name": "Yunnan Yike Berry",
+    "pic_url": "/gma-cached-assets/annotator/meituan/golden-7c646588.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 63,
+    "skus": [
+      {
+        "description": "",
+        "price": "22.5",
+        "id": 1903
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1904,
+    "attrs": [],
+    "category_id": 288,
+    "created_at": {
+      "$date": "2026-05-20T11:03:51.587Z"
+    },
+    "month_saled": 29,
+    "month_saled_content": "29",
+    "name": "1 fresh Guangxi Wogan",
+    "pic_url": "/gma-cached-assets/annotator/meituan/banana-4a12ba5d.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 64,
+    "skus": [
+      {
+        "description": "",
+        "price": "8.2",
+        "id": 1904
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1905,
+    "attrs": [],
+    "category_id": 288,
+    "created_at": {
+      "$date": "2026-05-20T11:03:52.183Z"
+    },
+    "month_saled": 68,
+    "month_saled_content": "68",
+    "name": "Banana in Laos",
+    "pic_url": "/gma-cached-assets/annotator/meituan/banana-2891a31a.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 64,
+    "skus": [
+      {
+        "description": "",
+        "price": "14.8",
+        "id": 1905
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1906,
+    "attrs": [],
+    "category_id": 288,
+    "created_at": {
+      "$date": "2026-05-20T11:03:52.768Z"
+    },
+    "month_saled": 78,
+    "month_saled_content": "78",
+    "name": "Fresh-cut pineapple fruit cutting",
+    "pic_url": "/gma-cached-assets/annotator/meituan/banana-4a12ba5d.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 64,
+    "skus": [
+      {
+        "description": "",
+        "price": "6.6",
+        "id": 1906
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1907,
+    "attrs": [],
+    "category_id": 289,
+    "created_at": {
+      "$date": "2026-05-20T11:03:53.938Z"
+    },
+    "month_saled": 37,
+    "month_saled_content": "37",
+    "name": "Sweet Hami melon",
+    "pic_url": "/gma-cached-assets/annotator/meituan/melon-51d57a2d.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 65,
+    "skus": [
+      {
+        "description": "",
+        "price": "9.99",
+        "id": 1907
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1908,
+    "attrs": [],
+    "category_id": 289,
+    "created_at": {
+      "$date": "2026-05-20T11:03:54.510Z"
+    },
+    "month_saled": 95,
+    "month_saled_content": "95",
+    "name": "Crystal sugar watermelon",
+    "pic_url": "/gma-cached-assets/annotator/meituan/melon-5220ab2b.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 65,
+    "skus": [
+      {
+        "description": "",
+        "price": "12.9",
+        "id": 1908
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1909,
+    "attrs": [],
+    "category_id": 289,
+    "created_at": {
+      "$date": "2026-05-20T11:03:55.191Z"
+    },
+    "month_saled": 56,
+    "month_saled_content": "56",
+    "name": "Boyang Melon",
+    "pic_url": "/gma-cached-assets/annotator/meituan/melon-5220ab2b.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 65,
+    "skus": [
+      {
+        "description": "",
+        "price": "7.8",
+        "id": 1909
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1910,
+    "attrs": [],
+    "category_id": 290,
+    "created_at": {
+      "$date": "2026-05-20T11:03:56.424Z"
+    },
+    "month_saled": 46,
+    "month_saled_content": "46",
+    "name": "Sunshine rose",
+    "pic_url": "/gma-cached-assets/annotator/meituan/emerald-251a4de9.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 66,
+    "skus": [
+      {
+        "description": "",
+        "price": "36",
+        "id": 1910
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1911,
+    "attrs": [],
+    "category_id": 290,
+    "created_at": {
+      "$date": "2026-05-20T11:03:56.983Z"
+    },
+    "month_saled": 75,
+    "month_saled_content": "75",
+    "name": "Emerald tomato",
+    "pic_url": "/gma-cached-assets/annotator/meituan/emerald-e57032ba.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 66,
+    "skus": [
+      {
+        "description": "",
+        "price": "8.9",
+        "id": 1911
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1912,
+    "attrs": [],
+    "category_id": 290,
+    "created_at": {
+      "$date": "2026-05-20T11:03:57.517Z"
+    },
+    "month_saled": 46,
+    "month_saled_content": "46",
+    "name": "Millennium small tomato",
+    "pic_url": "/gma-cached-assets/annotator/meituan/emerald-251a4de9.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 66,
+    "skus": [
+      {
+        "description": "",
+        "price": "8.4",
+        "id": 1912
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1913,
+    "attrs": [],
+    "category_id": 291,
+    "created_at": {
+      "$date": "2026-05-20T11:03:58.869Z"
+    },
+    "month_saled": 119,
+    "month_saled_content": "119",
+    "name": "Domestic banana",
+    "pic_url": "/gma-cached-assets/annotator/meituan/blueberries-7ff556d2.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 67,
+    "skus": [
+      {
+        "description": "",
+        "price": "4.9",
+        "id": 1913
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1914,
+    "attrs": [],
+    "category_id": 291,
+    "created_at": {
+      "$date": "2026-05-20T11:03:59.462Z"
+    },
+    "month_saled": 9,
+    "month_saled_content": "9",
+    "name": "Fresh blueberries",
+    "pic_url": "/gma-cached-assets/annotator/meituan/blueberries-fb8cc04c.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 67,
+    "skus": [
+      {
+        "description": "",
+        "price": "13.4",
+        "id": 1914
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1915,
+    "attrs": [],
+    "category_id": 291,
+    "created_at": {
+      "$date": "2026-05-20T11:03:59.952Z"
+    },
+    "month_saled": 16,
+    "month_saled_content": "16",
+    "name": "Seedless unicorn watermelon",
+    "pic_url": "/gma-cached-assets/annotator/meituan/blueberries-7ff556d2.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 67,
+    "skus": [
+      {
+        "description": "",
+        "price": "29.9",
+        "id": 1915
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1916,
+    "attrs": [],
+    "category_id": 292,
+    "created_at": {
+      "$date": "2026-05-20T11:04:00.963Z"
+    },
+    "month_saled": 11,
+    "month_saled_content": "11",
+    "name": "Fresh ear root",
+    "pic_url": "/gma-cached-assets/annotator/meituan/root-4b6f8dfe.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 68,
+    "skus": [
+      {
+        "description": "",
+        "price": "4.3",
+        "id": 1916
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1917,
+    "attrs": [],
+    "category_id": 292,
+    "created_at": {
+      "$date": "2026-05-20T11:04:01.608Z"
+    },
+    "month_saled": 21,
+    "month_saled_content": "21",
+    "name": "Fresh asparagus",
+    "pic_url": "/gma-cached-assets/annotator/meituan/root-ceff0135.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 68,
+    "skus": [
+      {
+        "description": "",
+        "price": "9.8",
+        "id": 1917
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1918,
+    "attrs": [],
+    "category_id": 292,
+    "created_at": {
+      "$date": "2026-05-20T11:04:02.260Z"
+    },
+    "month_saled": 12,
+    "month_saled_content": "12",
+    "name": "Fresh cabbage",
+    "pic_url": "/gma-cached-assets/annotator/meituan/root-ceff0135.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 68,
+    "skus": [
+      {
+        "description": "",
+        "price": "5.5",
+        "id": 1918
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1919,
+    "attrs": [],
+    "category_id": 293,
+    "created_at": {
+      "$date": "2026-05-20T11:04:03.402Z"
+    },
+    "month_saled": 10,
+    "month_saled_content": "10",
+    "name": "Fresh Toona sinensis bud",
+    "pic_url": "/gma-cached-assets/annotator/meituan/cabbage-4e8d604c.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 69,
+    "skus": [
+      {
+        "description": "",
+        "price": "4.2",
+        "id": 1919
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1920,
+    "attrs": [],
+    "category_id": 293,
+    "created_at": {
+      "$date": "2026-05-20T11:04:03.943Z"
+    },
+    "month_saled": 15,
+    "month_saled_content": "15",
+    "name": "Fresh spinach",
+    "pic_url": "/gma-cached-assets/annotator/meituan/cabbage-4e8d604c.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 69,
+    "skus": [
+      {
+        "description": "",
+        "price": "5.6",
+        "id": 1920
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1921,
+    "attrs": [],
+    "category_id": 293,
+    "created_at": {
+      "$date": "2026-05-20T11:04:04.484Z"
+    },
+    "month_saled": 18,
+    "month_saled_content": "18",
+    "name": "Baby cabbage",
+    "pic_url": "/gma-cached-assets/annotator/meituan/cabbage-6221cde8.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 69,
+    "skus": [
+      {
+        "description": "",
+        "price": "6.6",
+        "id": 1921
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1922,
+    "attrs": [],
+    "category_id": 294,
+    "created_at": {
+      "$date": "2026-05-20T11:04:05.751Z"
+    },
+    "month_saled": 16,
+    "month_saled_content": "16",
+    "name": "Fresh chrysanthemum morifolium",
+    "pic_url": "/gma-cached-assets/annotator/meituan/spinach-72c89b08.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 70,
+    "skus": [
+      {
+        "description": "",
+        "price": "5.9",
+        "id": 1922
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1923,
+    "attrs": [],
+    "category_id": 294,
+    "created_at": {
+      "$date": "2026-05-20T11:04:06.437Z"
+    },
+    "month_saled": 25,
+    "month_saled_content": "25",
+    "name": "Fresh and preferred spinach",
+    "pic_url": "/gma-cached-assets/annotator/meituan/spinach-ea2fec1a.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 70,
+    "skus": [
+      {
+        "description": "",
+        "price": "7.2",
+        "id": 1923
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1924,
+    "attrs": [],
+    "category_id": 294,
+    "created_at": {
+      "$date": "2026-05-20T11:04:07.083Z"
+    },
+    "month_saled": 12,
+    "month_saled_content": "12",
+    "name": "Oyster mushroom",
+    "pic_url": "/gma-cached-assets/annotator/meituan/spinach-72c89b08.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 70,
+    "skus": [
+      {
+        "description": "",
+        "price": "3.2",
+        "id": 1924
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1925,
+    "attrs": [],
+    "category_id": 295,
+    "created_at": {
+      "$date": "2026-05-20T11:04:08.396Z"
+    },
+    "month_saled": 14,
+    "month_saled_content": "14",
+    "name": "Fresh coriander",
+    "pic_url": "/gma-cached-assets/annotator/meituan/lettuce-0d8d4a2f.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 71,
+    "skus": [
+      {
+        "description": "",
+        "price": "3.9",
+        "id": 1925
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1926,
+    "attrs": [],
+    "category_id": 295,
+    "created_at": {
+      "$date": "2026-05-20T11:04:09.065Z"
+    },
+    "month_saled": 26,
+    "month_saled_content": "26",
+    "name": "lettuce",
+    "pic_url": "/gma-cached-assets/annotator/meituan/lettuce-709f56df.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 71,
+    "skus": [
+      {
+        "description": "",
+        "price": "5.8",
+        "id": 1926
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1927,
+    "attrs": [],
+    "category_id": 296,
+    "created_at": {
+      "$date": "2026-05-20T11:04:09.750Z"
+    },
+    "month_saled": 29,
+    "month_saled_content": "29",
+    "name": "blueberry",
+    "pic_url": "/gma-cached-assets/annotator/meituan/lettuce-0d8d4a2f.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 71,
+    "skus": [
+      {
+        "description": "",
+        "price": "9.9",
+        "id": 1927
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1928,
+    "attrs": [],
+    "category_id": 297,
+    "created_at": {
+      "$date": "2026-05-20T11:04:10.938Z"
+    },
+    "month_saled": 32,
+    "month_saled_content": "32",
+    "name": "lychee",
+    "pic_url": "/gma-cached-assets/annotator/meituan/lychee-4bde9002.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 72,
+    "skus": [
+      {
+        "description": "",
+        "price": "9.9",
+        "id": 1928
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1929,
+    "attrs": [],
+    "category_id": 297,
+    "created_at": {
+      "$date": "2026-05-20T11:04:11.548Z"
+    },
+    "month_saled": 65,
+    "month_saled_content": "65",
+    "name": "Dalian meizao cherry peach",
+    "pic_url": "/gma-cached-assets/annotator/meituan/lychee-1b416530.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 72,
+    "skus": [
+      {
+        "description": "",
+        "price": "18.8",
+        "id": 1929
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1930,
+    "attrs": [],
+    "category_id": 297,
+    "created_at": {
+      "$date": "2026-05-20T11:04:12.085Z"
+    },
+    "month_saled": 36,
+    "month_saled_content": "36",
+    "name": "Liu Lian with golden pillow",
+    "pic_url": "/gma-cached-assets/annotator/meituan/lychee-1b416530.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 72,
+    "skus": [
+      {
+        "description": "",
+        "price": "129",
+        "id": 1930
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1931,
+    "attrs": [],
+    "category_id": 298,
+    "created_at": {
+      "$date": "2026-05-20T11:04:13.194Z"
+    },
+    "month_saled": 26,
+    "month_saled_content": "26",
+    "name": "tomato",
+    "pic_url": "/gma-cached-assets/annotator/meituan/tomato-0e6bc31b.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 73,
+    "skus": [
+      {
+        "description": "",
+        "price": "2.5",
+        "id": 1931
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1932,
+    "attrs": [],
+    "category_id": 298,
+    "created_at": {
+      "$date": "2026-05-20T11:04:13.856Z"
+    },
+    "month_saled": 34,
+    "month_saled_content": "34",
+    "name": "spring onion",
+    "pic_url": "/gma-cached-assets/annotator/meituan/tomato-74655584.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 73,
+    "skus": [
+      {
+        "description": "",
+        "price": "6.8",
+        "id": 1932
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1933,
+    "attrs": [],
+    "category_id": 299,
+    "created_at": {
+      "$date": "2026-05-20T11:04:14.564Z"
+    },
+    "month_saled": 47,
+    "month_saled_content": "47",
+    "name": "hami melon",
+    "pic_url": "/gma-cached-assets/annotator/meituan/tomato-74655584.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 73,
+    "skus": [
+      {
+        "description": "",
+        "price": "8.9",
+        "id": 1933
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1934,
+    "attrs": [],
+    "category_id": 300,
+    "created_at": {
+      "$date": "2026-05-20T11:04:15.853Z"
+    },
+    "month_saled": 19,
+    "month_saled_content": "19",
+    "name": "Pizza self-help 5-piece set",
+    "pic_url": "/gma-cached-assets/annotator/meituan/sanpin-be4ebc11.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 74,
+    "skus": [
+      {
+        "description": "",
+        "price": "29.9",
+        "id": 1934
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1935,
+    "attrs": [],
+    "category_id": 300,
+    "created_at": {
+      "$date": "2026-05-20T11:04:16.451Z"
+    },
+    "month_saled": 25,
+    "month_saled_content": "25",
+    "name": "8-inch sanpin pizza",
+    "pic_url": "/gma-cached-assets/annotator/meituan/sanpin-cba898de.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 74,
+    "skus": [
+      {
+        "description": "",
+        "price": "21.9",
+        "id": 1935
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1936,
+    "attrs": [],
+    "category_id": 301,
+    "created_at": {
+      "$date": "2026-05-20T11:04:17.190Z"
+    },
+    "month_saled": 51,
+    "month_saled_content": "51",
+    "name": "Suixinpei pizza spaghetti",
+    "pic_url": "/gma-cached-assets/annotator/meituan/sanpin-be4ebc11.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 74,
+    "skus": [
+      {
+        "description": "",
+        "price": "28.9",
+        "id": 1936
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1940,
+    "attrs": [],
+    "category_id": 303,
+    "created_at": {
+      "$date": "2026-05-20T11:04:21.140Z"
+    },
+    "month_saled": 35,
+    "month_saled_content": "35",
+    "name": "Signature durian pizza",
+    "pic_url": "/gma-cached-assets/annotator/meituan/park-f273c343.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 75,
+    "skus": [
+      {
+        "description": "",
+        "price": "65.9",
+        "id": 1940
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1941,
+    "attrs": [],
+    "category_id": 303,
+    "created_at": {
+      "$date": "2026-05-20T11:04:21.782Z"
+    },
+    "month_saled": 29,
+    "month_saled_content": "29",
+    "name": "Hot series French fries set meal",
+    "pic_url": "/gma-cached-assets/annotator/meituan/park-f273c343.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 75,
+    "skus": [
+      {
+        "description": "",
+        "price": "41",
+        "id": 1941
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1942,
+    "attrs": [],
+    "category_id": 303,
+    "created_at": {
+      "$date": "2026-05-20T11:04:22.362Z"
+    },
+    "month_saled": 15,
+    "month_saled_content": "15",
+    "name": "Fruit amusement park pizza.",
+    "pic_url": "/gma-cached-assets/annotator/meituan/park-cd06cb55.png",
+    "praise_content": "A variety of fruits with sweet sauce and thick cheese are sweet but not greasy.",
+    "praise_num": 0,
+    "restaurant_id": 75,
+    "skus": [
+      {
+        "description": "A variety of fruits with sweet sauce and thick cheese are sweet but not greasy.",
+        "price": "41",
+        "id": 1942
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1943,
+    "attrs": [],
+    "category_id": 304,
+    "created_at": {
+      "$date": "2026-05-20T11:04:23.503Z"
+    },
+    "month_saled": 26,
+    "month_saled_content": "26",
+    "name": "Signature special freshly baked chicken leg Ba",
+    "pic_url": "/gma-cached-assets/annotator/meituan/roast-51d2dcbb.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 76,
+    "skus": [
+      {
+        "description": "",
+        "price": "28",
+        "id": 1943
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1944,
+    "attrs": [],
+    "category_id": 304,
+    "created_at": {
+      "$date": "2026-05-20T11:04:24.036Z"
+    },
+    "month_saled": 42,
+    "month_saled_content": "42",
+    "name": "Bacon pizza with sweet potato horn in milk.",
+    "pic_url": "/gma-cached-assets/annotator/meituan/roast-51d2dcbb.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 76,
+    "skus": [
+      {
+        "description": "",
+        "price": "21.5",
+        "id": 1944
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1945,
+    "attrs": [],
+    "category_id": 304,
+    "created_at": {
+      "$date": "2026-05-20T11:04:24.618Z"
+    },
+    "month_saled": 58,
+    "month_saled_content": "58",
+    "name": "Aoerliang roast chicken pizza",
+    "pic_url": "/gma-cached-assets/annotator/meituan/roast-3cc858ec.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 76,
+    "skus": [
+      {
+        "description": "",
+        "price": "21.5",
+        "id": 1945
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1946,
+    "attrs": [],
+    "category_id": 305,
+    "created_at": {
+      "$date": "2026-05-20T11:04:25.948Z"
+    },
+    "month_saled": 37,
+    "month_saled_content": "37",
+    "name": "Crown pear",
+    "pic_url": "/gma-cached-assets/annotator/meituan/celery-9052197f.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 77,
+    "skus": [
+      {
+        "description": "",
+        "price": "7.97",
+        "id": 1946
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1947,
+    "attrs": [],
+    "category_id": 305,
+    "created_at": {
+      "$date": "2026-05-20T11:04:26.563Z"
+    },
+    "month_saled": 21,
+    "month_saled_content": "21",
+    "name": "sapodilla",
+    "pic_url": "/gma-cached-assets/annotator/meituan/celery-9052197f.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 77,
+    "skus": [
+      {
+        "description": "",
+        "price": "12.8",
+        "id": 1947
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1948,
+    "attrs": [],
+    "category_id": 306,
+    "created_at": {
+      "$date": "2026-05-20T11:04:27.148Z"
+    },
+    "month_saled": 11,
+    "month_saled_content": "11",
+    "name": "celery",
+    "pic_url": "/gma-cached-assets/annotator/meituan/celery-3865e4a1.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 77,
+    "skus": [
+      {
+        "description": "",
+        "price": "1.03",
+        "id": 1948
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1949,
+    "attrs": [],
+    "category_id": 307,
+    "created_at": {
+      "$date": "2026-05-20T11:04:28.499Z"
+    },
+    "month_saled": 18,
+    "month_saled_content": "18",
+    "name": "Wahaha AD calcium milk",
+    "pic_url": "/gma-cached-assets/annotator/meituan/ad-0d1483f6.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 78,
+    "skus": [
+      {
+        "description": "",
+        "price": "7.9",
+        "id": 1949
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1950,
+    "attrs": [],
+    "category_id": 307,
+    "created_at": {
+      "$date": "2026-05-20T11:04:29.073Z"
+    },
+    "month_saled": 15,
+    "month_saled_content": "15",
+    "name": "Coca-cola is sugar-free",
+    "pic_url": "/gma-cached-assets/annotator/meituan/ad-1f258d9e.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 78,
+    "skus": [
+      {
+        "description": "",
+        "price": "1.5",
+        "id": 1950
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1951,
+    "attrs": [],
+    "category_id": 308,
+    "created_at": {
+      "$date": "2026-05-20T11:04:29.889Z"
+    },
+    "month_saled": 8,
+    "month_saled_content": "8",
+    "name": "Haagen-Dazs cookie milk ice cream",
+    "pic_url": "/gma-cached-assets/annotator/meituan/ad-1f258d9e.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 78,
+    "skus": [
+      {
+        "description": "",
+        "price": "20.8",
+        "id": 1951
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1952,
+    "attrs": [],
+    "category_id": 309,
+    "created_at": {
+      "$date": "2026-05-20T11:04:31.010Z"
+    },
+    "month_saled": 38,
+    "month_saled_content": "38",
+    "name": "San tai zi Xie Huang flavor simple noodles",
+    "pic_url": "/gma-cached-assets/annotator/meituan/wahaha-0c74ac2c.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 79,
+    "skus": [
+      {
+        "description": "",
+        "price": "1.5",
+        "id": 1952
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1953,
+    "attrs": [],
+    "category_id": 309,
+    "created_at": {
+      "$date": "2026-05-20T11:04:31.656Z"
+    },
+    "month_saled": 21,
+    "month_saled_content": "21",
+    "name": "Dove chocolate",
+    "pic_url": "/gma-cached-assets/annotator/meituan/wahaha-0c74ac2c.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 79,
+    "skus": [
+      {
+        "description": "",
+        "price": "3.5",
+        "id": 1953
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1954,
+    "attrs": [],
+    "category_id": 310,
+    "created_at": {
+      "$date": "2026-05-20T11:04:32.260Z"
+    },
+    "month_saled": 8,
+    "month_saled_content": "8",
+    "name": "Wahaha drinks pure water",
+    "pic_url": "/gma-cached-assets/annotator/meituan/wahaha-6eed45df.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 79,
+    "skus": [
+      {
+        "description": "",
+        "price": "4",
+        "id": 1954
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1955,
+    "attrs": [],
+    "category_id": 311,
+    "created_at": {
+      "$date": "2026-05-20T11:04:33.627Z"
+    },
+    "month_saled": 24,
+    "month_saled_content": "24",
+    "name": "Rosen's edible ice cup",
+    "pic_url": "/gma-cached-assets/annotator/meituan/tea-fd669a62.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 80,
+    "skus": [
+      {
+        "description": "",
+        "price": "5",
+        "id": 1955
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1956,
+    "attrs": [],
+    "category_id": 312,
+    "created_at": {
+      "$date": "2026-05-20T11:04:34.157Z"
+    },
+    "month_saled": 29,
+    "month_saled_content": "29",
+    "name": "Oriental leaf jasmine tea",
+    "pic_url": "/gma-cached-assets/annotator/meituan/tea-1a1944d0.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 80,
+    "skus": [
+      {
+        "description": "",
+        "price": "6",
+        "id": 1956
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1957,
+    "attrs": [],
+    "category_id": 312,
+    "created_at": {
+      "$date": "2026-05-20T11:04:34.776Z"
+    },
+    "month_saled": 16,
+    "month_saled_content": "16",
+    "name": "Snowflake refreshing beer",
+    "pic_url": "/gma-cached-assets/annotator/meituan/tea-fd669a62.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 80,
+    "skus": [
+      {
+        "description": "",
+        "price": "5",
+        "id": 1957
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1958,
+    "attrs": [],
+    "category_id": 313,
+    "created_at": {
+      "$date": "2026-05-20T11:04:35.847Z"
+    },
+    "month_saled": 35,
+    "month_saled_content": "35",
+    "name": "Laoshan ordinary beer",
+    "pic_url": "/gma-cached-assets/annotator/meituan/beer-a0bcc7af.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 81,
+    "skus": [
+      {
+        "description": "",
+        "price": "11.9",
+        "id": 1958
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1959,
+    "attrs": [],
+    "category_id": 313,
+    "created_at": {
+      "$date": "2026-05-20T11:04:36.342Z"
+    },
+    "month_saled": 69,
+    "month_saled_content": "69",
+    "name": "Pineapple beer fruity beverage",
+    "pic_url": "/gma-cached-assets/annotator/meituan/beer-3837ab6c.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 81,
+    "skus": [
+      {
+        "description": "",
+        "price": "2.5",
+        "id": 1959
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1960,
+    "attrs": [],
+    "category_id": 313,
+    "created_at": {
+      "$date": "2026-05-20T11:04:36.943Z"
+    },
+    "month_saled": 5,
+    "month_saled_content": "5",
+    "name": "Kangshifu packaging drinking water",
+    "pic_url": "/gma-cached-assets/annotator/meituan/beer-a0bcc7af.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 81,
+    "skus": [
+      {
+        "description": "",
+        "price": "1",
+        "id": 1960
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1961,
+    "attrs": [],
+    "category_id": 314,
+    "created_at": {
+      "$date": "2026-05-20T11:04:38.211Z"
+    },
+    "month_saled": 35,
+    "month_saled_content": "35",
+    "name": "French Herb Seafood Four-Person Meal",
+    "pic_url": "/gma-cached-assets/annotator/meituan/herb-c41563bd.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 82,
+    "skus": [
+      {
+        "description": "",
+        "price": "589",
+        "id": 1961
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1962,
+    "attrs": [],
+    "category_id": 315,
+    "created_at": {
+      "$date": "2026-05-20T11:04:38.837Z"
+    },
+    "month_saled": 43,
+    "month_saled_content": "43",
+    "name": "Single Truffle Tasting Meal",
+    "pic_url": "/gma-cached-assets/annotator/meituan/herb-c41563bd.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 82,
+    "skus": [
+      {
+        "description": "",
+        "price": "878",
+        "id": 1962
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1963,
+    "attrs": [],
+    "category_id": 316,
+    "created_at": {
+      "$date": "2026-05-20T11:04:39.475Z"
+    },
+    "month_saled": 16,
+    "month_saled_content": "16",
+    "name": "Salmon Four-Person Meal",
+    "pic_url": "/gma-cached-assets/annotator/meituan/herb-c41563bd.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 82,
+    "skus": [
+      {
+        "description": "",
+        "price": "999",
+        "id": 1963
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1964,
+    "attrs": [],
+    "category_id": 317,
+    "created_at": {
+      "$date": "2026-05-20T11:04:40.788Z"
+    },
+    "month_saled": 66,
+    "month_saled_content": "66",
+    "name": "French Herb Seafood Two-Person Mea",
+    "pic_url": "/gma-cached-assets/annotator/meituan/mea-c8d63f67.png",
+    "praise_content": "resh beef production",
+    "praise_num": 0,
+    "restaurant_id": 83,
+    "skus": [
+      {
+        "description": "resh beef production",
+        "price": "168",
+        "id": 1964
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1965,
+    "attrs": [],
+    "category_id": 317,
+    "created_at": {
+      "$date": "2026-05-20T11:04:41.518Z"
+    },
+    "month_saled": 59,
+    "month_saled_content": "59",
+    "name": "Pan-fried shrimp with kale juice",
+    "pic_url": "/gma-cached-assets/annotator/meituan/mea-ff126c67.png",
+    "praise_content": "Large shrimp, kale, swallow",
+    "praise_num": 0,
+    "restaurant_id": 83,
+    "skus": [
+      {
+        "description": "Large shrimp, kale, swallow",
+        "price": "128",
+        "id": 1965
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1966,
+    "attrs": [],
+    "category_id": 317,
+    "created_at": {
+      "$date": "2026-05-20T11:04:42.138Z"
+    },
+    "month_saled": 16,
+    "month_saled_content": "16",
+    "name": "Basil and Sweet Pepper Grilled Sea Bass",
+    "pic_url": "/gma-cached-assets/annotator/meituan/mea-ff126c67.png",
+    "praise_content": "Fresh Perch, Roasted Sweet Peppers",
+    "praise_num": 0,
+    "restaurant_id": 83,
+    "skus": [
+      {
+        "description": "Fresh Perch, Roasted Sweet Peppers",
+        "price": "179",
+        "id": 1966
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1967,
+    "attrs": [],
+    "category_id": 318,
+    "created_at": {
+      "$date": "2026-05-20T11:04:43.395Z"
+    },
+    "month_saled": 66,
+    "month_saled_content": "66",
+    "name": "All-day Grand Banquet 1314 Two-Person Meal",
+    "pic_url": "/gma-cached-assets/annotator/meituan/box-5d30ceb6.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 84,
+    "skus": [
+      {
+        "description": "",
+        "price": "1289",
+        "id": 1967
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1968,
+    "attrs": [],
+    "category_id": 318,
+    "created_at": {
+      "$date": "2026-05-20T11:04:43.980Z"
+    },
+    "month_saled": 68,
+    "month_saled_content": "68",
+    "name": "Jiyan Roast Duck Treasure Box 4-6 Person Set",
+    "pic_url": "/gma-cached-assets/annotator/meituan/box-c889d40c.png",
+    "praise_content": "Roast duck",
+    "praise_num": 0,
+    "restaurant_id": 84,
+    "skus": [
+      {
+        "description": "Roast duck",
+        "price": "978",
+        "id": 1968
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1969,
+    "attrs": [],
+    "category_id": 318,
+    "created_at": {
+      "$date": "2026-05-20T11:04:44.590Z"
+    },
+    "month_saled": 45,
+    "month_saled_content": "45",
+    "name": "Valentine's Day Limited Romantic Two-Person Set Meal",
+    "pic_url": "/gma-cached-assets/annotator/meituan/box-5d30ceb6.png",
+    "praise_content": "Fresh Perch, Roasted Sweet Peppers",
+    "praise_num": 0,
+    "restaurant_id": 84,
+    "skus": [
+      {
+        "description": "Fresh Perch, Roasted Sweet Peppers",
+        "price": "668",
+        "id": 1969
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1970,
+    "attrs": [],
+    "category_id": 319,
+    "created_at": {
+      "$date": "2026-05-20T11:04:45.722Z"
+    },
+    "month_saled": 66,
+    "month_saled_content": "66",
+    "name": "10-Person Boston Lobster Meal",
+    "pic_url": "/gma-cached-assets/annotator/meituan/juice-3aa07b27.png",
+    "praise_content": "n lobster",
+    "praise_num": 0,
+    "restaurant_id": 85,
+    "skus": [
+      {
+        "description": "n lobster",
+        "price": "3278",
+        "id": 1970
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1971,
+    "attrs": [],
+    "category_id": 319,
+    "created_at": {
+      "$date": "2026-05-20T11:04:46.381Z"
+    },
+    "month_saled": 52,
+    "month_saled_content": "52",
+    "name": "Scallion Sauce Braised Fish Head Round 8-Person Meal",
+    "pic_url": "/gma-cached-assets/annotator/meituan/juice-3aa07b27.png",
+    "praise_content": "h seafood prepared on-site",
+    "praise_num": 0,
+    "restaurant_id": 85,
+    "skus": [
+      {
+        "description": "h seafood prepared on-site",
+        "price": "1578",
+        "id": 1971
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1972,
+    "attrs": [],
+    "category_id": 319,
+    "created_at": {
+      "$date": "2026-05-20T11:04:46.900Z"
+    },
+    "month_saled": 66,
+    "month_saled_content": "66",
+    "name": "Freshly squeezed watermelon juice",
+    "pic_url": "/gma-cached-assets/annotator/meituan/juice-3aa07b27.png",
+    "praise_content": "Freshly squeezed watermelon juice",
+    "praise_num": 0,
+    "restaurant_id": 85,
+    "skus": [
+      {
+        "description": "Freshly squeezed watermelon juice",
+        "price": "66",
+        "id": 1972
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1973,
+    "attrs": [],
+    "category_id": 320,
+    "created_at": {
+      "$date": "2026-05-20T11:04:48.138Z"
+    },
+    "month_saled": 49,
+    "month_saled_content": "49",
+    "name": "A leisurely banquet in the courtyard with bamboo shadows",
+    "pic_url": "/gma-cached-assets/annotator/meituan/seafood-53f69c84.png",
+    "praise_content": "Steamed Perch",
+    "praise_num": 0,
+    "restaurant_id": 86,
+    "skus": [
+      {
+        "description": "Steamed Perch",
+        "price": "1178",
+        "id": 1973
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1974,
+    "attrs": [],
+    "category_id": 320,
+    "created_at": {
+      "$date": "2026-05-20T11:04:48.823Z"
+    },
+    "month_saled": 86,
+    "month_saled_content": "86",
+    "name": "Premium Seafood Two-Person Set",
+    "pic_url": "/gma-cached-assets/annotator/meituan/seafood-efa0c2f0.png",
+    "praise_content": "Steamed Conger Eel with Garlic",
+    "praise_num": 0,
+    "restaurant_id": 86,
+    "skus": [
+      {
+        "description": "Steamed Conger Eel with Garlic",
+        "price": "1089",
+        "id": 1974
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1975,
+    "attrs": [],
+    "category_id": 320,
+    "created_at": {
+      "$date": "2026-05-20T11:04:49.418Z"
+    },
+    "month_saled": 49,
+    "month_saled_content": "49",
+    "name": "Enjoying the pine and moon together",
+    "pic_url": "/gma-cached-assets/annotator/meituan/seafood-53f69c84.png",
+    "praise_content": "ck Pepper Steamed Crabs in Clay Pot",
+    "praise_num": 0,
+    "restaurant_id": 86,
+    "skus": [
+      {
+        "description": "ck Pepper Steamed Crabs in Clay Pot",
+        "price": "66",
+        "id": 1975
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1976,
+    "attrs": [],
+    "category_id": 321,
+    "created_at": {
+      "$date": "2026-05-20T11:04:50.690Z"
+    },
+    "month_saled": 87,
+    "month_saled_content": "87",
+    "name": "Sea Cucumber Seafood Banquet",
+    "pic_url": "/gma-cached-assets/annotator/meituan/abalone-0660032c.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 87,
+    "skus": [
+      {
+        "description": "",
+        "price": "1688",
+        "id": 1976
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1977,
+    "attrs": [],
+    "category_id": 321,
+    "created_at": {
+      "$date": "2026-05-20T11:04:51.296Z"
+    },
+    "month_saled": 79,
+    "month_saled_content": "79",
+    "name": "Abalone Seafood Banquet",
+    "pic_url": "/gma-cached-assets/annotator/meituan/abalone-482c511f.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 87,
+    "skus": [
+      {
+        "description": "",
+        "price": "1299",
+        "id": 1977
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1978,
+    "attrs": [],
+    "category_id": 321,
+    "created_at": {
+      "$date": "2026-05-20T11:04:51.866Z"
+    },
+    "month_saled": 98,
+    "month_saled_content": "98",
+    "name": "Boston Lobster Platter",
+    "pic_url": "/gma-cached-assets/annotator/meituan/abalone-0660032c.png",
+    "praise_content": "Steamed Boston Lobster with Garlic and Vermicelli",
+    "praise_num": 0,
+    "restaurant_id": 87,
+    "skus": [
+      {
+        "description": "Steamed Boston Lobster with Garlic and Vermicelli",
+        "price": "1988",
+        "id": 1978
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1979,
+    "attrs": [],
+    "category_id": 322,
+    "created_at": {
+      "$date": "2026-05-20T11:04:53.123Z"
+    },
+    "month_saled": 23,
+    "month_saled_content": "23",
+    "name": "Spring Elegance",
+    "pic_url": "/gma-cached-assets/annotator/meituan/person-7cbe616c.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 88,
+    "skus": [
+      {
+        "description": "",
+        "price": "986",
+        "id": 1979
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1980,
+    "attrs": [],
+    "category_id": 322,
+    "created_at": {
+      "$date": "2026-05-20T11:04:53.736Z"
+    },
+    "month_saled": 64,
+    "month_saled_content": "64",
+    "name": "Spring Gathering in the Jiangnan",
+    "pic_url": "/gma-cached-assets/annotator/meituan/person-7cbe616c.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 88,
+    "skus": [
+      {
+        "description": "",
+        "price": "1288",
+        "id": 1980
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1981,
+    "attrs": [],
+    "category_id": 322,
+    "created_at": {
+      "$date": "2026-05-20T11:04:54.340Z"
+    },
+    "month_saled": 46,
+    "month_saled_content": "46",
+    "name": "Premium 6-Person Meal",
+    "pic_url": "/gma-cached-assets/annotator/meituan/person-7cbe616c.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 88,
+    "skus": [
+      {
+        "description": "",
+        "price": "1888",
+        "id": 1981
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1982,
+    "attrs": [],
+    "category_id": 323,
+    "created_at": {
+      "$date": "2026-05-20T11:04:55.680Z"
+    },
+    "month_saled": 45,
+    "month_saled_content": "45",
+    "name": "Honey Desire Afternoon Tea",
+    "pic_url": "/gma-cached-assets/annotator/meituan/duck-5443d0f3.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 89,
+    "skus": [
+      {
+        "description": "",
+        "price": "871.8",
+        "id": 1982
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1983,
+    "attrs": [],
+    "category_id": 323,
+    "created_at": {
+      "$date": "2026-05-20T11:04:56.280Z"
+    },
+    "month_saled": 75,
+    "month_saled_content": "75",
+    "name": "Beijing-Taste Cantonese-Flavored Roast Duck",
+    "pic_url": "/gma-cached-assets/annotator/meituan/duck-89baf06d.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 89,
+    "skus": [
+      {
+        "description": "",
+        "price": "791.9",
+        "id": 1983
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1984,
+    "attrs": [],
+    "category_id": 323,
+    "created_at": {
+      "$date": "2026-05-20T11:04:56.946Z"
+    },
+    "month_saled": 33,
+    "month_saled_content": "33",
+    "name": "Two-person set meal",
+    "pic_url": "/gma-cached-assets/annotator/meituan/duck-5443d0f3.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 89,
+    "skus": [
+      {
+        "description": "",
+        "price": "1481.5",
+        "id": 1984
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1985,
+    "attrs": [],
+    "category_id": 324,
+    "created_at": {
+      "$date": "2026-05-20T11:04:58.038Z"
+    },
+    "month_saled": 88,
+    "month_saled_content": "88",
+    "name": "Blessings Fill Mountains and Seas",
+    "pic_url": "/gma-cached-assets/annotator/meituan/fujian-1f8452a5.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 90,
+    "skus": [
+      {
+        "description": "",
+        "price": "6878",
+        "id": 1985
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1986,
+    "attrs": [],
+    "category_id": 324,
+    "created_at": {
+      "$date": "2026-05-20T11:04:58.580Z"
+    },
+    "month_saled": 78,
+    "month_saled_content": "78",
+    "name": "Fujian Cuisine's Premium Buddha Jumps Over the Wall Single-Portion Meal",
+    "pic_url": "/gma-cached-assets/annotator/meituan/fujian-1f8452a5.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 90,
+    "skus": [
+      {
+        "description": "",
+        "price": "688",
+        "id": 1986
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1987,
+    "attrs": [],
+    "category_id": 324,
+    "created_at": {
+      "$date": "2026-05-20T11:04:59.162Z"
+    },
+    "month_saled": 79,
+    "month_saled_content": "79",
+    "name": "Fujian cuisine 6-person meal",
+    "pic_url": "/gma-cached-assets/annotator/meituan/fujian-1f8452a5.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 90,
+    "skus": [
+      {
+        "description": "",
+        "price": "3878",
+        "id": 1987
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1988,
+    "attrs": [],
+    "category_id": 325,
+    "created_at": {
+      "$date": "2026-05-20T11:05:00.400Z"
+    },
+    "month_saled": 35,
+    "month_saled_content": "35",
+    "name": "The Summer Charm of Jiangnan",
+    "pic_url": "/gma-cached-assets/annotator/meituan/6c58af59636b8a3906f523c004ef92b6-a7432fe8.jpg",
+    "praise_content": "Recommended dishes",
+    "praise_num": 0,
+    "restaurant_id": 91,
+    "skus": [
+      {
+        "description": "Recommended dishes",
+        "price": "488",
+        "id": 1988
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1989,
+    "attrs": [],
+    "category_id": 325,
+    "created_at": {
+      "$date": "2026-05-20T11:05:01.104Z"
+    },
+    "month_saled": 65,
+    "month_saled_content": "65",
+    "name": "Summer Stream Freshness Hunt",
+    "pic_url": "/gma-cached-assets/annotator/meituan/215ad30ddc96a7f27c9e6df0562ecb30-c3a9c93d.jpg",
+    "praise_content": "Glutinous Rice Cake with Braised Mackerel",
+    "praise_num": 0,
+    "restaurant_id": 91,
+    "skus": [
+      {
+        "description": "Glutinous Rice Cake with Braised Mackerel",
+        "price": "2850",
+        "id": 1989
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1990,
+    "attrs": [],
+    "category_id": 325,
+    "created_at": {
+      "$date": "2026-05-20T11:05:01.698Z"
+    },
+    "month_saled": 19,
+    "month_saled_content": "19",
+    "name": "Lotus Talk Before the Courtyard",
+    "pic_url": "/gma-cached-assets/annotator/meituan/5699eecc22d895e18831f432c7cc0792-84452ce5.jpg",
+    "praise_content": "Sizzling Oil Eel with Sauce",
+    "praise_num": 0,
+    "restaurant_id": 91,
+    "skus": [
+      {
+        "description": "Sizzling Oil Eel with Sauce",
+        "price": "1258",
+        "id": 1990
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1991,
+    "attrs": [],
+    "category_id": 326,
+    "created_at": {
+      "$date": "2026-05-20T11:05:02.912Z"
+    },
+    "month_saled": 43,
+    "month_saled_content": "43",
+    "name": "Xiang Cuisine 4-Person Meal",
+    "pic_url": "/gma-cached-assets/annotator/meituan/meal-bcea2d06.png",
+    "praise_content": "Saffron Chicken,Har Gow",
+    "praise_num": 0,
+    "restaurant_id": 92,
+    "skus": [
+      {
+        "description": "Saffron Chicken,Har Gow",
+        "price": "654",
+        "id": 1991
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1992,
+    "attrs": [],
+    "category_id": 326,
+    "created_at": {
+      "$date": "2026-05-20T11:05:03.544Z"
+    },
+    "month_saled": 32,
+    "month_saled_content": "32",
+    "name": "Double Meal",
+    "pic_url": "/gma-cached-assets/annotator/meituan/meal-2928e62d.png",
+    "praise_content": "Yongzhou Blood Duck",
+    "praise_num": 0,
+    "restaurant_id": 92,
+    "skus": [
+      {
+        "description": "Yongzhou Blood Duck",
+        "price": "488",
+        "id": 1992
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1993,
+    "attrs": [],
+    "category_id": 326,
+    "created_at": {
+      "$date": "2026-05-20T11:05:04.090Z"
+    },
+    "month_saled": 22,
+    "month_saled_content": "22",
+    "name": "Xiang-style Signature Dish",
+    "pic_url": "/gma-cached-assets/annotator/meituan/dish-884169aa.png",
+    "praise_content": "Chili Pepper Fish Head",
+    "praise_num": 0,
+    "restaurant_id": 92,
+    "skus": [
+      {
+        "description": "Chili Pepper Fish Head",
+        "price": "888",
+        "id": 1993
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1994,
+    "attrs": [],
+    "category_id": 327,
+    "created_at": {
+      "$date": "2026-05-20T11:05:05.271Z"
+    },
+    "month_saled": 3,
+    "month_saled_content": "3",
+    "name": "Wahaha Pure Water",
+    "pic_url": "/gma-cached-assets/annotator/meituan/cat-4fb68a0d.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 93,
+    "skus": [
+      {
+        "description": "",
+        "price": "9.9",
+        "id": 1994
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1995,
+    "attrs": [],
+    "category_id": 328,
+    "created_at": {
+      "$date": "2026-05-20T11:05:05.969Z"
+    },
+    "month_saled": 12,
+    "month_saled_content": "12",
+    "name": "Complete set of fishing gear and supplies",
+    "pic_url": "/gma-cached-assets/annotator/meituan/cat-4fb68a0d.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 93,
+    "skus": [
+      {
+        "description": "",
+        "price": "26.8",
+        "id": 1995
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1996,
+    "attrs": [],
+    "category_id": 329,
+    "created_at": {
+      "$date": "2026-05-20T11:05:06.481Z"
+    },
+    "month_saled": 45,
+    "month_saled_content": "45",
+    "name": "Royal Canin Cat Food",
+    "pic_url": "/gma-cached-assets/annotator/meituan/cat-502f4375.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 93,
+    "skus": [
+      {
+        "description": "",
+        "price": "38",
+        "id": 1996
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1997,
+    "attrs": [],
+    "category_id": 330,
+    "created_at": {
+      "$date": "2026-05-20T11:05:07.735Z"
+    },
+    "month_saled": 5,
+    "month_saled_content": "5",
+    "name": "Crunchy Fragrant Rice",
+    "pic_url": "/gma-cached-assets/annotator/meituan/mask-e6d32c47.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 94,
+    "skus": [
+      {
+        "description": "",
+        "price": "4.5",
+        "id": 1997
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1998,
+    "attrs": [],
+    "category_id": 331,
+    "created_at": {
+      "$date": "2026-05-20T11:05:08.530Z"
+    },
+    "month_saled": 15,
+    "month_saled_content": "15",
+    "name": "Summer Sunscreen Mask",
+    "pic_url": "/gma-cached-assets/annotator/meituan/mask-3f75ee82.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 94,
+    "skus": [
+      {
+        "description": "",
+        "price": "1.5",
+        "id": 1998
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 1999,
+    "attrs": [],
+    "category_id": 332,
+    "created_at": {
+      "$date": "2026-05-20T11:05:09.101Z"
+    },
+    "month_saled": 19,
+    "month_saled_content": "19",
+    "name": "Cooling spray",
+    "pic_url": "/gma-cached-assets/annotator/meituan/mask-e6d32c47.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 94,
+    "skus": [
+      {
+        "description": "",
+        "price": "7.8",
+        "id": 1999
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 2000,
+    "attrs": [],
+    "category_id": 333,
+    "created_at": {
+      "$date": "2026-05-20T11:05:10.259Z"
+    },
+    "month_saled": 15,
+    "month_saled_content": "15",
+    "name": "Pet Ice Pad",
+    "pic_url": "/gma-cached-assets/annotator/meituan/pad-53e733ea.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 95,
+    "skus": [
+      {
+        "description": "",
+        "price": "12.8",
+        "id": 2000
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 2001,
+    "attrs": [],
+    "category_id": 334,
+    "created_at": {
+      "$date": "2026-05-20T11:05:10.888Z"
+    },
+    "month_saled": 21,
+    "month_saled_content": "21",
+    "name": "Sun protection arm sleeves",
+    "pic_url": "/gma-cached-assets/annotator/meituan/pad-53e733ea.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 95,
+    "skus": [
+      {
+        "description": "",
+        "price": "19.5",
+        "id": 2001
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 2002,
+    "attrs": [],
+    "category_id": 333,
+    "created_at": {
+      "$date": "2026-05-20T11:05:11.408Z"
+    },
+    "month_saled": 9,
+    "month_saled_content": "9",
+    "name": "Small Fan",
+    "pic_url": "/gma-cached-assets/annotator/meituan/small-32a4337a.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 95,
+    "skus": [
+      {
+        "description": "",
+        "price": "7.8",
+        "id": 2002
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 2003,
+    "attrs": [],
+    "category_id": 335,
+    "created_at": {
+      "$date": "2026-05-20T11:05:12.660Z"
+    },
+    "month_saled": 5,
+    "month_saled_content": "5",
+    "name": "Wet Wipes",
+    "pic_url": "/gma-cached-assets/annotator/meituan/wet-0b53c8ca.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 96,
+    "skus": [
+      {
+        "description": "",
+        "price": "11.8",
+        "id": 2003
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 2004,
+    "attrs": [],
+    "category_id": 336,
+    "created_at": {
+      "$date": "2026-05-20T11:05:13.287Z"
+    },
+    "month_saled": 21,
+    "month_saled_content": "21",
+    "name": "Mud remover",
+    "pic_url": "/gma-cached-assets/annotator/meituan/wet-b10548e4.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 96,
+    "skus": [
+      {
+        "description": "",
+        "price": "12.5",
+        "id": 2004
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 2005,
+    "attrs": [],
+    "category_id": 336,
+    "created_at": {
+      "$date": "2026-05-20T11:05:13.836Z"
+    },
+    "month_saled": 11,
+    "month_saled_content": "11",
+    "name": "isposable bath towel",
+    "pic_url": "/gma-cached-assets/annotator/meituan/towel-559ed3cf.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 96,
+    "skus": [
+      {
+        "description": "",
+        "price": "5",
+        "id": 2005
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 2006,
+    "attrs": [],
+    "category_id": 337,
+    "created_at": {
+      "$date": "2026-05-20T11:05:15.102Z"
+    },
+    "month_saled": 12,
+    "month_saled_content": "12",
+    "name": "Watermelon",
+    "pic_url": "/gma-cached-assets/annotator/meituan/qianli-xg-5d229b3b.jpg",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 97,
+    "skus": [
+      {
+        "description": "",
+        "price": "13.9",
+        "id": 2006
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 2007,
+    "attrs": [],
+    "category_id": 338,
+    "created_at": {
+      "$date": "2026-05-20T11:05:15.694Z"
+    },
+    "month_saled": 21,
+    "month_saled_content": "21",
+    "name": "Outdoor table",
+    "pic_url": "/gma-cached-assets/annotator/meituan/outdoor-table-d24fadd4.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 97,
+    "skus": [
+      {
+        "description": "",
+        "price": "12.5",
+        "id": 2007
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 2008,
+    "attrs": [],
+    "category_id": 338,
+    "created_at": {
+      "$date": "2026-05-20T11:05:16.144Z"
+    },
+    "month_saled": 5,
+    "month_saled_content": "5",
+    "name": "Car Camping Refrigerator",
+    "pic_url": "/gma-cached-assets/annotator/meituan/czlybx-7d80d618.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 97,
+    "skus": [
+      {
+        "description": "",
+        "price": "5",
+        "id": 2008
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 2009,
+    "attrs": [],
+    "category_id": 339,
+    "created_at": {
+      "$date": "2026-05-20T11:05:17.371Z"
+    },
+    "month_saled": 12,
+    "month_saled_content": "12",
+    "name": "Tomahawk Steak",
+    "pic_url": "/gma-cached-assets/annotator/meituan/st-e5ba5aa0.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 98,
+    "skus": [
+      {
+        "description": "",
+        "price": "266",
+        "id": 2009
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 2010,
+    "attrs": [],
+    "category_id": 340,
+    "created_at": {
+      "$date": "2026-05-20T11:05:17.951Z"
+    },
+    "month_saled": 33,
+    "month_saled_content": "33",
+    "name": "Bone-in small combat axe",
+    "pic_url": "/gma-cached-assets/annotator/meituan/st-646bac12.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 98,
+    "skus": [
+      {
+        "description": "",
+        "price": "388",
+        "id": 2010
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 2011,
+    "attrs": [],
+    "category_id": 340,
+    "created_at": {
+      "$date": "2026-05-20T11:05:18.578Z"
+    },
+    "month_saled": 26,
+    "month_saled_content": "26",
+    "name": "Two-Person Afternoon Tea Set",
+    "pic_url": "/gma-cached-assets/annotator/meituan/st-646bac12.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 98,
+    "skus": [
+      {
+        "description": "",
+        "price": "520",
+        "id": 2011
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 2012,
+    "attrs": [],
+    "category_id": 341,
+    "created_at": {
+      "$date": "2026-05-20T11:05:19.812Z"
+    },
+    "month_saled": 9,
+    "month_saled_content": "9",
+    "name": "Classic Steak",
+    "pic_url": "/gma-cached-assets/annotator/meituan/steak-8dfc3bcd.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 99,
+    "skus": [
+      {
+        "description": "",
+        "price": "420",
+        "id": 2012
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 2013,
+    "attrs": [],
+    "category_id": 342,
+    "created_at": {
+      "$date": "2026-05-20T11:05:20.496Z"
+    },
+    "month_saled": 30,
+    "month_saled_content": "30",
+    "name": "Classic Two-Person Meal",
+    "pic_url": "/gma-cached-assets/annotator/meituan/steak-8dfc3bcd.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 99,
+    "skus": [
+      {
+        "description": "",
+        "price": "211",
+        "id": 2013
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 2014,
+    "attrs": [],
+    "category_id": 342,
+    "created_at": {
+      "$date": "2026-05-20T11:05:21.110Z"
+    },
+    "month_saled": 40,
+    "month_saled_content": "40",
+    "name": "Two-Person Afternoon Tea Set",
+    "pic_url": "/gma-cached-assets/annotator/meituan/steak-8dfc3bcd.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 99,
+    "skus": [
+      {
+        "description": "",
+        "price": "520",
+        "id": 2014
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 2015,
+    "attrs": [],
+    "category_id": 343,
+    "created_at": {
+      "$date": "2026-05-20T11:05:22.229Z"
+    },
+    "month_saled": 15,
+    "month_saled_content": "15",
+    "name": "wo-person afternoon tea",
+    "pic_url": "/gma-cached-assets/annotator/meituan/wo-791d8195.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 100,
+    "skus": [
+      {
+        "description": "",
+        "price": "120",
+        "id": 2015
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 2016,
+    "attrs": [],
+    "category_id": 344,
+    "created_at": {
+      "$date": "2026-05-20T11:05:22.784Z"
+    },
+    "month_saled": 10,
+    "month_saled_content": "10",
+    "name": "le-person Afternoon Tea Set",
+    "pic_url": "/gma-cached-assets/annotator/meituan/wo-2ed71edc.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 100,
+    "skus": [
+      {
+        "description": "",
+        "price": "88",
+        "id": 2016
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 2017,
+    "attrs": [],
+    "category_id": 344,
+    "created_at": {
+      "$date": "2026-05-20T11:05:23.338Z"
+    },
+    "month_saled": 30,
+    "month_saled_content": "30",
+    "name": "Gathering Set Menu",
+    "pic_url": "/gma-cached-assets/annotator/meituan/set-9b184e67.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 100,
+    "skus": [
+      {
+        "description": "",
+        "price": "299",
+        "id": 2017
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 2018,
+    "attrs": [],
+    "category_id": 345,
+    "created_at": {
+      "$date": "2026-05-20T11:05:24.675Z"
+    },
+    "month_saled": 22,
+    "month_saled_content": "22",
+    "name": "Four Seasons Dessert Afternoon Tea Set",
+    "pic_url": "/gma-cached-assets/annotator/meituan/j-6ec1f49a.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 101,
+    "skus": [
+      {
+        "description": "",
+        "price": "198",
+        "id": 2018
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 2019,
+    "attrs": [],
+    "category_id": 345,
+    "created_at": {
+      "$date": "2026-05-20T11:05:25.252Z"
+    },
+    "month_saled": 8,
+    "month_saled_content": "8",
+    "name": "Dining and Wine Tasting Package",
+    "pic_url": "/gma-cached-assets/annotator/meituan/j-6ec1f49a.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 101,
+    "skus": [
+      {
+        "description": "",
+        "price": "588",
+        "id": 2019
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 2020,
+    "attrs": [],
+    "category_id": 345,
+    "created_at": {
+      "$date": "2026-05-20T11:05:25.868Z"
+    },
+    "month_saled": 16,
+    "month_saled_content": "16",
+    "name": "Solar Term Afternoon Tea",
+    "pic_url": "/gma-cached-assets/annotator/meituan/solar-e6a326ef.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 101,
+    "skus": [
+      {
+        "description": "",
+        "price": "299",
+        "id": 2020
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 2021,
+    "attrs": [],
+    "category_id": 346,
+    "created_at": {
+      "$date": "2026-05-20T11:05:27.005Z"
+    },
+    "month_saled": 48,
+    "month_saled_content": "48",
+    "name": "Milk-scented Hand-Torn Bread",
+    "pic_url": "/gma-cached-assets/annotator/meituan/alf-875117f0.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 102,
+    "skus": [
+      {
+        "description": "",
+        "price": "10",
+        "id": 2021
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 2022,
+    "attrs": [],
+    "category_id": 346,
+    "created_at": {
+      "$date": "2026-05-20T11:05:27.659Z"
+    },
+    "month_saled": 26,
+    "month_saled_content": "26",
+    "name": "alf-baked cheese cake",
+    "pic_url": "/gma-cached-assets/annotator/meituan/alf-b0d66723.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 102,
+    "skus": [
+      {
+        "description": "",
+        "price": "11.5",
+        "id": 2022
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 2023,
+    "attrs": [],
+    "category_id": 346,
+    "created_at": {
+      "$date": "2026-05-20T11:05:28.217Z"
+    },
+    "month_saled": 8,
+    "month_saled_content": "8",
+    "name": "tiger skin crab claw",
+    "pic_url": "/gma-cached-assets/annotator/meituan/tiger-a8775046.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 102,
+    "skus": [
+      {
+        "description": "",
+        "price": "12.6",
+        "id": 2023
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 2024,
+    "attrs": [],
+    "category_id": 347,
+    "created_at": {
+      "$date": "2026-05-20T11:05:29.347Z"
+    },
+    "month_saled": 31,
+    "month_saled_content": "31",
+    "name": "wiss roll",
+    "pic_url": "/gma-cached-assets/annotator/meituan/macaion-512d8d3d.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 103,
+    "skus": [
+      {
+        "description": "",
+        "price": "30",
+        "id": 2024
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 2025,
+    "attrs": [],
+    "category_id": 347,
+    "created_at": {
+      "$date": "2026-05-20T11:05:30.022Z"
+    },
+    "month_saled": 40,
+    "month_saled_content": "40",
+    "name": "Macaron",
+    "pic_url": "/gma-cached-assets/annotator/meituan/macaion-f5c9629d.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 103,
+    "skus": [
+      {
+        "description": "",
+        "price": "25",
+        "id": 2025
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 2026,
+    "attrs": [],
+    "category_id": 347,
+    "created_at": {
+      "$date": "2026-05-20T11:05:30.702Z"
+    },
+    "month_saled": 13,
+    "month_saled_content": "13",
+    "name": "ght sugar cake",
+    "pic_url": "/gma-cached-assets/annotator/meituan/sugar-da0834b0.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 103,
+    "skus": [
+      {
+        "description": "",
+        "price": "88",
+        "id": 2026
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 2027,
+    "attrs": [],
+    "category_id": 348,
+    "created_at": {
+      "$date": "2026-05-20T11:05:31.898Z"
+    },
+    "month_saled": 22,
+    "month_saled_content": "22",
+    "name": "Old cream bread",
+    "pic_url": "/gma-cached-assets/annotator/meituan/bread-a4bfd0b0.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 104,
+    "skus": [
+      {
+        "description": "",
+        "price": "45",
+        "id": 2027
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 2028,
+    "attrs": [],
+    "category_id": 348,
+    "created_at": {
+      "$date": "2026-05-20T11:05:32.393Z"
+    },
+    "month_saled": 25,
+    "month_saled_content": "25",
+    "name": "Cream cake",
+    "pic_url": "/gma-cached-assets/annotator/meituan/bread-a4bfd0b0.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 104,
+    "skus": [
+      {
+        "description": "",
+        "price": "66",
+        "id": 2028
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 2029,
+    "attrs": [],
+    "category_id": 348,
+    "created_at": {
+      "$date": "2026-05-20T11:05:32.966Z"
+    },
+    "month_saled": 8,
+    "month_saled_content": "8",
+    "name": "Cookies",
+    "pic_url": "/gma-cached-assets/annotator/meituan/cookies-f196c113.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 104,
+    "skus": [
+      {
+        "description": "",
+        "price": "20",
+        "id": 2029
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 2030,
+    "attrs": [],
+    "category_id": 349,
+    "created_at": {
+      "$date": "2026-05-20T11:05:33.990Z"
+    },
+    "month_saled": 24,
+    "month_saled_content": "24",
+    "name": "Animal cream cake",
+    "pic_url": "/gma-cached-assets/annotator/meituan/cake-185e22c9.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 105,
+    "skus": [
+      {
+        "description": "",
+        "price": "26.9",
+        "id": 2030
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 2031,
+    "attrs": [],
+    "category_id": 349,
+    "created_at": {
+      "$date": "2026-05-20T11:05:34.470Z"
+    },
+    "month_saled": 12,
+    "month_saled_content": "12",
+    "name": "wiss roll",
+    "pic_url": "/gma-cached-assets/annotator/meituan/rui-39e4dd32.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 105,
+    "skus": [
+      {
+        "description": "",
+        "price": "11.8",
+        "id": 2031
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 2032,
+    "attrs": [],
+    "category_id": 349,
+    "created_at": {
+      "$date": "2026-05-20T11:05:35.080Z"
+    },
+    "month_saled": 3,
+    "month_saled_content": "3",
+    "name": "Yogurt",
+    "pic_url": "/gma-cached-assets/annotator/meituan/cake-bd4b5f89.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 105,
+    "skus": [
+      {
+        "description": "",
+        "price": "7",
+        "id": 2032
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 2033,
+    "attrs": [],
+    "category_id": 350,
+    "created_at": {
+      "$date": "2026-05-20T11:05:36.345Z"
+    },
+    "month_saled": 39,
+    "month_saled_content": "39",
+    "name": "oney cake",
+    "pic_url": "/gma-cached-assets/annotator/meituan/bacon-ff4f0f2f.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 106,
+    "skus": [
+      {
+        "description": "",
+        "price": "33",
+        "id": 2033
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 2034,
+    "attrs": [],
+    "category_id": 350,
+    "created_at": {
+      "$date": "2026-05-20T11:05:37.018Z"
+    },
+    "month_saled": 22,
+    "month_saled_content": "22",
+    "name": "ttercream-filled cookie",
+    "pic_url": "/gma-cached-assets/annotator/meituan/bacon-ff4f0f2f.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 106,
+    "skus": [
+      {
+        "description": "",
+        "price": "30",
+        "id": 2034
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 2035,
+    "attrs": [],
+    "category_id": 350,
+    "created_at": {
+      "$date": "2026-05-20T11:05:37.777Z"
+    },
+    "month_saled": 8,
+    "month_saled_content": "8",
+    "name": "Caramel Cream Bacon",
+    "pic_url": "/gma-cached-assets/annotator/meituan/bacon-fac6886f.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 106,
+    "skus": [
+      {
+        "description": "",
+        "price": "26",
+        "id": 2035
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 2036,
+    "attrs": [],
+    "category_id": 351,
+    "created_at": {
+      "$date": "2026-05-20T11:05:39.163Z"
+    },
+    "month_saled": 46,
+    "month_saled_content": "46",
+    "name": "Chili Chicken Fried Rice Noodles",
+    "pic_url": "/gma-cached-assets/annotator/meituan/chili-28cb7563.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 107,
+    "skus": [
+      {
+        "description": "",
+        "price": "14",
+        "id": 2036
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 2037,
+    "attrs": [],
+    "category_id": 351,
+    "created_at": {
+      "$date": "2026-05-20T11:05:39.827Z"
+    },
+    "month_saled": 54,
+    "month_saled_content": "54",
+    "name": "Stir-fried beef with rice noodles",
+    "pic_url": "/gma-cached-assets/annotator/meituan/noodles-65fb6be1.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 107,
+    "skus": [
+      {
+        "description": "",
+        "price": "25",
+        "id": 2037
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 2038,
+    "attrs": [],
+    "category_id": 351,
+    "created_at": {
+      "$date": "2026-05-20T11:05:40.527Z"
+    },
+    "month_saled": 13,
+    "month_saled_content": "13",
+    "name": "Sesame white naan",
+    "pic_url": "/gma-cached-assets/annotator/meituan/chili-51af0a2d.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 107,
+    "skus": [
+      {
+        "description": "",
+        "price": "6",
+        "id": 2038
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 2039,
+    "attrs": [],
+    "category_id": 352,
+    "created_at": {
+      "$date": "2026-05-20T11:05:41.790Z"
+    },
+    "month_saled": 32,
+    "month_saled_content": "32",
+    "name": "Air-fried rice cake",
+    "pic_url": "/gma-cached-assets/annotator/meituan/rice-dcf11e8c.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 108,
+    "skus": [
+      {
+        "description": "",
+        "price": "15",
+        "id": 2039
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 2040,
+    "attrs": [],
+    "category_id": 352,
+    "created_at": {
+      "$date": "2026-05-20T11:05:42.508Z"
+    },
+    "month_saled": 28,
+    "month_saled_content": "28",
+    "name": "Four-in-one Chicken Strips, French Fries, Rice Cakes, and Yam Slices",
+    "pic_url": "/gma-cached-assets/annotator/meituan/rice-38acbebb.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 108,
+    "skus": [
+      {
+        "description": "",
+        "price": "17",
+        "id": 2040
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 2041,
+    "attrs": [],
+    "category_id": 352,
+    "created_at": {
+      "$date": "2026-05-20T11:05:43.092Z"
+    },
+    "month_saled": 33,
+    "month_saled_content": "33",
+    "name": "Chicken Strips, French Fries, and Rice Cake Combination",
+    "pic_url": "/gma-cached-assets/annotator/meituan/frice-5679c57c.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 108,
+    "skus": [
+      {
+        "description": "",
+        "price": "16.5",
+        "id": 2041
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 2042,
+    "attrs": [],
+    "category_id": 353,
+    "created_at": {
+      "$date": "2026-05-20T11:05:44.276Z"
+    },
+    "month_saled": 45,
+    "month_saled_content": "45",
+    "name": "Crispy Chicken Drumsticks",
+    "pic_url": "/gma-cached-assets/annotator/meituan/crispy-498a213a.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 109,
+    "skus": [
+      {
+        "description": "",
+        "price": "9.99",
+        "id": 2042
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 2043,
+    "attrs": [],
+    "category_id": 353,
+    "created_at": {
+      "$date": "2026-05-20T11:05:44.843Z"
+    },
+    "month_saled": 24,
+    "month_saled_content": "24",
+    "name": "Drinks",
+    "pic_url": "/gma-cached-assets/annotator/meituan/drink-74ab8b46.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 109,
+    "skus": [
+      {
+        "description": "",
+        "price": "10",
+        "id": 2043
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 2044,
+    "attrs": [],
+    "category_id": 353,
+    "created_at": {
+      "$date": "2026-05-20T11:05:45.381Z"
+    },
+    "month_saled": 28,
+    "month_saled_content": "28",
+    "name": "Chicken Frame",
+    "pic_url": "/gma-cached-assets/annotator/meituan/crispy-4b87d0c0.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 109,
+    "skus": [
+      {
+        "description": "",
+        "price": "8",
+        "id": 2044
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 2045,
+    "attrs": [],
+    "category_id": 354,
+    "created_at": {
+      "$date": "2026-05-20T11:05:46.531Z"
+    },
+    "month_saled": 6,
+    "month_saled_content": "6",
+    "name": "Cherry",
+    "pic_url": "/gma-cached-assets/annotator/meituan/cherry-d9ea38a4.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 110,
+    "skus": [
+      {
+        "description": "",
+        "price": "23.4",
+        "id": 2045
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 2046,
+    "attrs": [],
+    "category_id": 355,
+    "created_at": {
+      "$date": "2026-05-20T11:05:47.147Z"
+    },
+    "month_saled": 9,
+    "month_saled_content": "9",
+    "name": "Red-heart guava",
+    "pic_url": "/gma-cached-assets/annotator/meituan/fan-f3c6d5c1.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 110,
+    "skus": [
+      {
+        "description": "",
+        "price": "12",
+        "id": 2046
+      }
+    ],
+    "status_remind_list": []
+  },
+  {
+    "id": 2047,
+    "attrs": [],
+    "category_id": 354,
+    "created_at": {
+      "$date": "2026-05-20T11:05:47.702Z"
+    },
+    "month_saled": 18,
+    "month_saled_content": "18",
+    "name": "Mango",
+    "pic_url": "/gma-cached-assets/annotator/meituan/mango-a391ac8e.png",
+    "praise_content": "",
+    "praise_num": 0,
+    "restaurant_id": 110,
+    "skus": [
+      {
+        "description": "",
+        "price": "20",
+        "id": 2047
+      }
+    ],
+    "status_remind_list": []
+  }
+]

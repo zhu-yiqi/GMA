@@ -1,0 +1,9 @@
+{
+  "task_name": "tempus_rename_starter_mix_playlist_favorite_songs",
+  "difficulty": "easy",
+  "app": [
+    "Tempus"
+  ],
+  "category": [],
+  "design_description": "Seeds the existing playlist Starter Mix with globally unique English songs from Ed Sheeran's + album, then checks that the playlist is renamed exactly to My favorite songs while preserving membership."
+}

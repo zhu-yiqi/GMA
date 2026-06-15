@@ -1,0 +1,20 @@
+{
+  "created_at": "2026-05-23T12:03:15.899440+00:00",
+  "model": "gpt-image-2",
+  "size": "1024x1024",
+  "quality": "auto",
+  "output_format": "png",
+  "preset": "none",
+  "dry_run": false,
+  "images": [
+    {
+      "slug": "row98-phone-gallery",
+      "prompt": "Three original smartphone gallery photos from the same spring morning walk: sunlit trees near a campus path, a quiet bench with notebooks, and a clear blue sky over a low building. Natural camera look, no text, no logos.",
+      "path": "src/gma/tasks/definitions/spreadsheet_batch_002/w2/mastodon_good_morning_latest_photo_mail_scenery/assets/mastodon-good-morning-latest-photo-mail-scenery-phone-gallery.png",
+      "sha256": "1c430cdec196edf1d6122dc81c09066e33ac32229185180816c4e04fd6eefad6",
+      "bytes": 1025250,
+      "width": 768,
+      "height": 768
+    }
+  ]
+}

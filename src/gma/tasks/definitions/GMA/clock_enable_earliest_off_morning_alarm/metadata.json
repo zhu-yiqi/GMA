@@ -1,0 +1,11 @@
+{
+  "task_name": "clock_enable_earliest_off_morning_alarm",
+  "difficulty": "medium",
+  "app": [
+    "Clock"
+  ],
+  "category": [
+    "Selection / Optimization Tasks"
+  ],
+  "design_description": "task rewritten in English. The fixed task date makes tomorrow deterministic, and the seeded one-off morning alarms make Early Errand the earliest eligible off alarm. Evaluation checks that only the eligible alarm is enabled with vibration."
+}

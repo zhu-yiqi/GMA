@@ -1,0 +1,9 @@
+{
+  "task_name": "xiaoshiliu_music_travel_comment_follow_save",
+  "difficulty": "medium",
+  "app": [
+    "XiaoShiLiu"
+  ],
+  "category": [],
+  "design_description": "Implements task with deterministic seeded Music and Travel posts, a seeded top-level comment by Daily Style Guide, exact English comment/reply text, and task-specific generated images. Evaluation checks the two comments, the reply, the comment like, the author follow, and the save action."
+}

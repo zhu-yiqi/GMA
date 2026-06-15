@@ -1,0 +1,9 @@
+{
+  "task_name": "mattermost_create_make_friends_channel",
+  "difficulty": "medium",
+  "app": [
+    "Mattermost"
+  ],
+  "category": [],
+  "design_description": "task rewritten in English. A deterministic Mattermost user Top Players is seeded as username topplayers. Evaluation checks channel creation with purpose/header, member addition, and exact message 1."
+}

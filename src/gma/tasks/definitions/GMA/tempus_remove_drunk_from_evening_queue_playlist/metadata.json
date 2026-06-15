@@ -1,0 +1,9 @@
+{
+  "task_name": "tempus_remove_drunk_from_evening_queue_playlist",
+  "difficulty": "easy",
+  "app": [
+    "Tempus"
+  ],
+  "category": [],
+  "design_description": "The source row referenced a non-English song title, so this implementation binds the same remove-from-playlist intent to the existing globally unique English song Drunk from Ed Sheeran's + album. AssetModified verifies the final playlist contains only Grade 8."
+}

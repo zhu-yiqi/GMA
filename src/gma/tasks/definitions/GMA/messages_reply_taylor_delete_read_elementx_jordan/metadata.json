@@ -1,0 +1,10 @@
+{
+  "task_name": "messages_reply_taylor_delete_read_elementx_jordan",
+  "difficulty": "medium",
+  "app": [
+    "Messages",
+    "ElementX"
+  ],
+  "category": [],
+  "design_description": "task rewritten in English with Taylor and Jordan Lee. Matrix usernames are unique, so the original duplicate-user ambiguity is collapsed to a deterministic seeded Jordan Lee DM. Evaluation checks SMS reply, deletion of two read threads, and the ElementX message in Jordan Lee's DM."
+}

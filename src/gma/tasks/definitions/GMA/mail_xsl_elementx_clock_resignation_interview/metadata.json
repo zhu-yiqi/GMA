@@ -1,0 +1,13 @@
+{
+  "task_name": "mail_xsl_elementx_clock_resignation_interview",
+  "difficulty": "hard",
+  "app": [
+    "Mail",
+    "Files",
+    "XiaoShiLiu",
+    "ElementX",
+    "Clock"
+  ],
+  "category": [],
+  "design_description": "task rewritten with a valid recipient email, deterministic interview position, a named XiaoShiLiu interview post using a generated image, a named ElementX DM, and a 2 PM alarm. The vague tie decision is simplified to the named seeded post."
+}

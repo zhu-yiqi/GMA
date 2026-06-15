@@ -1,0 +1,9 @@
+{
+  "task_name": "contacts_create_avery_walker",
+  "difficulty": "easy",
+  "app": [
+    "Contacts"
+  ],
+  "category": [],
+  "design_description": "task conversion. The original contact name is rewritten as the English-only name Avery Walker while preserving the requested phone number and Work phone label. No initial asset is needed, and AssetExists validates the created contact."
+}

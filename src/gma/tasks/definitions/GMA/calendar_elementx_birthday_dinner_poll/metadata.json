@@ -1,0 +1,11 @@
+{
+  "task_name": "calendar_elementx_birthday_dinner_poll",
+  "difficulty": "hard",
+  "app": [
+    "Calendar",
+    "ElementX",
+    "Files"
+  ],
+  "category": [],
+  "design_description": "task rewritten in English with Alex Parker and a deterministic ElementX room. The unsupported live voice-recording requirement is represented as a seeded audio file upload and pin, while Calendar deletion/creation, message, poll, and file pinning are evaluated declaratively."
+}

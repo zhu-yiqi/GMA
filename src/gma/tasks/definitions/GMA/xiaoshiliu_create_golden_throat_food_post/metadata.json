@@ -1,0 +1,10 @@
+{
+  "task_name": "xiaoshiliu_create_golden_throat_food_post",
+  "difficulty": "easy",
+  "app": [
+    "XiaoShiLiu",
+    "Gallery"
+  ],
+  "category": [],
+  "design_description": "Creates a generated task-local Gallery image so the first-photo upload is deterministic. The expected XiaoShiLiu post checks the exact title, content, Food category, and at least one uploaded image."
+}

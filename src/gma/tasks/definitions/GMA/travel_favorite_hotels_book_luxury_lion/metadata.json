@@ -1,0 +1,11 @@
+{
+  "task_name": "travel_favorite_hotels_book_luxury_lion",
+  "difficulty": "medium",
+  "app": [
+    "Travel"
+  ],
+  "category": [
+    "Conditional Tasks"
+  ],
+  "design_description": "Implements task with existing Travel hotel slugs. Luxury Lion Resort room 1 was bound during prep as Standard Room with 1 King Bed, so the first-room instruction is deterministic and evaluable."
+}

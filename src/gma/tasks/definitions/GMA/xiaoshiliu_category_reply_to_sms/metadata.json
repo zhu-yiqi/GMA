@@ -1,0 +1,12 @@
+{
+  "task_name": "xiaoshiliu_category_reply_to_sms",
+  "difficulty": "hard",
+  "app": [
+    "XiaoShiLiu",
+    "Messages"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ],
+  "design_description": "Implements task by seeding the target post with visible tags cafeteria and food and a single unread SMS thread. The required SMS reply must use the exact Tags: <tag 1>, <tag 2> format in the same order shown in XiaoShiLiu and is checked as a sent SMS asset."
+}

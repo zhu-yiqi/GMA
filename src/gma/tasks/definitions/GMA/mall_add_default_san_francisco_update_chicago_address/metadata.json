@@ -1,0 +1,9 @@
+{
+  "task_name": "mall_add_default_san_francisco_update_chicago_address",
+  "difficulty": "medium",
+  "app": [
+    "Mall"
+  ],
+  "category": [],
+  "design_description": "task rewritten in English. A concrete Chicago address is seeded for editing, and the new San Francisco default address is fully specified. Evaluation checks the new default address and the modified Chicago address."
+}

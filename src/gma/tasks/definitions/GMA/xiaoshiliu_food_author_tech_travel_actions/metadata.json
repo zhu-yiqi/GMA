@@ -1,0 +1,9 @@
+{
+  "task_name": "xiaoshiliu_food_author_tech_travel_actions",
+  "difficulty": "medium",
+  "app": [
+    "XiaoShiLiu"
+  ],
+  "category": [],
+  "design_description": "Implements task by binding first Food, first Technology, and first Travel references to seeded posts with deterministic timestamps. The missing comment content was rewritten into the goal as exact English text, and all XiaoShiLiu posts use generated task-specific images."
+}

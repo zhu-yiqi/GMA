@@ -1,0 +1,11 @@
+{
+    "task_name": "travel_dubai_london_flight_london_favorites",
+    "difficulty": "hard",
+    "app": [
+        "Travel"
+    ],
+    "category": [
+        "Information-Gathering Tasks"
+    ],
+    "design_description": "Task intentionally omits the exact Dubai to London flight from the visible goal and uses user_interaction to resolve the choice to flight EK2922. The passenger gender and contact details remain explicit, and evaluation also checks the first three London attraction favorites."
+}

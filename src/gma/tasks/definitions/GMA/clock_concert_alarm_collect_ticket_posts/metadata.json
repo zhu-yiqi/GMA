@@ -1,0 +1,10 @@
+{
+  "task_name": "clock_concert_alarm_collect_ticket_posts",
+  "difficulty": "medium",
+  "app": [
+    "Clock",
+    "XiaoShiLiu"
+  ],
+  "category": [],
+  "design_description": "task rewritten in English. The Clock alarm modification is seeded declaratively. XiaoShiLiu search results are deterministic: ten seeded English posts all match the query and each uses a task-specific generated image stored in assets. Evaluation checks the alarm modification and bookmarks for all seeded matching posts."
+}

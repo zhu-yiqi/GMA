@@ -1,0 +1,9 @@
+{
+  "task_name": "travel_book_ubud_monkey_forest_tickets",
+  "difficulty": "easy",
+  "app": [
+    "Travel"
+  ],
+  "category": [],
+  "design_description": "Resolves the Bali attraction to Ubud Monkey Forest and evaluates the confirmed one-adult, one-child ticket booking with exact visitor names."
+}

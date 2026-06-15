@@ -1,0 +1,12 @@
+{
+  "task_name": "mail_two_alarm_reminders",
+  "difficulty": "medium",
+  "app": [
+    "Mail",
+    "Clock"
+  ],
+  "category": [
+    "Information-Gathering Tasks"
+  ],
+  "design_description": "task keeps the sent email exact and resolves the vague evening alarm through user_interaction to 8 PM. Alarm bodies are represented as labels because Clock assets do not store long reminder descriptions."
+}

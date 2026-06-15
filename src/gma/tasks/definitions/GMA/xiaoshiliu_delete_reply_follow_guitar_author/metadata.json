@@ -1,0 +1,9 @@
+{
+  "task_name": "xiaoshiliu_delete_reply_follow_guitar_author",
+  "difficulty": "medium",
+  "app": [
+    "XiaoShiLiu"
+  ],
+  "category": [],
+  "design_description": "task rewritten in English. Three owner posts, a Foodie Carter comment, and the guitar post are seeded with task-specific generated images. Evaluation checks deletion of the latest post, the exact reply to Foodie Carter's comment, and following the guitar post author."
+}

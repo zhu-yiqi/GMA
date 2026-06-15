@@ -1,0 +1,12 @@
+{
+  "task_name": "hmdp_jason_profiles_royal_thai_price",
+  "difficulty": "medium",
+  "app": [
+    "HMDP"
+  ],
+  "category": [
+    "Selection / Optimization Tasks"
+  ],
+  "design_description": "Uses allowed seeded Jason profile/blog context with images and the existing shop Royal Thai Massage for a deterministic price answer.",
+  "row": 175
+}

@@ -1,0 +1,13 @@
+{
+  "task_name": "elementx_calendar_xiaoshiliu_crazy_thursday",
+  "difficulty": "hard",
+  "app": [
+    "ElementX",
+    "Calendar",
+    "XiaoShiLiu"
+  ],
+  "category": [
+    "Selection / Optimization Tasks"
+  ],
+  "design_description": "Implements task with a seeded Jordan Lee DM, a fixed-date Calendar event, and three deterministic XiaoShiLiu search results where the target is selected by tied likes and higher save count."
+}

@@ -1,0 +1,12 @@
+{
+  "task_name": "hmdp_fitness_expensive_favorite_review_count",
+  "difficulty": "medium",
+  "app": [
+    "HMDP"
+  ],
+  "category": [
+    "Selection / Optimization Tasks"
+  ],
+  "design_description": "task replacement. The positional Fitness review selection is replaced with concrete existing Fitness shops and deterministic favorite/review/count checks.",
+  "row": 171
+}

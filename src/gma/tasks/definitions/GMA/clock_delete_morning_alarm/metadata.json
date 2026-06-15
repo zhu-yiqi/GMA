@@ -1,0 +1,9 @@
+{
+  "task_name": "clock_delete_morning_alarm",
+  "difficulty": "easy",
+  "app": [
+    "Clock"
+  ],
+  "category": [],
+  "design_description": "task conversion. The task seeds the specified 6:00 AM alarm with the English label Morning Alarm and asks for that alarm to be deleted. Evaluation uses AssetDeleted."
+}

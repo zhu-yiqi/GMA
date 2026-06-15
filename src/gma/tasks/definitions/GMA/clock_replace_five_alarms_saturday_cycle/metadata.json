@@ -1,0 +1,9 @@
+{
+  "task_name": "clock_replace_five_alarms_saturday_cycle",
+  "difficulty": "medium",
+  "app": [
+    "Clock"
+  ],
+  "category": [],
+  "design_description": "task rewritten with ASCII transliterated labels. Five old alarms are seeded for deletion. Evaluation verifies those old alarms are gone and the five Saturday replacement alarms exist, with Mao and Chen disabled."
+}

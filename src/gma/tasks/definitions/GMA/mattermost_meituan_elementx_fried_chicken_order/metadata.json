@@ -1,0 +1,11 @@
+{
+  "task_name": "mattermost_meituan_elementx_fried_chicken_order",
+  "difficulty": "hard",
+  "app": [
+    "Mattermost",
+    "Meituan",
+    "ElementX"
+  ],
+  "category": [],
+  "design_description": "task bound to stable seeded Meituan catalog entries under Chicken Strips Lord and a concrete Jordan Lee ElementX DM. Mattermost message, new address, paid order, DM room, and DM message are evaluated."
+}

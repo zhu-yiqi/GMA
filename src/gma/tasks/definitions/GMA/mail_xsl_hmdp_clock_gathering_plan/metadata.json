@@ -1,0 +1,14 @@
+{
+  "task_name": "mail_xsl_hmdp_clock_gathering_plan",
+  "difficulty": "hard",
+  "app": [
+    "Mail",
+    "XiaoShiLiu",
+    "HMDP",
+    "Clock"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ],
+  "design_description": "task simplified to a deterministic seeded XiaoShiLiu gathering post that names Maple Leaf Bar. Mail, XiaoShiLiu save, HMDP favorite, and alarm are evaluated."
+}

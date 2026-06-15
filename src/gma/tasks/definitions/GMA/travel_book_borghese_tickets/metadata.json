@@ -1,0 +1,9 @@
+{
+  "task_name": "travel_book_borghese_tickets",
+  "difficulty": "medium",
+  "app": [
+    "Travel"
+  ],
+  "category": [],
+  "design_description": "Implements task by binding Galleria Borghese to Travel's existing Borghese Gallery attraction slug. The missing visit date is made explicit in the English goal, and evaluation checks ticket counts, visitor names, visit date, and confirmed payment."
+}

@@ -1,0 +1,14 @@
+{
+  "task_name": "mail_meituan_xsl_elementx_ppt_template",
+  "difficulty": "hard",
+  "app": [
+    "Mail",
+    "Meituan",
+    "XiaoShiLiu",
+    "ElementX"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ],
+  "design_description": "task rewritten with deterministic event-plan mail, stable CHAGEE foods from the seeded Meituan catalog, a named PPT-template XiaoShiLiu post using a generated image, and a named ElementX DM. The instruction explicitly specifies the default Office address, so no user interaction is needed."
+}

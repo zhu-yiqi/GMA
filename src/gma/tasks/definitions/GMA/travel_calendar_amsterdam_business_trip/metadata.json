@@ -1,0 +1,10 @@
+{
+    "task_name": "travel_calendar_amsterdam_business_trip",
+    "difficulty": "hard",
+    "app": [
+        "Travel",
+        "Calendar"
+    ],
+    "category": [],
+    "design_description": "Task binds the Amsterdam hotel selection to Jordaan Boutique Inn, makes the visible room choice explicit as Standard Room, and provides the guest email plus US phone number required by the Travel booking flow. It avoids the hidden Family Room backend row and evaluates the hotel booking plus Calendar event/reminder. The Calendar event is checked as a 9:00 AM point event because the instruction does not specify an end time."
+}

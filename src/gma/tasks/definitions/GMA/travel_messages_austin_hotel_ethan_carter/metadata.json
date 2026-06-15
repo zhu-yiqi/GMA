@@ -1,0 +1,10 @@
+{
+  "task_name": "travel_messages_austin_hotel_ethan_carter",
+  "difficulty": "hard",
+  "app": [
+    "Travel",
+    "Messages"
+  ],
+  "category": [],
+  "design_description": "task binds the Austin hotel to Fishing Creek Lodge and evaluates the visible Budget Room with 1 King Bed selection without requiring the hidden room number. Evaluates booking plus SMS."
+}

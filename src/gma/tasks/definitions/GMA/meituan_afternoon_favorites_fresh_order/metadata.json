@@ -1,0 +1,11 @@
+{
+  "task_name": "meituan_afternoon_favorites_fresh_order",
+  "difficulty": "medium",
+  "app": [
+    "Meituan"
+  ],
+  "category": [
+    "Selection / Optimization Tasks"
+  ],
+  "design_description": "task was marked non-direct, so it is bound to existing deterministic Meituan stores and existing KFC menu items. Criteria check the three store favorites and completed order."
+}

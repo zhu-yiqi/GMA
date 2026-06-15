@@ -1,0 +1,11 @@
+{
+  "task_name": "mastodon_hmdp_elementx_food_poll_plan",
+  "difficulty": "hard",
+  "app": [
+    "Mastodon",
+    "HMDP",
+    "ElementX"
+  ],
+  "category": [],
+  "design_description": "task resolves Leo, the second poll option, the HMDP restaurant, and the ElementX group to deterministic seeded assets."
+}

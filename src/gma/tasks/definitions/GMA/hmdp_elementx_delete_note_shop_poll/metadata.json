@@ -1,0 +1,10 @@
+{
+  "task_name": "hmdp_elementx_delete_note_shop_poll",
+  "difficulty": "hard",
+  "app": [
+    "HMDP",
+    "ElementX"
+  ],
+  "category": [],
+  "design_description": "Favorites an existing HMDP shop and then uses deterministic ElementX group, message, and poll actions."
+}

@@ -1,0 +1,20 @@
+{
+  "created_at": "2026-05-23T12:05:08.800591+00:00",
+  "model": "gpt-image-2",
+  "size": "1024x1024",
+  "quality": "auto",
+  "output_format": "png",
+  "preset": "xiaoshiliu",
+  "dry_run": false,
+  "images": [
+    {
+      "slug": "row102-cilantro-post",
+      "prompt": "A realistic campus lifestyle photo for a post about cilantro preferences: a fresh bowl of noodles with cilantro leaves set beside a notebook on a cafeteria table. Natural light, no readable text, no logos.\n\nStyle requirements: Create a realistic, original smartphone photo suitable for a campus lifestyle social post. Avoid readable text, logos, watermarks, brand names, UI screenshots, and copyrighted characters. Use natural lighting and a clean composition.",
+      "path": "src/gma/tasks/definitions/spreadsheet_batch_002/w2/mastodon_cilantro_poll_xiaoshiliu_bookmark/assets/mastodon-cilantro-poll-xiaoshiliu-bookmark-cilantro-post.png",
+      "sha256": "617e17d4952ebbf0b06042b726759b56c570a9acc1511a8cdd72159b32f7f333",
+      "bytes": 918745,
+      "width": 768,
+      "height": 768
+    }
+  ]
+}

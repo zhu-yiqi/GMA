@@ -1,0 +1,9 @@
+{
+  "task_name": "mastodon_create_tofu_pudding_poll",
+  "difficulty": "easy",
+  "app": [
+    "Mastodon"
+  ],
+  "category": [],
+  "design_description": "task rewritten into English-only food wording and strict poll fields. A neighboring account with a normal post and poll gives the timeline realistic context, while evaluation checks the owner poll text, options, and single-choice setting exactly."
+}

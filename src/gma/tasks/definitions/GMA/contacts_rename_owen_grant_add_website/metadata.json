@@ -1,0 +1,9 @@
+{
+  "task_name": "contacts_rename_owen_grant_add_website",
+  "difficulty": "easy",
+  "app": [
+    "Contacts"
+  ],
+  "category": [],
+  "design_description": "task rewritten from source-style names to Owen Grant and Noah Grant while keeping the requested website www.aaa.com. The task seeds the old contact and evaluates the rename plus website addition with AssetModified."
+}

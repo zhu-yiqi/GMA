@@ -1,0 +1,9 @@
+{
+  "task_name": "clock_update_three_alarm_repeats_vibration",
+  "difficulty": "medium",
+  "app": [
+    "Clock"
+  ],
+  "category": [],
+  "design_description": "task rewritten in English with labels A, B, and C. The seeded before states make each requested repeat/vibration change deterministic. Evaluation checks all three final alarm states."
+}

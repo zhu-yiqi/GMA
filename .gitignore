@@ -1,0 +1,53 @@
+# Python build/cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+
+# Local runtime and secrets
+.env
+configs/*.local.toml
+configs/*.secret.toml
+logs/
+*.log
+run.sh
+backups/
+data/
+task_generation/
+TODO_ASSET_BACKLOG.md
+
+# Local tests/generated task scratch
+tests/
+src/gma/tasks/definitions/tests/
+src/gma/tasks/definitions/smoke/
+
+# Ad hoc evaluation scripts; keep official helpers such as build_ready_image.sh.
+scripts/eval_*.sh
+scripts/*remaining*.sh
+scripts/*incomplete*.sh
+
+# Docker build leftovers and mutable emulator state
+docker/*.orig
+src/**/*.orig
+docker/Pixel_8_API_34_x86_64.avd/
+docker/Pixel_8_API_34_x86_64.ini
+*.img
+*.qcow2
+*.bin
+*.avd/snapshots/
+docker/adbkey
+docker/adbkey.pub
+
+# Large application/runtime artifacts are distributed separately or baked into gma:ready.
+docker/dev/*
+!docker/dev/.gitkeep
+!docker/dev/README.md
+
+# macOS local metadata
+.DS_Store
+
+# new tasks
+tasks_v2
+

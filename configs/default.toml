@@ -1,0 +1,52 @@
+[agent]
+profile = "default"
+type = "basic_e2e"
+model = ""
+base_url = ""
+api_key = ""
+
+# Define all API-backed agents here. The selected profile inherits any
+# non-empty fallback values from [agent].
+[agents.default]
+type = "basic_e2e"
+model = "qwen3.6-plus"
+base_url = "https://yeysai.com/v1"
+api_key = ""
+
+[agents.qwen_local]
+type = "basic_e2e"
+model = ""
+base_url = ""
+api_key = ""
+
+[agents.mai_ui]
+type = "mai_ui"
+model = "MAI-UI-8B"
+base_url = "http://127.0.0.1:18000/v1"
+api_key = ""
+
+[agents.openai_default]
+type = "basic_e2e"
+model = ""
+base_url = ""
+api_key = ""
+
+[user_simulator]
+# Empty model/base_url/api_key means inherit the selected task agent config.
+model = "gemini-3-flash-preview-nothinking"
+base_url = "https://yeysai.com/v1"
+api_key = ""
+temperature = 0.0
+max_tokens = 1024
+timeout = 60.0
+retries = 3
+
+[runtime]
+device = "emulator-5554"
+step_wait_time = 1.0
+max_steps = 50
+container_image = "gma:latest"
+container_prefix = "gma_env"
+
+[evaluation]
+log_dir = "logs"

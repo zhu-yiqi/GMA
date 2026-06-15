@@ -1,0 +1,13 @@
+{
+  "task_name": "hmdp_xsl_fitness_review_repost",
+  "difficulty": "hard",
+  "app": [
+    "HMDP",
+    "XiaoShiLiu",
+    "Gallery"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ],
+  "design_description": "Uses the baseline HMDP fitness shop 24 Hour Fitness - Santa Barbara and an existing first review; the task only seeds the Gallery image needed for the XiaoShiLiu repost."
+}

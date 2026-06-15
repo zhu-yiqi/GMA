@@ -1,0 +1,12 @@
+{
+  "task_name": "contacts_parker_rainier_calendar_save",
+  "difficulty": "medium",
+  "app": [
+    "Contacts",
+    "Messages",
+    "XiaoShiLiu",
+    "Calendar"
+  ],
+  "category": [],
+  "design_description": "task uses an English contact name and exact SMS. Five ordered Mount Rainier notes share one generated task-specific image, and the October 8 date is bound to October 8, 2026. Evaluation checks contact creation, SMS, five saves, and Calendar event."
+}

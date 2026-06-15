@@ -1,0 +1,11 @@
+{
+  "task_name": "clock_create_delete_modify_alarm_sequence",
+  "difficulty": "medium",
+  "app": [
+    "Clock"
+  ],
+  "category": [
+    "Information-Gathering Tasks"
+  ],
+  "design_description": "task rewritten in English with deterministic alarm labels and times. The simulated user can answer 8:00 AM if the agent asks for the omitted morning time. Evaluation checks creation of the Tuesday alarm, deletion of Get Up, and modification of alarm A."
+}

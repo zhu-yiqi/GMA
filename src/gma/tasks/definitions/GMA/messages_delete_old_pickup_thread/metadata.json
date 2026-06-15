@@ -1,0 +1,9 @@
+{
+  "task_name": "messages_delete_old_pickup_thread",
+  "difficulty": "easy",
+  "app": [
+    "Messages"
+  ],
+  "category": [],
+  "design_description": "task rewritten with a US-style phone number and English message content. The seeded SMS is uniquely identifiable by phone number and body, and AssetDeleted verifies that the conversation message no longer exists."
+}

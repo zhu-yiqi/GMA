@@ -1,0 +1,12 @@
+{
+  "task_name": "mall_redmi_k50_not_found_answer",
+  "difficulty": "medium",
+  "app": [
+    "Mall"
+  ],
+  "category": [
+    "Invalid-Instruction Tasks"
+  ],
+  "design_description": "The requested Redmi K50 standard version is absent. The task now expects the agent to detect that, ask the user, receive a feasible fallback, and add HUAWEI Mate 80 Pro to the cart.",
+  "row": 152
+}

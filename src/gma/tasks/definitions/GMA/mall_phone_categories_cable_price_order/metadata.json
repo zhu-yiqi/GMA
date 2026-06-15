@@ -1,0 +1,11 @@
+{
+  "task_name": "mall_phone_categories_cable_price_order",
+  "difficulty": "medium",
+  "app": [
+    "Mall"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ],
+  "design_description": "task rewritten in English. Phones subcategories and cable-named Phone Accessories prices are bound from the Mall catalog. The purchase target is the existing oneplus Fast-charging data cable, with a seeded first address. Evaluation checks the exact report and checkout order."
+}

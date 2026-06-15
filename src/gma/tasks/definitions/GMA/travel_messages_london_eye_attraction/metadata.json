@@ -1,0 +1,10 @@
+{
+  "task_name": "travel_messages_london_eye_attraction",
+  "difficulty": "hard",
+  "app": [
+    "Travel",
+    "Messages"
+  ],
+  "category": [],
+  "design_description": "task books one London Eye attraction ticket and binds the SMS contact to Jordan Miller."
+}

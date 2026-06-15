@@ -1,0 +1,9 @@
+{
+  "task_name": "mall_add_default_manhattan_address",
+  "difficulty": "easy",
+  "app": [
+    "Mall"
+  ],
+  "category": [],
+  "design_description": "The address-creation request is rewritten in English-only form, with the original recipient name romanized as Dylan Harris and the region expressed as New York State / New York City / Manhattan Borough. Only a login user is seeded; the expected address is user-created state and is evaluated exactly, including default_status."
+}

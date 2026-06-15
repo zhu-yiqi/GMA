@@ -1,0 +1,9 @@
+{
+  "task_name": "elementx_send_long_time_no_see_jordan",
+  "difficulty": "easy",
+  "app": [
+    "ElementX"
+  ],
+  "category": [],
+  "design_description": "Seeds the Jordan Lee direct chat and evaluates the exact outgoing message from the default ElementX user."
+}

@@ -1,0 +1,9 @@
+{
+  "task_name": "messages_mark_unread_threads_read",
+  "difficulty": "easy",
+  "app": [
+    "Messages"
+  ],
+  "category": [],
+  "design_description": "task seeds three unread SMS conversations plus one already-read surrounding thread. Explicit timestamps make the Messages list deterministic, and AssetModified verifies each unread message is now read."
+}

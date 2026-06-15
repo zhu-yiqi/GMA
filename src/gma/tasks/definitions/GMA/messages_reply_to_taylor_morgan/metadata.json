@@ -1,0 +1,9 @@
+{
+  "task_name": "messages_reply_to_taylor_morgan",
+  "difficulty": "easy",
+  "app": [
+    "Messages"
+  ],
+  "category": [],
+  "design_description": "task rewritten with an English contact and exact reply text. The task seeds Taylor Morgan's conversation and requires the agent to send exactly \"I know.\"; AssetExists checks the sent SMS."
+}

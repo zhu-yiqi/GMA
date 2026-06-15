@@ -1,0 +1,10 @@
+{
+  "task_name": "hmdp_royal_thai_review_like_favorite",
+  "difficulty": "medium",
+  "app": [
+    "HMDP"
+  ],
+  "category": [],
+  "design_description": "Uses allowed seeded HMDP note context with images and the existing shop Royal Thai Massage for deterministic like, review, and favorite checks.",
+  "row": 166
+}

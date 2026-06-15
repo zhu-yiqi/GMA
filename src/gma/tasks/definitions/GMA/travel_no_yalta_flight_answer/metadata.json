@@ -1,0 +1,11 @@
+{
+  "task_name": "travel_no_yalta_flight_answer",
+  "difficulty": "hard",
+  "app": [
+    "Travel"
+  ],
+  "category": [
+    "Invalid-Instruction Tasks"
+  ],
+  "design_description": "Travel has no supported Yalta Cliff Castle attraction. The task expects the agent to detect that, ask the user, receive Borghese Gallery as a feasible fallback, and book that attraction while preserving the original visit date, ticket counts, visitor names, and visitor types."
+}

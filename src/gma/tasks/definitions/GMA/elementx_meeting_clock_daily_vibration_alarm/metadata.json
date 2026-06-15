@@ -1,0 +1,12 @@
+{
+  "task_name": "elementx_meeting_clock_daily_vibration_alarm",
+  "difficulty": "medium",
+  "app": [
+    "ElementX",
+    "Clock"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ],
+  "design_description": "task seeds a Clock alert ElementX room with a latest English meeting-time message. The required Clock alarm is deterministic: 3:00 PM, daily, vibration, and exact label."
+}

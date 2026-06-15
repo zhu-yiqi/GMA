@@ -1,0 +1,9 @@
+{
+  "task_name": "tempus_compare_second_playlist_unique_song",
+  "difficulty": "medium",
+  "app": [
+    "Tempus"
+  ],
+  "category": [],
+  "design_description": "Strict Tempus answer task with verified catalog songs. The agent must create two playlists, compare them, and submit only the exact song name found in the first playlist but not the second."
+}

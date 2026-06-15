@@ -1,0 +1,12 @@
+{
+  "task_name": "mail_latest_attachment_reply_first_with_file",
+  "difficulty": "medium",
+  "app": [
+    "Mail",
+    "Files"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ],
+  "design_description": "task is made deterministic with inbox emails on separate dates and asset insertion ordered oldest-to-newest, so Need Latest Version appears as the newest/top inbox email. The newest attachment-bearing email is Latest Version Attachment with latest-version.txt, and evaluation verifies both local download and the reply to Need Latest Version with that attachment."
+}

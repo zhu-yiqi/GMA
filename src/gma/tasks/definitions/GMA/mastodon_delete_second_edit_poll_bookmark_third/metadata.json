@@ -1,0 +1,11 @@
+{
+  "task_name": "mastodon_delete_second_edit_poll_bookmark_third",
+  "difficulty": "medium",
+  "app": [
+    "Mastodon"
+  ],
+  "category": [
+    "Conditional Tasks"
+  ],
+  "design_description": "task seeds exactly three owner posts in profile order, with the first as the poll and the third initially unbookmarked. The branch is therefore deterministic: delete the second post, edit the poll, and add a bookmark to the third post."
+}

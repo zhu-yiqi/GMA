@@ -1,0 +1,29 @@
+{
+  "created_at": "2026-05-23T12:05:49.963569+00:00",
+  "model": "gpt-image-2",
+  "size": "1024x1024",
+  "quality": "auto",
+  "output_format": "png",
+  "preset": "none",
+  "dry_run": false,
+  "images": [
+    {
+      "slug": "row103-phone-gallery",
+      "prompt": "Two original smartphone gallery photos from a sunny morning: first a dorm desk with soft daylight and a coffee cup, second a bright campus walkway with warm sunshine and long shadows. Natural camera look, no text, no logos.",
+      "path": "src/gma/tasks/definitions/spreadsheet_batch_002/w2/mastodon_delete_yesterday_post_second_photo_reply/assets/mastodon-delete-yesterday-post-second-photo-reply-phone-gallery-1.png",
+      "sha256": "4e418e8f7006a3ffb157bbf034380219214269d1490312a820372f145f3597eb",
+      "bytes": 1081464,
+      "width": 768,
+      "height": 768
+    },
+    {
+      "slug": "row103-phone-gallery",
+      "prompt": "Two original smartphone gallery photos from a sunny morning: first a dorm desk with soft daylight and a coffee cup, second a bright campus walkway with warm sunshine and long shadows. Natural camera look, no text, no logos.",
+      "path": "src/gma/tasks/definitions/spreadsheet_batch_002/w2/mastodon_delete_yesterday_post_second_photo_reply/assets/mastodon-delete-yesterday-post-second-photo-reply-phone-gallery-2.png",
+      "sha256": "014a5e56873733f8ee5b3d8ac59d8b259ab019e2b02a6965ee03d2e20ff313f6",
+      "bytes": 1064550,
+      "width": 768,
+      "height": 768
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "task_name": "clock_messages_jishengke_favorite",
+  "difficulty": "hard",
+  "app": [
+    "Clock",
+    "Messages",
+    "Meituan"
+  ],
+  "category": [
+    "Conditional Tasks"
+  ],
+  "design_description": "Uses the existing Meituan restaurant Jishengke plus Messages and Clock context. Evaluation checks the Meituan favorite and alarm workflow."
+}

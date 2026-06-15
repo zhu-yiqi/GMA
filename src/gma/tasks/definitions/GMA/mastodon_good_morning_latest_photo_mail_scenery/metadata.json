@@ -1,0 +1,12 @@
+{
+  "task_name": "mastodon_good_morning_latest_photo_mail_scenery",
+  "difficulty": "medium",
+  "app": [
+    "Mastodon",
+    "Gallery",
+    "Mail",
+    "Files"
+  ],
+  "category": [],
+  "design_description": "task seeds three generated gallery photos so the newest image is deterministic, plus a Downloads text attachment named morning-scenery-notes.txt and a realistic email recipient, while the goal still requires exact Mastodon and Mail content."
+}

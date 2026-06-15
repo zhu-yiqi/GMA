@@ -1,0 +1,11 @@
+{
+  "task_name": "meituan_nearest_kfc_order_unfavorite",
+  "difficulty": "medium",
+  "app": [
+    "Meituan"
+  ],
+  "category": [
+    "Conditional Tasks"
+  ],
+  "design_description": "task rewritten in English and bound to the existing KFC catalog entry in env21. The task seeds two Technologynology addresses so the Mike branch is meaningful and one favorite to remove. Evaluation checks a paid KFC order containing the three existing bound menu items and verifies the seeded KFC favorite is gone."
+}

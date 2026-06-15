@@ -1,0 +1,10 @@
+{
+  "task_name": "hmdp_unfollow_glenn_follow_food_author",
+  "difficulty": "medium",
+  "app": [
+    "HMDP"
+  ],
+  "category": [],
+  "design_description": "Uses allowed seeded HMDP follow/blog context with images linked to the existing shop Jim's South St.",
+  "row": 168
+}

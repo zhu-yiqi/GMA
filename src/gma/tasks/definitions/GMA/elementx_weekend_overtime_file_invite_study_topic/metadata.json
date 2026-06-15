@@ -1,0 +1,10 @@
+{
+  "task_name": "elementx_weekend_overtime_file_invite_study_topic",
+  "difficulty": "medium",
+  "app": [
+    "ElementX",
+    "Files"
+  ],
+  "category": [],
+  "design_description": "Task seeds three group rooms plus Jack and a realistic overtime-plan attachment. Evaluation checks the pinned message, uploaded file, Jack invitation to Weekend Overtime, and description update on Study Circle."
+}

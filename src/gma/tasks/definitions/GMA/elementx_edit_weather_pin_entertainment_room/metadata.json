@@ -1,0 +1,9 @@
+{
+  "task_name": "elementx_edit_weather_pin_entertainment_room",
+  "difficulty": "medium",
+  "app": [
+    "ElementX"
+  ],
+  "category": [],
+  "design_description": "task seeds the first ElementX room and the editable weather message. Evaluation uses ElementX message modification support, checks the pinned exhaustion message, and checks creation of the Entertainment room."
+}

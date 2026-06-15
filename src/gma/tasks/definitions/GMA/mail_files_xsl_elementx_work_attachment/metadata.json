@@ -1,0 +1,14 @@
+{
+  "task_name": "mail_files_xsl_elementx_work_attachment",
+  "difficulty": "hard",
+  "app": [
+    "Mail",
+    "Files",
+    "XiaoShiLiu",
+    "ElementX"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ],
+  "design_description": "task rewritten with deterministic first work attachment, valid recipient email, a named XiaoShiLiu file-organization post using a generated image, and a seeded ElementX group. Download, sent mail with attachment, like, group message, and group file upload are evaluated."
+}

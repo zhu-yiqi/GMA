@@ -1,0 +1,12 @@
+{
+  "task_name": "elementx_mail_team_joining_followup",
+  "difficulty": "hard",
+  "app": [
+    "ElementX",
+    "Mail"
+  ],
+  "category": [
+    "Information-Gathering Tasks"
+  ],
+  "design_description": "task rewritten with English rooms and names. The missing email address is handled through user_interaction using a valid deterministic address. ElementX message/poll and Mail send are evaluated; leaving the first ElementX room remains in the goal because there is no dedicated leave-room asset criterion."
+}

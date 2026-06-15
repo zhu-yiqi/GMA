@@ -1,0 +1,9 @@
+{
+  "task_name": "mattermost_delete_last_message_in_last_channel",
+  "difficulty": "easy",
+  "app": [
+    "Mattermost"
+  ],
+  "category": [],
+  "design_description": "task rewritten with a concrete last channel and newest-message target. Three channels and two timestamped messages in Zeta Archive make the ordering meaningful, and the evaluator checks deletion of the exact target post."
+}

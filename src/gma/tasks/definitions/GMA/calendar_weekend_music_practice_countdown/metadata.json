@@ -1,0 +1,11 @@
+{
+  "task_name": "calendar_weekend_music_practice_countdown",
+  "difficulty": "medium",
+  "app": [
+    "Calendar"
+  ],
+  "category": [
+    "Conditional Tasks"
+  ],
+  "design_description": "task rewritten in English. The existing branch is made deterministic by seeding a Children's Day 2026 event. Evaluation checks the rename and end-time change."
+}

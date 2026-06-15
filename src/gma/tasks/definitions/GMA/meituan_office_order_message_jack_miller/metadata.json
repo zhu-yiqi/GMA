@@ -1,0 +1,10 @@
+{
+  "task_name": "meituan_office_order_message_jack_miller",
+  "difficulty": "hard",
+  "app": [
+    "Meituan",
+    "Messages"
+  ],
+  "category": [],
+  "design_description": "Uses the existing Jishengke restaurant, three existing default-list foods totaling 29.00, an Office address, and an exact English SMS to Jack Miller."
+}

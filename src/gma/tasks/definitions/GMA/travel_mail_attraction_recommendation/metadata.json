@@ -1,0 +1,12 @@
+{
+  "task_name": "travel_mail_attraction_recommendation",
+  "difficulty": "hard",
+  "app": [
+    "Travel",
+    "Mail"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ],
+  "design_description": "task seeds the October 14 attraction booking as Dubai Marina Walk and evaluates favorite plus exact Mail recommendation."
+}

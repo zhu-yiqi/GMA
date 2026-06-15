@@ -1,0 +1,9 @@
+{
+  "task_name": "elementx_pin_received_message_from_ethan",
+  "difficulty": "easy",
+  "app": [
+    "ElementX"
+  ],
+  "category": [],
+  "design_description": "Seeds a deterministic ElementX DM with ethan_carter and the exact Received! message. AssetModified verifies that the seeded message becomes pinned."
+}

@@ -1,0 +1,11 @@
+{
+  "task_name": "tempus_missing_song_notice",
+  "difficulty": "hard",
+  "app": [
+    "Tempus"
+  ],
+  "category": [
+    "Invalid-Instruction Tasks"
+  ],
+  "design_description": "The requested song Moonlit Fax Machine Waltz is absent. The task expects the agent to detect that, ask the user, receive a feasible fallback, and favorite Lego House from the + album."
+}

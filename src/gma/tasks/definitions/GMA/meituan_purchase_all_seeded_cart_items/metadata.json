@@ -1,0 +1,9 @@
+{
+  "task_name": "meituan_purchase_all_seeded_cart_items",
+  "difficulty": "easy",
+  "app": [
+    "Meituan"
+  ],
+  "category": [],
+  "design_description": "Seeds three existing KFC foods into the Meituan cart plus a delivery address. The expected order verifies all three cart items are purchased with quantity one and payment completed."
+}

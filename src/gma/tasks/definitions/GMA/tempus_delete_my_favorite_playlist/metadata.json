@@ -1,0 +1,9 @@
+{
+  "task_name": "tempus_delete_my_favorite_playlist",
+  "difficulty": "easy",
+  "app": [
+    "Tempus"
+  ],
+  "category": [],
+  "design_description": "Seeds a deterministic English-only playlist named My Favorite Playlist with existing English songs, then evaluates deletion with AssetDeleted."
+}

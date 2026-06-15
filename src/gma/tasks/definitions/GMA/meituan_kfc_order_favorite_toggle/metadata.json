@@ -1,0 +1,9 @@
+{
+  "task_name": "meituan_kfc_order_favorite_toggle",
+  "difficulty": "medium",
+  "app": [
+    "Meituan"
+  ],
+  "category": [],
+  "design_description": "Task binds to existing KFC items Classic signature breakfast three-piece set and Pork fillet panini 2-piece set. The seeded state has no favorite, so the conditional branch is to favorite the store after ordering."
+}

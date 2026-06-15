@@ -1,0 +1,11 @@
+{
+  "task_name": "elementx_calendar_messages_meeting_notice",
+  "difficulty": "hard",
+  "app": [
+    "ElementX",
+    "Calendar",
+    "Messages"
+  ],
+  "category": [],
+  "design_description": "task rewritten to English and bound to a seeded ElementX room plus concrete English contacts. The room rename/topic/member update, pinned message, calendar event, and SMS send are evaluated."
+}

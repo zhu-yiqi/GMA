@@ -1,0 +1,12 @@
+{
+  "task_name": "elementx_create_gathering_forward_dinner_address",
+  "difficulty": "medium",
+  "app": [
+    "ElementX",
+    "Mail"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ],
+  "design_description": "task seeds a dinner email with a single English address and an ElementX friend named Blake Turner. Evaluation checks the created room, topic, membership, exact food question, and exact forwarded address message."
+}

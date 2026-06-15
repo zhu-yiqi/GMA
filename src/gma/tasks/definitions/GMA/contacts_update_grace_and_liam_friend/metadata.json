@@ -1,0 +1,11 @@
+{
+  "task_name": "contacts_update_grace_and_liam_friend",
+  "difficulty": "medium",
+  "app": [
+    "Contacts"
+  ],
+  "category": [
+    "Conditional Tasks"
+  ],
+  "design_description": "Uses deterministic English contacts. ContactAsset cannot directly assert that an old email row is absent, so evaluation verifies Grace Bennett no longer matches the old email-bearing state and matches the supported Work Fax final state, plus the Darin Lin rename, Home phone label, email, and friend group label. The visible instruction does not specify an email label for Darin Lin, so evaluation checks the added email address without constraining its label."
+}

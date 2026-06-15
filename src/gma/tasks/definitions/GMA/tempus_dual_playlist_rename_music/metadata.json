@@ -1,0 +1,9 @@
+{
+  "task_name": "tempus_dual_playlist_rename_music",
+  "difficulty": "medium",
+  "app": [
+    "Tempus"
+  ],
+  "category": [],
+  "design_description": "task is bound to verified Tempus catalog entries. Media Bahn Live was absent from the bundled catalog, so the same workflow uses The A Team from the + album. The instruction now explicitly names that album because The A Team has duplicate catalog versions; In the Dark is unique and constrained to the Ego album."
+}

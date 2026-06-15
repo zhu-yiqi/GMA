@@ -1,0 +1,11 @@
+{
+  "task_name": "elementx_mall_hp_laptop_alarm",
+  "difficulty": "hard",
+  "app": [
+    "ElementX",
+    "Mall",
+    "Clock"
+  ],
+  "category": [],
+  "design_description": "Keeps the exact ElementX text, resolves the Mall fallback to the existing HP StarBook Pro 14-inch AI laptop, and evaluates the message, cart item, and 9 PM vibrating alarm."
+}

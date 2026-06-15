@@ -1,0 +1,13 @@
+{
+  "task_name": "hmdp_mastodon_meituan_comment_order",
+  "difficulty": "hard",
+  "app": [
+    "HMDP",
+    "Mastodon",
+    "Meituan"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ],
+  "design_description": "Uses allowed seeded HMDP note/comment context with images and an existing Meituan food order."
+}

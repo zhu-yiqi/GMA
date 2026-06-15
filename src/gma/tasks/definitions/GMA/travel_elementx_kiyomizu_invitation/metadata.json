@@ -1,0 +1,11 @@
+{
+  "task_name": "travel_elementx_kiyomizu_invitation",
+  "difficulty": "hard",
+  "app": [
+    "Travel",
+    "ElementX",
+    "Files"
+  ],
+  "category": [],
+  "design_description": "task binds Kiyomizu-dera Temple to the seeded Kyoto attraction and evaluates booking, favorite, DM, file attachment, and group message."
+}

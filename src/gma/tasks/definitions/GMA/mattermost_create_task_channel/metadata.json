@@ -1,0 +1,9 @@
+{
+  "task_name": "mattermost_create_task_channel",
+  "difficulty": "easy",
+  "app": [
+    "Mattermost"
+  ],
+  "category": [],
+  "design_description": "task rewritten as a concise channel-creation request. The task has no seeded assets and evaluates the public Company workspace channel with slug task and display name Task."
+}

@@ -1,0 +1,13 @@
+{
+  "task_name": "meituan_pizza_hut_elementx_address",
+  "difficulty": "hard",
+  "app": [
+    "Meituan",
+    "ElementX"
+  ],
+  "category": [
+    "Conditional Tasks",
+    "Multi-Step Workflow Tasks"
+  ],
+  "design_description": "Uses the existing Pizza Hut store, rating branch, and stable address, so the at-least-3.5 branch is deterministic. Evaluation checks the derived ElementX message."
+}

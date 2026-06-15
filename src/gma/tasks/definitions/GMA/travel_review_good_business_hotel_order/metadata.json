@@ -1,0 +1,9 @@
+{
+  "task_name": "travel_review_good_business_hotel_order",
+  "difficulty": "easy",
+  "app": [
+    "Travel"
+  ],
+  "category": [],
+  "design_description": "Resolves the Cood Business Hotel wording to the seeded Good Business Hotel in Atlanta, seeds a completed Budget Room room 1 order with 2 Queen Beds, asks for reviewing the hotel from that order, and verifies the exact 3-star Travel hotel review."
+}

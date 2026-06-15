@@ -1,0 +1,13 @@
+{
+  "task_name": "mail_invitation_attachment_to_second_elementx_dm",
+  "difficulty": "medium",
+  "app": [
+    "Mail",
+    "Files",
+    "ElementX"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ],
+  "design_description": "task is implemented with two seeded ElementX direct chats and multiple invitation attachments in Mail. The newest invitation attachment is tomorrow-invitation.txt, and the target direct chat is Blake Turner. Evaluation checks the downloaded file, the ElementX file upload, and the exact message."
+}

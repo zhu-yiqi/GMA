@@ -1,0 +1,11 @@
+{
+  "task_name": "clock_conditional_tomorrow_wednesday_alarm",
+  "difficulty": "medium",
+  "app": [
+    "Clock"
+  ],
+  "category": [
+    "Conditional Tasks"
+  ],
+  "design_description": "task rewritten in English. The fixed emulator date is October 1, 2026, so tomorrow is Friday, October 2, 2026, not Wednesday. The deterministic expected behavior is to turn the existing 8:00 AM alarm on, so the initialized off state is not sufficient."
+}

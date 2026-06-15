@@ -1,0 +1,11 @@
+{
+  "task_name": "tempus_sweet_journey_jay_playlists",
+  "difficulty": "medium",
+  "app": [
+    "Tempus"
+  ],
+  "category": [
+    "Invalid-Instruction Tasks"
+  ],
+  "design_description": "task keeps the missing-song branch in user_interaction instead of exposing the fallback in the visible goal. The fallback and long playlist workflow are bound to verified + album tracks with explicit album disambiguation. Journey Memories is seeded with Small Bump so removal and unstar are both evaluable."
+}

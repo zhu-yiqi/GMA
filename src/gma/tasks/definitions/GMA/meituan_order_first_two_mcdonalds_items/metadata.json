@@ -1,0 +1,9 @@
+{
+  "task_name": "meituan_order_first_two_mcdonalds_items",
+  "difficulty": "easy",
+  "app": [
+    "Meituan"
+  ],
+  "category": [],
+  "design_description": "Binds the first two McDonald's menu items to the existing Meituan seed order: French fries trio and Mai la Ji tui Bao single meal. A delivery address is seeded, and the expected paid order checks both foods with quantity one plus payment status."
+}

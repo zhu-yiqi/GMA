@@ -1,0 +1,10 @@
+{
+  "task_name": "mail_send_event_notes_download_today_school_attachment",
+  "difficulty": "medium",
+  "app": [
+    "Mail",
+    "Files"
+  ],
+  "category": [],
+  "design_description": "task seeds two school inbox emails whose subjects, bodies, and attachment filename do not reveal relative dates; the current-dated school email has school-event-notes.txt. It evaluates the two exact outgoing event-arrangement emails plus downloading that exact attachment."
+}

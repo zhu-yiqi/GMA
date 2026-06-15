@@ -1,0 +1,12 @@
+{
+  "task_name": "mastodon_latest_reply_bookmark_delete_fallback_elementx",
+  "difficulty": "medium",
+  "app": [
+    "Mastodon",
+    "ElementX"
+  ],
+  "category": [
+    "Invalid-Instruction Tasks"
+  ],
+  "design_description": "task preserves the wrong-entity branch by seeding only one owner Mastodon post. The visible goal asks to delete the second profile post first, then targets the Daily Notes display name rather than exposing the seeded account id. user_interaction supplies the fallback to delete the first owner post when the missing second post is reported."
+}

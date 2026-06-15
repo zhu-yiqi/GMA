@@ -1,0 +1,14 @@
+{
+  "task_name": "mastodon_zongzi_poll_result_message_taylor",
+  "difficulty": "medium",
+  "app": [
+    "Mastodon",
+    "Messages"
+  ],
+  "category": [
+    "Selection / Optimization Tasks",
+    "Conditional Tasks",
+    "Multi-Step Workflow Tasks"
+  ],
+  "design_description": "task seeds a two-option zongzi poll with two votes for Sweet zongzi and one for Salty zongzi. Because option A wins, evaluation checks both the winning-option SMS and the required follow-up SMS to Taylor."
+}

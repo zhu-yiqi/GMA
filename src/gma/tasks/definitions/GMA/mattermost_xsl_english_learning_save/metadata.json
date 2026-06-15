@@ -1,0 +1,10 @@
+{
+  "task_name": "mattermost_xsl_english_learning_save",
+  "difficulty": "hard",
+  "app": [
+    "Mattermost",
+    "XiaoShiLiu"
+  ],
+  "category": [],
+  "design_description": "task rewritten with English text and Jack as the deterministic mention target. The vague non-zero-like selection is simplified to three named English-learning posts, each using a generated task-specific image."
+}

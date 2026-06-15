@@ -1,0 +1,9 @@
+{
+  "task_name": "calendar_delete_october18_create_social_event",
+  "difficulty": "medium",
+  "app": [
+    "Calendar"
+  ],
+  "category": [],
+  "design_description": "task rewritten in English using October 18 from the task wording rather than the inconsistent initialization note. Evaluation checks deletion of the seeded October 18 event and creation of the October 19 event."
+}

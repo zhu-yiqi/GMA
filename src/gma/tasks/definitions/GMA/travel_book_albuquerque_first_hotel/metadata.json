@@ -1,0 +1,9 @@
+{
+  "task_name": "travel_book_albuquerque_first_hotel",
+  "difficulty": "easy",
+  "app": [
+    "Travel"
+  ],
+  "category": [],
+  "design_description": "Resolves the Albuquerque first result to Grand Gaming Resort and evaluates the one-night confirmed booking with the exact guest, room type, email, and phone."
+}

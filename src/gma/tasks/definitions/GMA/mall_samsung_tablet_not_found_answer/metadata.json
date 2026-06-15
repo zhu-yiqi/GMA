@@ -1,0 +1,12 @@
+{
+  "task_name": "mall_samsung_tablet_not_found_answer",
+  "difficulty": "medium",
+  "app": [
+    "Mall"
+  ],
+  "category": [
+    "Invalid-Instruction Tasks"
+  ],
+  "design_description": "The requested Samsung tablet is absent. The task now expects the agent to detect that, ask the user, receive a feasible fallback, and buy the existing HUAWEI Mate 80 Pro using a seeded address.",
+  "row": 159
+}

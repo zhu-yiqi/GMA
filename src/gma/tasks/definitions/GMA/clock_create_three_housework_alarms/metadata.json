@@ -1,0 +1,9 @@
+{
+  "task_name": "clock_create_three_housework_alarms",
+  "difficulty": "medium",
+  "app": [
+    "Clock"
+  ],
+  "category": [],
+  "design_description": "task rewritten in English with natural alarm labels. Evaluation checks all three requested Clock alarms and their repeat/vibration settings."
+}

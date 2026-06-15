@@ -1,0 +1,17 @@
+.venv/
+.git/
+logs/
+__pycache__/
+*.pyc
+*.egg-info/
+.env
+backups/
+task_generation/
+tests/
+TODO_ASSET_BACKLOG.md
+docker/*.orig
+src/**/*.orig
+data/
+/*.tar.gz
+src/gma/tasks/definitions/tests/
+src/gma/tasks/definitions/smoke/

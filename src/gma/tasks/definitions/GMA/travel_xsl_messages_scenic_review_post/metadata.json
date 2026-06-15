@@ -1,0 +1,12 @@
+{
+  "task_name": "travel_xsl_messages_scenic_review_post",
+  "difficulty": "hard",
+  "app": [
+    "Travel",
+    "XiaoShiLiu",
+    "Gallery",
+    "Messages"
+  ],
+  "category": [],
+  "design_description": "task binds the existing scenic order to Tokyo Skytree and evaluates favorite, review, XiaoShiLiu post, and SMS."
+}

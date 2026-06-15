@@ -1,0 +1,9 @@
+{
+  "task_name": "travel_review_grand_palace_order",
+  "difficulty": "easy",
+  "app": [
+    "Travel"
+  ],
+  "category": [],
+  "design_description": "Seeds a completed Grand Palace attraction booking, asks for reviewing the attraction from that order, and verifies the exact 4-star Travel attraction review text."
+}

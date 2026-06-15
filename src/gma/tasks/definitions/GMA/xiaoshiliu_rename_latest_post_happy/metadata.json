@@ -1,0 +1,9 @@
+{
+  "task_name": "xiaoshiliu_rename_latest_post_happy",
+  "difficulty": "easy",
+  "app": [
+    "XiaoShiLiu"
+  ],
+  "category": [],
+  "design_description": "task conversion. The request targets the latest of three seeded owner posts via deterministic created_at timestamps. Each seeded XiaoShiLiu post uses a task-local generated image, and AssetModified verifies that the latest post title changes to Happy while preserving body/category/tags/image."
+}

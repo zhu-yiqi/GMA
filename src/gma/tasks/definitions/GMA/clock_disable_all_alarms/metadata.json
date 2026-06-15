@@ -1,0 +1,9 @@
+{
+  "task_name": "clock_disable_all_alarms",
+  "difficulty": "easy",
+  "app": [
+    "Clock"
+  ],
+  "category": [],
+  "design_description": "task conversion. The initial state contains exactly two deterministic enabled alarms, Early Workout and Evening Check. The public goal remains natural and general, and evaluation checks that both seeded alarms are modified to enabled=false."
+}

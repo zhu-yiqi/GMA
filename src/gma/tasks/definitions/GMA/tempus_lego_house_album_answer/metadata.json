@@ -1,0 +1,9 @@
+{
+  "task_name": "tempus_lego_house_album_answer",
+  "difficulty": "medium",
+  "app": [
+    "Tempus"
+  ],
+  "category": [],
+  "design_description": "Tempus-only answer task bound to the existing English song Lego House from Ed Sheeran's + album."
+}

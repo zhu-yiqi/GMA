@@ -1,0 +1,11 @@
+{
+  "task_name": "messages_draft_sms_unsupported_answer",
+  "difficulty": "hard",
+  "app": [
+    "Messages"
+  ],
+  "category": [
+    "Invalid-Instruction Tasks"
+  ],
+  "design_description": "Scheduled or draft SMS delivery is unsupported. The task now expects the agent to detect that, ask the user, receive a feasible fallback, and send the SMS immediately."
+}

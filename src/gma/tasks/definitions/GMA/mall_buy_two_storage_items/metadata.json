@@ -1,0 +1,11 @@
+{
+  "task_name": "mall_buy_two_storage_items",
+  "difficulty": "medium",
+  "app": [
+    "Mall"
+  ],
+  "category": [
+    "Information-Gathering Tasks"
+  ],
+  "design_description": "task rewritten in English. Existing Mall products are used: Commercial consumer-grade PCIe 5.0 NVMe SSD and ZhiTai PRO professional high-speed memory card. Two addresses are seeded. Evaluation checks both checkout orders; the previous third-order deletion requirement was removed because Mall does not support deleting orders."
+}

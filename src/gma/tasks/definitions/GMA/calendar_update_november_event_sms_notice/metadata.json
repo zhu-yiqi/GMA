@@ -1,0 +1,10 @@
+{
+  "task_name": "calendar_update_november_event_sms_notice",
+  "difficulty": "medium",
+  "app": [
+    "Calendar",
+    "Messages"
+  ],
+  "category": [],
+  "design_description": "task rewritten in English with fixed 2026 dates. A November 1 event and target contact are seeded. Evaluation checks the new Workday event, modification of the November event, and the exact sent SMS notice."
+}

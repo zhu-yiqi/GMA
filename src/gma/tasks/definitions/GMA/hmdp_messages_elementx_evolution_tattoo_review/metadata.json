@@ -1,0 +1,14 @@
+{
+  "task_name": "hmdp_messages_elementx_evolution_tattoo_review",
+  "difficulty": "hard",
+  "app": [
+    "HMDP",
+    "Messages",
+    "Contacts",
+    "ElementX"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ],
+  "design_description": "Uses the existing HMDP shop Evolution Tattoo plus Messages/ElementX context. Evaluation checks review and messaging outputs."
+}

@@ -1,0 +1,13 @@
+{
+  "task_name": "xiaoshiliu_food_to_meituan_order_message",
+  "difficulty": "hard",
+  "app": [
+    "XiaoShiLiu",
+    "Meituan",
+    "Messages"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ],
+  "design_description": "Uses a XiaoShiLiu post that points to existing Jishengke foods, then checks the comment, three-item paid Meituan order, and SMS."
+}

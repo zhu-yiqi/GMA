@@ -1,0 +1,51 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "gma"
+version = "0.1.0"
+description = "GMA: General Mobile Assistant"
+readme = "README.md"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "pydantic>=2.0.0",
+    "fastapi>=0.104.0",
+    "uvicorn[standard]>=0.24.0",
+    "requests",
+    "loguru>=0.7.3",
+    "pillow>=10.0.0",
+    "rich>=13.0.0",
+    "websockets>=12.0.0",
+    "joblib",
+    "backoff>=2.2.1",
+    "openai>=1.0.0",
+    "tomli>=2.0.0;python_version<\"3.11\"",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.4.0",
+    "ruff>=0.1.6",
+    "mypy>=1.7.0",
+]
+
+[project.scripts]
+gma = "gma.core.cli:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/gma"]
+
+[tool.ruff]
+target-version = "py312"
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E", "W", "F", "I", "UP"]
+ignore = ["E501"]
+
+[tool.ruff.lint.isort]
+known-first-party = ["gma"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

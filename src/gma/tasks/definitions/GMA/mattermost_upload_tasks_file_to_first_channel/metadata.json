@@ -1,0 +1,10 @@
+{
+  "task_name": "mattermost_upload_tasks_file_to_first_channel",
+  "difficulty": "easy",
+  "app": [
+    "Mattermost",
+    "Files"
+  ],
+  "category": [],
+  "design_description": "task rewritten to include a strict upload message and concrete first-channel binding. Two review channels and a Downloads/tasks.txt file are seeded; evaluation checks the exact Mattermost file post and file contents."
+}

@@ -1,0 +1,12 @@
+{
+  "task_name": "hmdp_beauty_spa_maple_leaf_review_batch002",
+  "difficulty": "medium",
+  "app": [
+    "HMDP"
+  ],
+  "category": [
+    "Selection / Optimization Tasks",
+    "Conditional Tasks"
+  ],
+  "design_description": "task implemented using the existing verified pilot binding for Beauty SPA popular sorting and Maple Leaf Bar. The answer format is exact, and evaluation checks the answer, 4-star review, and shop favorite."
+}

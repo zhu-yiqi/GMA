@@ -1,0 +1,11 @@
+{
+  "task_name": "travel_review_borghese_buy_louvre",
+  "difficulty": "medium",
+  "app": [
+    "Travel"
+  ],
+  "category": [
+    "Conditional Tasks"
+  ],
+  "design_description": "Implements task by seeding a completed Borghese Gallery booking, encoding the ambiguity response via user_interaction, asking for reviewing the attraction from that order, and checking the review, Louvre favorite, and Louvre booking assets."
+}

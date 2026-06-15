@@ -1,0 +1,9 @@
+{
+  "task_name": "hmdp_like_comment_first_paul_blog",
+  "difficulty": "easy",
+  "app": [
+    "HMDP"
+  ],
+  "category": [],
+  "design_description": "Uses allowed seeded Paul blog context with images linked to existing HMDP shops. Evaluation checks like and comment."
+}

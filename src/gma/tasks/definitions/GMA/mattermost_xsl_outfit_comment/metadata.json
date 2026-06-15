@@ -1,0 +1,10 @@
+{
+  "task_name": "mattermost_xsl_outfit_comment",
+  "difficulty": "hard",
+  "app": [
+    "Mattermost",
+    "XiaoShiLiu"
+  ],
+  "category": [],
+  "design_description": "task simplified to a deterministic Mattermost channel creation plus five named XiaoShiLiu Fashion posts. Each seeded post uses a generated task-specific image; exact likes and comments are evaluated."
+}

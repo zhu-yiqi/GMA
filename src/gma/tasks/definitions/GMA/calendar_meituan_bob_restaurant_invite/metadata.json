@@ -1,0 +1,14 @@
+{
+  "task_name": "calendar_meituan_bob_restaurant_invite",
+  "difficulty": "hard",
+  "app": [
+    "Calendar",
+    "Meituan",
+    "Messages"
+  ],
+  "category": [
+    "Selection / Optimization Tasks",
+    "Multi-Step Workflow Tasks"
+  ],
+  "design_description": "task uses May 16, 2027 as the next future May 16 occurrence relative to the fixed October 1, 2026 baseline date. The Meituan step targets the existing second Top Sales Fast Food restaurant from the baseline catalog, without seeding restaurants or asking for hours because the app does not expose them. The Messages step requires carrying the selected restaurant name into Bob's SMS, so the task remains a multi-step workflow. Evaluation checks Calendar event, Meituan favorite, and exact Bob SMS."
+}

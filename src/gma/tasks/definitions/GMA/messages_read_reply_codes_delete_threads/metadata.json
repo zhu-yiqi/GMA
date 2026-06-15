@@ -1,0 +1,12 @@
+{
+  "task_name": "messages_read_reply_codes_delete_threads",
+  "difficulty": "medium",
+  "app": [
+    "Messages"
+  ],
+  "category": [
+    "Selection / Optimization Tasks",
+    "Multi-Step Workflow Tasks"
+  ],
+  "design_description": "Task uses realistic contact names and SMS bodies instead of artificial first/second/third labels. Explicit timestamps make the earliest-three unread conversation selection deterministic. The task now deletes only the Telegram and YouTube verification-code conversations, while evaluation checks that the other three conversations remain, are marked read, and that the second-earliest receives the required reply."
+}

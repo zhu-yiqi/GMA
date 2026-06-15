@@ -1,0 +1,11 @@
+{
+  "task_name": "messages_delete_taylor_reply_unread_leave_hayes",
+  "difficulty": "medium",
+  "app": [
+    "Messages"
+  ],
+  "category": [
+    "Conditional Tasks"
+  ],
+  "design_description": "task rewritten in English. Taylor, one unread message, and a read Hayes message are seeded. The deterministic branch leaves Hayes unchanged. Evaluation checks Taylor deletion, unread message marked read, reply sent, and Hayes still unchanged."
+}

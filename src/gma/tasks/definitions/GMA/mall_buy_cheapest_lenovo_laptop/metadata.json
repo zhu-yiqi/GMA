@@ -1,0 +1,11 @@
+{
+  "task_name": "mall_buy_cheapest_lenovo_laptop",
+  "difficulty": "medium",
+  "app": [
+    "Mall"
+  ],
+  "category": [
+    "Selection / Optimization Tasks"
+  ],
+  "design_description": "task rewritten in English. Env21 has two Lenovo laptops; the cheaper one is Lenovo Legion Y7000P 2025 with product_sn AK-83F30081CD. Evaluation checks checkout of that product to the first seeded address."
+}

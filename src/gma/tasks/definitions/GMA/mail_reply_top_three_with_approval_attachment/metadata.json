@@ -1,0 +1,10 @@
+{
+  "task_name": "mail_reply_top_three_with_approval_attachment",
+  "difficulty": "medium",
+  "app": [
+    "Mail",
+    "Files"
+  ],
+  "category": [],
+  "design_description": "Task is bound to the three newest inbox messages by descending timestamp. The inbox messages use real Oct 1, 2026 epoch-ms timestamps and are applied in reverse visible order so Mail's prepended seed list displays Nora newest, Liam next-newest, and Mia oldest among those three. The source file is a realistic approval notes attachment, and evaluation checks all three exact replies plus the attachment on the oldest of the three replies."
+}

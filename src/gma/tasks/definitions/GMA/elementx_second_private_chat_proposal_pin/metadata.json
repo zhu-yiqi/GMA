@@ -1,0 +1,10 @@
+{
+  "task_name": "elementx_second_private_chat_proposal_pin",
+  "difficulty": "medium",
+  "app": [
+    "ElementX",
+    "Files"
+  ],
+  "category": [],
+  "design_description": "task seeds deterministic direct chats plus a proposal1.txt file. The visible goal selects Blake Fox's private chat, and criteria check the exact pinned proposal message plus uploaded file."
+}

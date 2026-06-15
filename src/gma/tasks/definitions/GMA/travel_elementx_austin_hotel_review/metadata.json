@@ -1,0 +1,12 @@
+{
+  "task_name": "travel_elementx_austin_hotel_review",
+  "difficulty": "hard",
+  "app": [
+    "Travel",
+    "ElementX"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ],
+  "design_description": "task seeds a completed hotel reservation with Budget Room room 1 and 2 Queen Beds, asks for reviewing the hotel from that booking, then evaluates the Travel review plus an ElementX DM using booking-derived hotel and price details."
+}

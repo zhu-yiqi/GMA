@@ -1,0 +1,9 @@
+{
+  "task_name": "mastodon_bookmark_and_repost_home_first_post",
+  "difficulty": "easy",
+  "app": [
+    "Mastodon"
+  ],
+  "category": [],
+  "design_description": "Seeds a target home-timeline post from Campus Menu with a newer timestamp than a distractor, logs in owner, and makes owner follow the target account so the post appears in Home. Evaluation requires both the bookmark and the repost by the owner account."
+}

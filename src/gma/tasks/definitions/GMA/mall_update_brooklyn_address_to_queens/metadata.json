@@ -1,0 +1,9 @@
+{
+  "task_name": "mall_update_brooklyn_address_to_queens",
+  "difficulty": "easy",
+  "app": [
+    "Mall"
+  ],
+  "category": [],
+  "design_description": "A deterministic saved address is seeded with English-only fields and Brooklyn Borough as the old district. The task asks for the intended update to Harper Brooks and Queens Borough while preserving other fields. Evaluation uses AssetModified from the seeded address to the exact expected address."
+}

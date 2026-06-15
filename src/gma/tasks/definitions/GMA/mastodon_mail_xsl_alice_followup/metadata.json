@@ -1,0 +1,11 @@
+{
+  "task_name": "mastodon_mail_xsl_alice_followup",
+  "difficulty": "hard",
+  "app": [
+    "Mastodon",
+    "Mail",
+    "XiaoShiLiu"
+  ],
+  "category": [],
+  "design_description": "task resolves Alex and Alice to seeded accounts and uses exact follow, favorite, reply, mail, XiaoShiLiu follow, and like checks."
+}

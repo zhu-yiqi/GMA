@@ -1,0 +1,9 @@
+{
+  "task_name": "mattermost_archive_second_channel",
+  "difficulty": "easy",
+  "app": [
+    "Mattermost"
+  ],
+  "category": [],
+  "design_description": "task rewritten with three seeded public channels and a concrete second-channel target. The task avoids class tags and uses AssetDeleted to verify that Delta Planning has been archived or removed."
+}

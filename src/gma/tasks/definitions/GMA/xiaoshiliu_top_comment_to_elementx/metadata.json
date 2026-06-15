@@ -1,0 +1,12 @@
+{
+  "task_name": "xiaoshiliu_top_comment_to_elementx",
+  "difficulty": "hard",
+  "app": [
+    "XiaoShiLiu",
+    "ElementX"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ],
+  "design_description": "Implements task with deterministic seeded posts and one top-level comment. The first ElementX room is represented by a seeded room, and evaluation checks XiaoShiLiu actions plus exact relay of the read comment."
+}

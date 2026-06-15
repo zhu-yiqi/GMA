@@ -1,0 +1,10 @@
+{
+  "task_name": "mail_send_parent_teacher_and_payment_slip",
+  "difficulty": "medium",
+  "app": [
+    "Mail",
+    "Files"
+  ],
+  "category": [],
+  "design_description": "Uses a realistic payment-slip attachment and verifies both exact sent emails plus the payment-slip attachment."
+}

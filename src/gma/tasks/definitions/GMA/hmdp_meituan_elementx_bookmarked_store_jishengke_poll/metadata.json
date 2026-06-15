@@ -1,0 +1,13 @@
+{
+  "task_name": "hmdp_meituan_elementx_bookmarked_store_jishengke_poll",
+  "difficulty": "hard",
+  "app": [
+    "HMDP",
+    "Meituan",
+    "ElementX"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ],
+  "design_description": "task binds the first HMDP favorite to Maple Leaf Bar and the Meituan order to three existing Jishengke Mexican chicken rolls, which exceeds the restaurant minimum order price."
+}

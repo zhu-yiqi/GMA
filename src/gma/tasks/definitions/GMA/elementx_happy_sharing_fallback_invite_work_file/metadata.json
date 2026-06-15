@@ -1,0 +1,12 @@
+{
+  "task_name": "elementx_happy_sharing_fallback_invite_work_file",
+  "difficulty": "medium",
+  "app": [
+    "ElementX",
+    "Files"
+  ],
+  "category": [
+    "Invalid-Instruction Tasks"
+  ],
+  "design_description": "task asks the user to mention Ethan Carter in Happy Sharing, but Ethan Carter is unavailable there; the user-simulator fallback redirects to Emily Parker. Jack is the invite target and task.txt is the Work upload. Criteria check the resolved pinned mention, Jack invitation, and file upload."
+}

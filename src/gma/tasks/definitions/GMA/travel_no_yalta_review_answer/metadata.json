@@ -1,0 +1,11 @@
+{
+  "task_name": "travel_no_yalta_review_answer",
+  "difficulty": "hard",
+  "app": [
+    "Travel"
+  ],
+  "category": [
+    "Invalid-Instruction Tasks"
+  ],
+  "design_description": "Travel has no supported Yalta Cliff Castle attraction review target. The task expects the agent to detect that, ask the user, receive Kiyomizu-dera Temple as a feasible attraction fallback, and favorite that attraction."
+}

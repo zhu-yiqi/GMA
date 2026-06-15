@@ -1,0 +1,12 @@
+{
+  "task_name": "hmdp_christopher_bar_note_follow",
+  "difficulty": "medium",
+  "app": [
+    "HMDP"
+  ],
+  "category": [
+    "Conditional Tasks"
+  ],
+  "design_description": "Uses allowed seeded HMDP profile/blog context with images and the existing shop Rum Sugar Lime for deterministic follow and note checks.",
+  "row": 167
+}

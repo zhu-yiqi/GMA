@@ -1,0 +1,12 @@
+{
+  "task_name": "travel_favorite_attractions_send_address",
+  "difficulty": "medium",
+  "app": [
+    "Travel",
+    "ElementX"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ],
+  "design_description": "Implements task by binding the two attractions to existing Travel slugs and replacing the vague first private chat with one seeded deterministic ElementX DM. Because the attraction address is not visible in the app UI, the task asks only for St Stephen's Cathedral's visible opening time and checks the exact opening-time message."
+}

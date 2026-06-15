@@ -1,0 +1,9 @@
+{
+  "task_name": "tempus_rebuild_road_trip_recommended_playlist",
+  "difficulty": "medium",
+  "app": [
+    "Tempus"
+  ],
+  "category": [],
+  "design_description": "task seeds Road Trip Mix with six songs so removing the first five leaves one verifiable track, seeds Years with three source songs, and seeds Discovery Playlist before it is renamed to Recommended Playlist. All songs are verified against the + album. Playlist visibility is not evaluated because the instruction does not ask the user to set public or private visibility."
+}

@@ -1,0 +1,10 @@
+{
+  "task_name": "mattermost_delete_seeded_cleanup_channel",
+  "difficulty": "medium",
+  "app": [
+    "Mattermost"
+  ],
+  "category": [],
+  "design_description": "task replacement. Town Square must not be deleted, so the destructive action is redirected to a seeded non-default cleanup channel with deterministic deletion evaluation.",
+  "row": 178
+}

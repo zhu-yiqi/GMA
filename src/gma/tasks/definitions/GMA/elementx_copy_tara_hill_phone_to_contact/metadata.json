@@ -1,0 +1,12 @@
+{
+  "task_name": "elementx_copy_tara_hill_phone_to_contact",
+  "difficulty": "medium",
+  "app": [
+    "Contacts",
+    "ElementX"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ],
+  "design_description": "Seeds an ElementX DM whose latest message is the phone number, then verifies the copied-number Contacts entry with the requested email and custom email label."
+}

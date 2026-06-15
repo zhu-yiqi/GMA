@@ -1,0 +1,9 @@
+{
+  "task_name": "contacts_delete_liam_stone",
+  "difficulty": "easy",
+  "app": [
+    "Contacts"
+  ],
+  "category": [],
+  "design_description": "task conversion. The original personal name is rewritten as the English-only contact name Liam Stone. A deterministic phone number is included only as the asset identity, while the public goal asks for deletion by name. Evaluation uses AssetDeleted."
+}

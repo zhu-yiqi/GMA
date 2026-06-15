@@ -1,0 +1,9 @@
+{
+  "task_name": "travel_review_emirates_sep30_flight",
+  "difficulty": "medium",
+  "app": [
+    "Travel"
+  ],
+  "category": [],
+  "design_description": "Implements task by binding the ambiguous flight of the September 30 Emirates order to supported September 30 itinerary EK2106 from DXB to LHR and encoding the clarification response through user_interaction."
+}

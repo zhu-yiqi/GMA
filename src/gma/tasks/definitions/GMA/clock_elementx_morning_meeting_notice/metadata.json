@@ -1,0 +1,10 @@
+{
+  "task_name": "clock_elementx_morning_meeting_notice",
+  "difficulty": "medium",
+  "app": [
+    "Clock",
+    "ElementX"
+  ],
+  "category": [],
+  "design_description": "task rewritten in English with the group chat seeded as Work Group and exact English message content in the goal. Evaluation checks the new Clock alarm and the ElementX message."
+}

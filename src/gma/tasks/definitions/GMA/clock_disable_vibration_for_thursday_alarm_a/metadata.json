@@ -1,0 +1,11 @@
+{
+  "task_name": "clock_disable_vibration_for_thursday_alarm_a",
+  "difficulty": "medium",
+  "app": [
+    "Clock"
+  ],
+  "category": [
+    "Information-Gathering Tasks"
+  ],
+  "design_description": "task rewritten as an intentionally ambiguous Thursday-alarm request. Two Thursday alarms are seeded with vibration on; user_interaction resolves the ambiguity to alarm A. Evaluation checks A changed and B remained unchanged."
+}

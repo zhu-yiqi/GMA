@@ -1,0 +1,12 @@
+{
+  "task_name": "mastodon_messages_poll_update_voter",
+  "difficulty": "hard",
+  "app": [
+    "Mastodon",
+    "Messages"
+  ],
+  "category": [
+    "Conditional Tasks"
+  ],
+  "design_description": "task binds the missing Voter contact to the provided fallback Jordan Miller. The Mastodon poll edit, favorite, and exact SMS are evaluated."
+}

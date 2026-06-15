@@ -1,0 +1,9 @@
+{
+  "task_name": "travel_favorite_good_business_hotel_atlanta",
+  "difficulty": "easy",
+  "app": [
+    "Travel"
+  ],
+  "category": [],
+  "design_description": "Resolves the source task hotel text to the seeded Atlanta Good Business Hotel slug and evaluates the Travel hotel favorite."
+}

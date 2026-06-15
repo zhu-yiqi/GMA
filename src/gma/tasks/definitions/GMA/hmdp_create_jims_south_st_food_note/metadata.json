@@ -1,0 +1,10 @@
+{
+  "task_name": "hmdp_create_jims_south_st_food_note",
+  "difficulty": "easy",
+  "app": [
+    "HMDP",
+    "Gallery"
+  ],
+  "category": [],
+  "design_description": "Seeds a task-specific Gallery food photo and evaluates the created HMDP note by author, Jim's South St link, exact title, and exact content."
+}

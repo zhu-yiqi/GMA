@@ -1,0 +1,10 @@
+{
+  "task_name": "clock_study_alarms_xsl_actions",
+  "difficulty": "hard",
+  "app": [
+    "Clock",
+    "XiaoShiLiu"
+  ],
+  "category": [],
+  "design_description": "task is normalized to immediate supported actions: edit alarms A and B, save all seeded algorithm notes, and like all seeded literature notes. Evaluation checks both alarm edits plus XiaoShiLiu collections/likes."
+}

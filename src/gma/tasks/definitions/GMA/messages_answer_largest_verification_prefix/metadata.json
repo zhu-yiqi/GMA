@@ -1,0 +1,11 @@
+{
+  "task_name": "messages_answer_largest_verification_prefix",
+  "difficulty": "medium",
+  "app": [
+    "Messages"
+  ],
+  "category": [
+    "Selection / Optimization Tasks"
+  ],
+  "design_description": "task rewritten in English with seeded VolcEngine and Dianping verification messages. Evaluation checks only the required four-digit answer prefix of the larger numeric code."
+}

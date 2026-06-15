@@ -1,0 +1,12 @@
+{
+  "task_name": "mastodon_reply_first_bookmark_edit_third_comment",
+  "difficulty": "medium",
+  "app": [
+    "Mastodon"
+  ],
+  "category": [
+    "Information-Gathering Tasks",
+    "Conditional Tasks"
+  ],
+  "design_description": "task seeds three owner posts in profile order. The reply text is missing from the source task, so user_interaction supplies a deterministic exact reply if the agent asks; the third post has no comments, making the comment branch true."
+}

@@ -1,0 +1,11 @@
+{
+  "task_name": "meituan_tasiting_hamburg_box_company_favorite",
+  "difficulty": "medium",
+  "app": [
+    "Meituan"
+  ],
+  "category": [
+    "Information-Gathering Tasks"
+  ],
+  "design_description": "task binds to the existing TASITING store and exact existing Hamburg snack box set item. No delivery address is seeded; the agent should discover that an address is missing, ask the user, create the supplied Company Office address, place the order, and favorite the store."
+}

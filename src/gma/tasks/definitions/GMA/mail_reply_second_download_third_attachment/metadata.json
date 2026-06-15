@@ -1,0 +1,12 @@
+{
+  "task_name": "mail_reply_second_download_third_attachment",
+  "difficulty": "medium",
+  "app": [
+    "Mail",
+    "Files"
+  ],
+  "category": [
+    "Information-Gathering Tasks"
+  ],
+  "design_description": "task keeps the intentionally missing newest-email reply content private in user_interaction. The inbox messages use separate visible dates and are applied oldest-to-newest so Mail's prepended seed list displays Tomorrow Meeting as newest, General Update as the middle distractor, and Review Packet as oldest. meeting-agenda.txt is seeded in Downloads, and the oldest email has a concrete review-packet attachment to download."
+}

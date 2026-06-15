@@ -1,0 +1,14 @@
+{
+  "task_name": "mastodon_refrigerator_xsl_mall_buy",
+  "difficulty": "hard",
+  "app": [
+    "Mastodon",
+    "XiaoShiLiu",
+    "Mall"
+  ],
+  "category": [
+    "Selection / Optimization Tasks",
+    "Multi-Step Workflow Tasks"
+  ],
+  "design_description": "Uses seeded Mastodon/XiaoShiLiu context to point to the existing Mall refrigerator product, includes a XiaoShiLiu distractor refrigerator note that should not be saved, then checks the targeted post saves and Mall purchase."
+}

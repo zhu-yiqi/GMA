@@ -1,0 +1,9 @@
+{
+  "task_name": "calendar_delete_birthday_dinner",
+  "difficulty": "easy",
+  "app": [
+    "Calendar"
+  ],
+  "category": [],
+  "design_description": "task conversion. The vague pre-existing birthday event is seeded as an English-only Calendar event titled Birthday Dinner with deterministic date, time, and location. Deletion is evaluated by AssetDeleted against the seeded CalendarEventAsset."
+}

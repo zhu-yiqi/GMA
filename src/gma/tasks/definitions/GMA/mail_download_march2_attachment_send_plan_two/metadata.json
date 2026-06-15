@@ -1,0 +1,12 @@
+{
+  "task_name": "mail_download_march2_attachment_send_plan_two",
+  "difficulty": "medium",
+  "app": [
+    "Mail",
+    "Files"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ],
+  "design_description": "task rewritten with English-only content. The March 2 attachment is bound to plan-two-revisions.txt, with surrounding inbox messages to make the date and attachment filter deterministic. Evaluation checks both the downloaded file and the sent email with the same attachment content."
+}

@@ -1,0 +1,9 @@
+{
+  "task_name": "clock_rename_morning_alarm",
+  "difficulty": "easy",
+  "app": [
+    "Clock"
+  ],
+  "category": [],
+  "design_description": "task conversion. The original labels are rewritten as Morning and Time to Get Up. A single seeded enabled alarm provides a deterministic target, and AssetModified verifies the label change while preserving the time and enabled state."
+}

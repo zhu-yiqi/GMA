@@ -1,0 +1,12 @@
+{
+  "task_name": "mail_floor_plan_carter_parker_condition",
+  "difficulty": "medium",
+  "app": [
+    "Mail",
+    "Files"
+  ],
+  "category": [
+    "Conditional Tasks"
+  ],
+  "design_description": "task is implemented as the true branch of the condition: the fifth inbox message is from Taylor. Taylor's message has the earliest timestamp and is applied first so Mail's prepended seed order also places it fifth. The file name is a realistic floor-plan-notes.txt attachment, seeded in Downloads, and all expected outgoing mail/replies use exact English text."
+}

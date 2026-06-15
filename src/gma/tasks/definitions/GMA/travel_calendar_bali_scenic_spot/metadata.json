@@ -1,0 +1,10 @@
+{
+  "task_name": "travel_calendar_bali_scenic_spot",
+  "difficulty": "hard",
+  "app": [
+    "Travel",
+    "Calendar"
+  ],
+  "category": [],
+  "design_description": "task corrects the Bali attraction name to the seeded Tegallalang Rice Terraces and evaluates the visible Calendar time from 8 AM to 4 PM in the emulator timezone."
+}

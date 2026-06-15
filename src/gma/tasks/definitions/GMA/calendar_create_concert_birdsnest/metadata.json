@@ -1,0 +1,9 @@
+{
+  "task_name": "calendar_create_concert_birdsnest",
+  "difficulty": "easy",
+  "app": [
+    "Calendar"
+  ],
+  "category": [],
+  "design_description": "task conversion. The relative next-weekend wording is rewritten against the fixed GMA task clock as Saturday, October 3, 2026 through Sunday, October 4, 2026. The original venue wording is represented by the English location MetLife Stadium. The task has no initial assets and is evaluated by AssetExists for the exact CalendarEventAsset."
+}

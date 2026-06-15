@@ -1,0 +1,11 @@
+{
+  "task_name": "contacts_update_alex_and_morgan_labels",
+  "difficulty": "medium",
+  "app": [
+    "Contacts"
+  ],
+  "category": [
+    "Information-Gathering Tasks"
+  ],
+  "design_description": "Rewrites contacts to deterministic English names and uses simulated user input for the omitted second phone label. AssetModified verifies both final contact states."
+}

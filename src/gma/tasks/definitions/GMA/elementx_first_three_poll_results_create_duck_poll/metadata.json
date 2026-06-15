@@ -1,0 +1,11 @@
+{
+  "task_name": "elementx_first_three_poll_results_create_duck_poll",
+  "difficulty": "medium",
+  "app": [
+    "ElementX"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ],
+  "design_description": "task seeds three group chats with deterministic poll histories and requires the user to derive an English answer summarizing those results before creating the requested duck poll in the first group."
+}

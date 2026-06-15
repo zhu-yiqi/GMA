@@ -1,0 +1,10 @@
+{
+  "task_name": "mail_send_invitation_attachment_reply_latest",
+  "difficulty": "medium",
+  "app": [
+    "Mail",
+    "Files"
+  ],
+  "category": [],
+  "design_description": "Seeds invitation.txt in Downloads and two neutrally named inbox emails on separate visible dates, then verifies the exact sent attachment email and exact reply to the most recent inbox email. The task instruction already gives the reply content, so no user interaction is needed."
+}

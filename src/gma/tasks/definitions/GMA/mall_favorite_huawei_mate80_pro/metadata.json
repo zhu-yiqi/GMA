@@ -1,0 +1,9 @@
+{
+  "task_name": "mall_favorite_huawei_mate80_pro",
+  "difficulty": "easy",
+  "app": [
+    "Mall"
+  ],
+  "category": [],
+  "design_description": "The source task's vague first-Huawei-product request is bound to the existing env23 catalog item HUAWEI Mate 80 Pro with product_sn 1258669, which appears first among HUAWEI products by the inspected catalog order. No Mall catalog assets are created; only the login user is initialized. Evaluation checks that this existing product is favorited by the Mall login user."
+}

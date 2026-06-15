@@ -1,0 +1,12 @@
+{
+  "task_name": "mall_huawei_purple_256_unavailable_answer",
+  "difficulty": "medium",
+  "app": [
+    "Mall"
+  ],
+  "category": [
+    "Invalid-Instruction Tasks"
+  ],
+  "design_description": "The requested HUAWEI purple 256GB variant is unavailable. The task now expects the agent to detect that, ask the user, receive a feasible fallback, and favorite the existing HUAWEI Mate 80 Pro.",
+  "row": 156
+}

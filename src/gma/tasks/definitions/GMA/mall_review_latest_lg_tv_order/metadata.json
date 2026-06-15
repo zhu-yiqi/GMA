@@ -1,0 +1,9 @@
+{
+  "task_name": "mall_review_latest_lg_tv_order",
+  "difficulty": "easy",
+  "app": [
+    "Mall"
+  ],
+  "category": [],
+  "design_description": "Binds the vague latest purchased item to an existing Mall TV product, 2026 85-inch LG QNED evo AI QNED82 Mini LED 4K smart TV with product_sn 85QNED82BCA. A completed older TV order is also seeded so latest is deterministic. Evaluation checks the exact five-star review text."
+}

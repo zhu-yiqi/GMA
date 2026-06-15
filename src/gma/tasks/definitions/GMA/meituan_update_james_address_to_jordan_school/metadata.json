@@ -1,0 +1,9 @@
+{
+  "task_name": "meituan_update_james_address_to_jordan_school",
+  "difficulty": "easy",
+  "app": [
+    "Meituan"
+  ],
+  "category": [],
+  "design_description": "Seeds a James address with the requested phone number and a non-School label. The expected state changes only the recipient name and label while preserving phone and location fields."
+}

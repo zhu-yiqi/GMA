@@ -1,0 +1,13 @@
+{
+  "task_name": "calendar_dinner_send_elementx_messages",
+  "difficulty": "hard",
+  "app": [
+    "Calendar",
+    "ElementX",
+    "Messages"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ],
+  "design_description": "Implements a supported Calendar event creation task by resolving this Saturday against GMA's fixed task date to October 3, 2026. The created Calendar event details are then used in dependent ElementX and Messages relay steps with an exact deterministic summary."
+}

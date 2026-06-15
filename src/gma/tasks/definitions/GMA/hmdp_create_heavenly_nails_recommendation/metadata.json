@@ -1,0 +1,10 @@
+{
+  "task_name": "hmdp_create_heavenly_nails_recommendation",
+  "difficulty": "medium",
+  "app": [
+    "HMDP"
+  ],
+  "category": [],
+  "design_description": "task replacement. The vague recommendation text is converted into a deterministic HMDP note for the unique existing shop Heavenly Nails.",
+  "row": 172
+}

@@ -1,0 +1,9 @@
+{
+  "task_name": "xiaoshiliu_comment_ipad_templates_all_grown_up",
+  "difficulty": "easy",
+  "app": [
+    "XiaoShiLiu"
+  ],
+  "category": [],
+  "design_description": "Seeds the exact searchable English title with a generated task-local XiaoShiLiu image and a unique author. The goal quotes the required comment and the criterion checks the owner's comment on that post."
+}

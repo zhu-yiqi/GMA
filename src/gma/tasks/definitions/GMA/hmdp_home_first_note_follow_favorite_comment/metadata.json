@@ -1,0 +1,9 @@
+{
+  "task_name": "hmdp_home_first_note_follow_favorite_comment",
+  "difficulty": "easy",
+  "app": [
+    "HMDP"
+  ],
+  "category": [],
+  "design_description": "Uses allowed seeded HMDP home-feed blog context with images and existing shop references. Evaluation checks follow, favorite, and comment."
+}

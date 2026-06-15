@@ -1,0 +1,10 @@
+{
+  "task_name": "mastodon_post_latest_gallery_photo_weather",
+  "difficulty": "easy",
+  "app": [
+    "Mastodon",
+    "Gallery"
+  ],
+  "category": [],
+  "design_description": "task rewritten as a natural Mastodon media-post request. Three realistic task-local Gallery images are seeded in order so latest-photo selection has context; the expected post text and uploaded latest-photo filename are evaluated exactly."
+}

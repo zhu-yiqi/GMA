@@ -1,0 +1,9 @@
+{
+  "task_name": "clock_rename_disable_evening_daily",
+  "difficulty": "medium",
+  "app": [
+    "Clock"
+  ],
+  "category": [],
+  "design_description": "task rewritten in English. Four deterministic alarms are seeded, including Evening. Evaluation checks the three renames, the two disabled alarms, and the Evening vibration plus daily repeat changes."
+}

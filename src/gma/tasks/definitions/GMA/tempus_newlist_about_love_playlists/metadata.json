@@ -1,0 +1,9 @@
+{
+  "task_name": "tempus_newlist_about_love_playlists",
+  "difficulty": "medium",
+  "app": [
+    "Tempus"
+  ],
+  "category": [],
+  "design_description": "task uses verified catalog tracks in place of unavailable source task titles, preserving the create, add, star, rename, and second playlist workflow with supported Tempus assets."
+}

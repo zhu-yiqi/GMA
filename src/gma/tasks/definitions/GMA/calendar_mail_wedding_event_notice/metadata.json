@@ -1,0 +1,10 @@
+{
+  "task_name": "calendar_mail_wedding_event_notice",
+  "difficulty": "medium",
+  "app": [
+    "Calendar",
+    "Mail"
+  ],
+  "category": [],
+  "design_description": "task rewritten in English; the original non-English mail body is replaced with an English exact body to satisfy the batch language rule. Evaluation checks the Calendar event and sent Mail message."
+}

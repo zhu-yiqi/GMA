@@ -1,0 +1,9 @@
+{
+  "task_name": "xiaoshiliu_delete_latest_post",
+  "difficulty": "easy",
+  "app": [
+    "XiaoShiLiu"
+  ],
+  "category": [],
+  "design_description": "task conversion. The task seeds three owner posts with deterministic timestamps and task-local generated images so the most recent post is unambiguous. AssetDeleted verifies removal of the latest post titled Rainy Walk Snapshot."
+}

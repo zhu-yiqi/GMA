@@ -1,0 +1,10 @@
+{
+  "task_name": "contacts_update_wendy_message_liam_flight_time",
+  "difficulty": "medium",
+  "app": [
+    "Contacts",
+    "Messages"
+  ],
+  "category": [],
+  "design_description": "Resolves the source task recipient mismatch to the initialized Liam Carter contact and verifies both the Wendy Parker contact update and exact sent SMS."
+}

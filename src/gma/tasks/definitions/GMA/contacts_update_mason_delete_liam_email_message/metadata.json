@@ -1,0 +1,10 @@
+{
+  "task_name": "contacts_update_mason_delete_liam_email_message",
+  "difficulty": "medium",
+  "app": [
+    "Contacts",
+    "Messages"
+  ],
+  "category": [],
+  "design_description": "Uses deterministic English contacts; Liam Carter has no other requested final change, so AssetModified enforces that the old email-bearing contact state no longer matches before verifying the SMS."
+}

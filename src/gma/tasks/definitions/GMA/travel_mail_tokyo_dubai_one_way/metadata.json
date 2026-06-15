@@ -1,0 +1,10 @@
+{
+  "task_name": "travel_mail_tokyo_dubai_one_way",
+  "difficulty": "hard",
+  "app": [
+    "Travel",
+    "Mail"
+  ],
+  "category": [],
+  "design_description": "task requires one deterministic one-way Travel flight booking plus an exact Mail message."
+}

@@ -1,0 +1,9 @@
+{
+  "task_name": "meituan_add_alan_office_delivery_address",
+  "difficulty": "easy",
+  "app": [
+    "Meituan"
+  ],
+  "category": [],
+  "design_description": "No initial address is seeded. The expected MeituanAddressAsset checks the exact recipient, phone, street, apartment/detail, and Office label."
+}

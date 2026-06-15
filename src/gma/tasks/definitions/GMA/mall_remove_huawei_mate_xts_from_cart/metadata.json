@@ -1,0 +1,9 @@
+{
+  "task_name": "mall_remove_huawei_mate_xts_from_cart",
+  "difficulty": "easy",
+  "app": [
+    "Mall"
+  ],
+  "category": [],
+  "design_description": "The source task's second-cart-item request is converted to a deterministic concrete item because cart UI order can vary. Two existing Mall catalog products are placed in the cart: HUAWEI Mate 80 Pro (1258669) and HUAWEI Mate XTs Ultimate Design (48796328). The task asks the agent to remove the Mate XTs item and leave the Mate 80 Pro item. Evaluation checks the target cart item no longer matches active expected state and the retained item still exists."
+}

@@ -1,0 +1,10 @@
+{
+  "task_name": "xiaoshiliu_create_happy_photography_post",
+  "difficulty": "medium",
+  "app": [
+    "XiaoShiLiu",
+    "Gallery"
+  ],
+  "category": [],
+  "design_description": "task rewritten in English. A task-specific generated image is placed in Gallery for upload. Evaluation checks the created XiaoShiLiu post plus like and bookmark on that post."
+}

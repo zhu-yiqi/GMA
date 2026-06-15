@@ -1,0 +1,9 @@
+{
+  "task_name": "xiaoshiliu_reply_study_notes_comment_good",
+  "difficulty": "easy",
+  "app": [
+    "XiaoShiLiu"
+  ],
+  "category": [],
+  "design_description": "Seeds exactly one owner XiaoShiLiu post with a generated task-local image, plus a Study Notes Pro comment. The public goal keeps the profile-first-post workflow and quotes the exact reply; AssetExists verifies the threaded reply by the logged-in owner."
+}

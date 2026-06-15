@@ -1,0 +1,13 @@
+{
+  "task_name": "clock_elementx_bbq_group_xsl",
+  "difficulty": "hard",
+  "app": [
+    "Clock",
+    "ElementX",
+    "XiaoShiLiu"
+  ],
+  "category": [
+    "Selection / Optimization Tasks"
+  ],
+  "design_description": "task omits unsupported alarm start/end date fields and keeps the supported weekly Saturday alarm, ElementX group with exact group message, and XiaoShiLiu saves for liked notes."
+}

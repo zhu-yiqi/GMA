@@ -1,0 +1,10 @@
+{
+  "task_name": "contacts_rename_ryan_1486_message",
+  "difficulty": "medium",
+  "app": [
+    "Contacts",
+    "Messages"
+  ],
+  "category": [],
+  "design_description": "task seeds two Ryan Walker contacts so the 1486 suffix resolves the target. Evaluation checks the rename/label edit and the exact sent SMS."
+}

@@ -1,0 +1,12 @@
+{
+  "task_name": "elementx_third_poll_results_new_poll_email",
+  "difficulty": "medium",
+  "app": [
+    "ElementX",
+    "Mail"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ],
+  "design_description": "task seeds three group chats and a deterministic previous poll in the third room. Evaluation checks the @room notice, new poll, and exact email containing the previous poll results."
+}

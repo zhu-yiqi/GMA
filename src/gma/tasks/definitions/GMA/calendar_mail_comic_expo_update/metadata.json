@@ -1,0 +1,10 @@
+{
+  "task_name": "calendar_mail_comic_expo_update",
+  "difficulty": "hard",
+  "app": [
+    "Calendar",
+    "Mail"
+  ],
+  "category": [],
+  "design_description": "task rewritten with English event text. A seeded birthday event is modified into the comic expo event and a sent Mail message with exact subject/body is evaluated."
+}

@@ -1,0 +1,10 @@
+{
+  "task_name": "meituan_three_store_favorites_message",
+  "difficulty": "hard",
+  "app": [
+    "Meituan",
+    "Messages"
+  ],
+  "category": [],
+  "design_description": "Uses three existing Meituan stores across Food, Supermarket, and Fresh Produce, plus an English SMS recipient. Evaluation checks all three Meituan favorites and the exact sent message."
+}

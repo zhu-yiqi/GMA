@@ -1,0 +1,10 @@
+{
+  "task_name": "travel_elementx_amsterdam_hotel_pinned",
+  "difficulty": "hard",
+  "app": [
+    "Travel",
+    "ElementX"
+  ],
+  "category": [],
+  "design_description": "task binds the Amsterdam hotel to Canal Ring Hotel, makes Jordan Miller's email and phone country code explicit, makes the room choice explicit as Family Room room 1 with 2 Double Beds, and checks the booking plus pinned ElementX message."
+}

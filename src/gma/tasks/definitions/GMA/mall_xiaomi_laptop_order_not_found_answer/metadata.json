@@ -1,0 +1,12 @@
+{
+  "task_name": "mall_xiaomi_laptop_order_not_found_answer",
+  "difficulty": "medium",
+  "app": [
+    "Mall"
+  ],
+  "category": [
+    "Invalid-Instruction Tasks"
+  ],
+  "design_description": "The requested purchased Xiaomi laptop order is absent. The task now expects the agent to detect that, ask the user, receive a feasible fallback, and confirm receipt for a seeded Samsung TV order.",
+  "row": 153
+}

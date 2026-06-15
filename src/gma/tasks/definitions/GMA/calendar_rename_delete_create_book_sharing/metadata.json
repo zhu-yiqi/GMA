@@ -1,0 +1,11 @@
+{
+  "task_name": "calendar_rename_delete_create_book_sharing",
+  "difficulty": "medium",
+  "app": [
+    "Calendar"
+  ],
+  "category": [
+    "Information-Gathering Tasks"
+  ],
+  "design_description": "task rewritten in English. Event 12 and Ta are seeded. The new event date is intentionally omitted from the public goal and supplied by user_interaction as October 20, 2026. Evaluation checks rename, deletion, and creation."
+}

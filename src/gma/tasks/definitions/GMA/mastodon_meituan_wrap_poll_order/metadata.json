@@ -1,0 +1,10 @@
+{
+  "task_name": "mastodon_meituan_wrap_poll_order",
+  "difficulty": "medium",
+  "app": [
+    "Mastodon",
+    "Meituan"
+  ],
+  "category": [],
+  "design_description": "task normalizes the two food names to the exact existing McDonald's catalog spellings and seeds a single Company address for deterministic default checkout. Evaluation checks both the poll and the completed Meituan order."
+}

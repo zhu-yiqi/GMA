@@ -1,0 +1,12 @@
+{
+  "task_name": "mastodon_xsl_elementx_end_world_post",
+  "difficulty": "hard",
+  "app": [
+    "Mastodon",
+    "XiaoShiLiu",
+    "Gallery",
+    "ElementX"
+  ],
+  "category": [],
+  "design_description": "task uses a deterministic Mastodon edit, a generated gallery image for the XiaoShiLiu post, and a seeded ElementX group fallback."
+}
