@@ -5,7 +5,7 @@ from gma.apps.xiaoshiliu import XIAOSHILIU_DEFAULT_AVATAR, XIAOSHILIU_LOGIN_USER
 from gma.assets import ContactAsset, MallMemberAsset, SmsMessageAsset, XiaoShiLiuCollectionAsset, XiaoShiLiuPostAsset, XiaoShiLiuUserAsset
 from gma.evaluation import AssetExists
 from gma.tasks.base import BaseTask
-from gma.tasks.definitions.tests.mall._criteria import MallProductFavorited
+from gma.evaluation.checks.mall import MallProductFavorited
 
 
 PRODUCT_SN = "JNW6WYGVKF"

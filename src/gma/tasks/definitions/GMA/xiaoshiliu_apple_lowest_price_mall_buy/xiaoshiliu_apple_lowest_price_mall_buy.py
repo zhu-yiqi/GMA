@@ -3,7 +3,7 @@ from __future__ import annotations
 from gma.apps.mall import MALL_LOGIN_CITY, MALL_LOGIN_NICKNAME, MALL_LOGIN_PHONE, MALL_LOGIN_USERNAME
 from gma.apps.xiaoshiliu import XIAOSHILIU_DEFAULT_AVATAR
 from gma.assets import MallAddressAsset, MallMemberAsset, XiaoShiLiuPostAsset, XiaoShiLiuUserAsset
-from gma.tasks.definitions.tests.mall._criteria import MallCheckoutOrderCreated
+from gma.evaluation.checks.mall import MallCheckoutOrderCreated
 from gma.tasks.base import BaseTask
 
 

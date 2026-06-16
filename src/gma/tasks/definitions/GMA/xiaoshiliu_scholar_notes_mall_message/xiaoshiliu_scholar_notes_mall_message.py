@@ -5,7 +5,7 @@ from gma.apps.xiaoshiliu import XIAOSHILIU_DEFAULT_AVATAR, XIAOSHILIU_LOGIN_USER
 from gma.assets import ContactAsset, MallAddressAsset, MallMemberAsset, SmsMessageAsset, XiaoShiLiuLikeAsset, XiaoShiLiuPostAsset, XiaoShiLiuUserAsset, XiaoShiLiuFollowAsset
 from gma.evaluation import AssetExists, AssetMissing
 from gma.tasks.base import BaseTask
-from gma.tasks.definitions.tests.mall._criteria import MallCheckoutOrderCreated
+from gma.evaluation.checks.mall import MallCheckoutOrderCreated
 
 
 SCHOLAR_ID = "w4-row204-scholar-notes"

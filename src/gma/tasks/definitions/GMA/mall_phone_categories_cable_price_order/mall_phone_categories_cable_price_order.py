@@ -4,7 +4,7 @@ from gma.apps.mall import MALL_LOGIN_CITY, MALL_LOGIN_NICKNAME, MALL_LOGIN_PHONE
 from gma.assets import MallAddressAsset, MallMemberAsset
 from gma.evaluation import AnswerEquals
 from gma.tasks.base import BaseTask
-from gma.tasks.definitions.tests.mall._criteria import MallCheckoutOrderCreated
+from gma.evaluation.checks.mall import MallCheckoutOrderCreated
 
 
 CABLE_SN = "5689"

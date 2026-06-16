@@ -5,7 +5,7 @@ from gma.apps.xiaoshiliu import XIAOSHILIU_DEFAULT_AVATAR, XIAOSHILIU_LOGIN_USER
 from gma.assets import MallAddressAsset, MallMemberAsset, MastodonAccountAsset, MastodonStatusAsset, XiaoShiLiuCollectionAsset, XiaoShiLiuPostAsset, XiaoShiLiuUserAsset
 from gma.evaluation import AssetDeleted, AssetExists
 from gma.tasks.base import BaseTask
-from gma.tasks.definitions.tests.mall._criteria import MallCheckoutOrderCreated
+from gma.evaluation.checks.mall import MallCheckoutOrderCreated
 
 
 PRODUCT_SN = "HRF-A52XF1BU1"

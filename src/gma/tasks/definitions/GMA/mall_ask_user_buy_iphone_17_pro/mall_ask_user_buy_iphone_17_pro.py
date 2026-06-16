@@ -3,7 +3,7 @@ from __future__ import annotations
 from gma.apps.mall import MALL_LOGIN_CITY, MALL_LOGIN_NICKNAME, MALL_LOGIN_PHONE, MALL_LOGIN_USERNAME
 from gma.assets import MallAddressAsset, MallMemberAsset
 from gma.tasks.base import BaseTask
-from gma.tasks.definitions.tests.mall._criteria import MallCheckoutOrderCreated
+from gma.evaluation.checks.mall import MallCheckoutOrderCreated
 
 
 IPHONE_17_PRO_SN = "JNW6WYGVKF"

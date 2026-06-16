@@ -3,7 +3,7 @@ from __future__ import annotations
 
 from gma.apps.mall import MALL_LOGIN_CITY, MALL_LOGIN_NICKNAME, MALL_LOGIN_PHONE, MALL_LOGIN_USERNAME
 from gma.assets import MallMemberAsset, MastodonAccountAsset, MastodonFollowAsset, MastodonSessionAsset, MastodonStatusAsset
-from gma.tasks.definitions.tests.mall._criteria import MallProductFavorited
+from gma.evaluation.checks.mall import MallProductFavorited
 from gma.evaluation import AssetExists
 from gma.tasks.base import BaseTask
 
