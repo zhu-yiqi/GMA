@@ -91,6 +91,24 @@ Stop all GMA environments:
 ./.venv/bin/gma env down
 ```
 
+## Operate A Remote Emulator From A Local Laptop
+
+noVNC lets you operate a remote emulator from a local browser without local ADB. Start the environment on the remote server, then create an SSH tunnel from your laptop.
+
+For env 0:
+
+```bash
+ssh -N -L 5920:localhost:5920 -L 8100:localhost:8100 <remote-server>
+```
+
+Then open:
+
+```text
+http://localhost:5920/vnc.html
+```
+
+For env `N`, forward `5920 + N` for noVNC and `8100 + N` for the backend. The backend port is only needed if you want to run local `gma manual` or `gma eval`; for browser-only operation, forwarding the noVNC port is enough.
+
 ## Run A Manual Task
 
 List available tasks:
@@ -102,7 +120,7 @@ List available tasks:
 Initialize a task in one environment and manually operate the emulator:
 
 ```bash
-./.venv/bin/gma manual ElementXSendLongTimeNoSeeJordanTask --url http://localhost:8101
+./.venv/bin/gma manual ElementXSendLongTimeNoSeeJordanTask --url http://localhost:8100
 ```
 
 Inside the manual shell, use:
