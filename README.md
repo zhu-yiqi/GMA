@@ -22,13 +22,6 @@ pip install uv
 uv sync
 ```
 
-Check that the CLI works:
-
-```bash
-./.venv/bin/gma --help
-./.venv/bin/gma env check
-```
-
 ## Download And Load The Docker Image
 
 Download `gma-image.tar.gz` from the ModelScope repo `StephenZhu0218/GMA`. With the ModelScope CLI, one typical command is:
@@ -58,6 +51,16 @@ docker tag <loaded-image-id-or-tag> gma:ready
 ```
 
 ## Start GMA Environments
+
+Before starting containers, load the host kernel NAT/iptables modules. This is required because GMA containers use Docker-in-Docker and rely on host NAT routing support. Run this on the host after boot and before `gma env up`:
+
+```bash
+sudo modprobe ip_tables
+sudo modprobe iptable_nat
+sudo modprobe iptable_filter
+```
+
+If you are already root, omit `sudo`.
 
 Start one environment:
 
